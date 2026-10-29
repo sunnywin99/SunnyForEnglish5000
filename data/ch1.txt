@@ -1,0 +1,555 @@
+#1|人物身份|People & Identities
+@人生階段
+baby|/ˈbeɪbi/|n.|嬰兒
+child|/tʃaɪld/|n.|兒童
+teenager|/ˈtiːneɪdʒə(r)/|n.|青少年
+adult|/ˈædʌlt/|n.|成年人
+senior|/ˈsiːniə(r)/|n.|老年人
+@家庭角色
+parent|/ˈpeərənt/|n.|家長
+father|/ˈfɑːðə(r)/|n.|父親
+mother|/ˈmʌðə(r)/|n.|母親
+son|/sʌn/|n.|兒子
+daughter|/ˈdɔːtə(r)/|n.|女兒
+@學校身份
+pupil|/ˈpjuːpl/|n.|小學生
+student|/ˈstjuːdənt/|n.|學生
+monitor|/ˈmɒnɪtə(r)/|n.|班長
+classmate|/ˈklɑːsmeɪt/|n.|同班同學
+teammate|/ˈtiːmmeɪt/|n.|隊友
+@社會角色
+neighbor|/ˈneɪbə(r)/|n.|鄰居
+friend|/frend/|n.|朋友
+visitor|/ˈvɪzɪtə(r)/|n.|訪客
+customer|/ˈkʌstəmə(r)/|n.|顧客
+passenger|/ˈpæsɪndʒə(r)/|n.|乘客
+@興趣身份
+reader|/ˈriːdə(r)/|n.|讀者
+player|/ˈpleɪə(r)/|n.|選手
+dancer|/ˈdɑːnsə(r)/|n.|舞者
+runner|/ˈrʌnə(r)/|n.|跑步者
+singer|/ˈsɪŋə(r)/|n.|歌手
+@職業身份
+teacher|/ˈtiːtʃə(r)/|n.|教師
+learn from a teacher|||跟老師學習
+nurse|/nɜːs/|n.|護士
+doctor|/ˈdɒktə(r)/|n.|醫生
+see a doctor|||看醫生
+#2|身體部位|Body Parts
+@身體結構
+body|/ˈbɒdi/|n.|身體
+head|/hed/|n.|頭
+neck|/nek/|n.|脖子
+shoulder|/ˈʃəʊldə(r)/|n.|肩膀
+back|/bæk/|n.|背部
+@上肢
+arm|/ɑːm/|n.|手臂
+elbow|/ˈelbəʊ/|n.|手肘
+wrist|/rɪst/|n.|手腕
+hand|/hænd/|n.|手
+finger|/ˈfɪŋɡə(r)/|n.|手指
+@下肢
+leg|/leɡ/|n.|腿
+knee|/niː/|n.|膝蓋
+ankle|/ˈæŋkl/|n.|腳踝
+foot|/fʊt/|n.|腳
+heel|/hiːl/|n.|腳後跟
+@面部
+face|/feɪs/|n.|臉
+forehead|/ˈfɔːhed/|n.|額頭
+cheek|/tʃiːk/|n.|臉頰
+kiss on the cheek|||親吻臉頰
+chin|/tʃɪn/|n.|下巴
+@感知器官
+eye|/aɪ/|n.|眼睛
+ear|/ɪə(r)/|n.|耳朵
+nose|/nəʊz/|n.|鼻子
+mouth|/maʊθ/|n.|嘴
+tongue|/tʌŋ/|n.|舌頭
+@內部器官
+brain|/breɪn/|n.|大腦
+heart|/hɑːt/|n.|心臟
+lung|/lʌŋ/|n.|肺
+liver|/ˈlɪvə(r)/|n.|肝臟
+stomach|/ˈstʌmək/|n.|胃
+#3|外貌特徵|Physical Appearance
+@整體外觀
+stylish|/ˈstaɪlɪʃ/|adj.|時尚的
+look stylish|||看起來時尚
+on trend|||緊跟潮流的
+edgy|/ˈedʒi/|adj.|前衛的
+an edgy style|||一種前衛風格
+@身高體型
+tall|/tɔːl/|adj.|高的
+short|/ʃɔːt/|adj.|矮的
+slim-built|||身材瘦的
+well-built|||身材結實的
+look well-built|||看起來身材結實
+@髮型髮色
+wavy|/ˈweɪvi/|adj.|波浪形的
+wavy hair|||捲髮（波浪大捲）
+curly|/ˈkɜːli/|adj.|捲曲的
+curly hair|||捲髮（彈簧小捲）
+with bangs|||有瀏海的
+@體態氣質
+slim|/slɪm/|adj.|苗條的
+stay slim|||保持苗條
+fit|/fɪt/|adj.|健美的
+keep fit|||保持健美
+graceful|/ˈɡreɪsfl/|adj.|優雅的
+@膚色膚質
+fair|/feə(r)/|adj.|白皙的
+tanned|/tænd/|adj.|曬黑的
+get tanned|||曬黑
+rosy|/ˈrəʊzi/|adj.|紅潤的
+rosy cheeks|||紅潤臉頰
+@皮膚瑕疵
+pimple|/ˈpɪmpl/|n.|青春痘
+get pimples|||長痘
+mole|/məʊl/|n.|痣
+birthmark|/ˈbɜːθmɑːk/|n.|胎記
+scar|/skɑː(r)/|n.|疤痕
+#4|面部特徵|Facial Features
+@臉型輪廓
+round|/raʊnd/|adj.|圓的
+a round face|||圓臉
+square|/skweə(r)/|adj.|方的
+oval|/ˈəʊvl/|adj.|鵝蛋形的
+a thin face|||瘦削的臉
+@眉毛特徵
+eyebrow|/ˈaɪbraʊ/|n.|眉毛
+thick|/θɪk/|adj.|濃密的
+thin|/θɪn/|adj.|稀疏的
+thick eyebrows|||濃眉
+arched eyebrows|||挑眉
+@眼部特徵
+narrow|/ˈnærəʊ/|adj.|狹長的
+wide|/waɪd/|adj.|寬大的
+bright|/braɪt/|adj.|明亮的
+big eyes|||大眼睛
+sleepy eyes|||沒睡醒的眼睛
+@鼻子特徵
+bridge|/brɪdʒ/|n.|鼻樑
+tip of the nose|||鼻尖
+nostril|/ˈnɒstrəl/|n.|鼻孔
+pointed|/ˈpɔɪntɪd/|adj.|尖的
+a pointed nose|||尖鼻子
+@鬍鬚樣式
+beard|/bɪəd/|n.|鬍鬚
+grow a beard|||留鬍子
+moustache|/məˈstɑːʃ/|n.|八字鬍
+have a mustache|||留八字鬍
+whiskers|/ˈwɪskəz/|n.|絡腮鬍子
+@嘴部特徵
+lip|/lɪp/|n.|嘴唇
+tooth|/tuːθ/|n.|牙齒
+full|/fʊl/|adj.|豐滿的
+full lips|||豐滿的嘴唇
+crooked teeth|||不整齊的牙齒
+#5|基礎穿戴|Clothes & Accessories
+@穿戴風格
+formal|/ˈfɔːml/|adj.|正式的
+casual|/ˈkæʒuəl/|adj.|休閒的
+plain|/pleɪn/|adj.|樸素的
+sporty|/ˈspɔːti/|adj.|運動風格的
+fashionable|/ˈfæʃnəbl/|adj.|時髦的
+@隨身物件
+key|/kiː/|n.|鑰匙
+wallet|/ˈwɒlɪt/|n.|錢包
+cash|/kæʃ/|n.|現金
+ID card|||身分證
+passport|/ˈpɑːspɔːt/|n.|護照
+@佩戴位置
+have a hat on|||戴著帽子
+in red|||穿著紅色衣服
+put over a coat|||套上外套
+tie around waist|||繫腰上
+lay across chest|||搭在胸前
+@穿脫動作
+put on|||穿上；戴上
+take off|||脫下
+tuck in|||把……塞入
+roll up|||捲起（袖子／褲腿）
+hang up|||掛起
+@衣物狀態
+clean|/kliːn/|adj.|乾淨的
+neat|/niːt/|adj.|整潔的
+stained|/steɪnd/|adj.|有污漬的
+dirty|/ˈdɜːti/|adj.|髒的
+torn|/tɔːn/|adj.|破損的
+@舊物處理
+sort|/sɔːt/|v.|整理
+fold|/fəʊld/|v.|折疊
+sew|/səʊ/|v.|縫補
+donate|/dəʊˈneɪt/|v.|捐贈
+sell|/sel/|v.|出售
+#6|日常動作|Daily Actions
+@身體姿態
+stand|/stænd/|v.|站立
+sit|/sɪt/|v.|坐
+kneel|/niːl/|v.|跪下
+lean|/liːn/|v.|倚靠
+lie|/laɪ/|v.|躺
+@頭部動作
+nod|/nɒd/|v.|點頭
+shake|/ʃeɪk/|v.|搖頭
+turn|/tɜːn/|v.|轉（頭）
+bow|/baʊ/|v.|鞠躬
+bow to the teacher|||向老師鞠躬
+@手部操作
+hold|/həʊld/|v.|握住
+pick|/pɪk/|v.|撿起
+carry|/ˈkæri/|v.|提；搬
+push|/pʊʃ/|v.|推
+pull|/pʊl/|v.|拉
+@腿部動作
+step|/step/|v.|邁步
+walk|/wɔːk/|v.|走
+run|/rʌn/|v.|跑
+jump|/dʒʌmp/|v.|跳躍
+kick|/kɪk/|v.|踢
+@睡眠動作
+yawn|/jɔːn/|v.|打哈欠
+stay awake|||保持清醒
+nap|/næp/|v.|打盹
+fall asleep|||入睡
+snore|/snɔː(r)/|v.|打鼾
+@互動動作
+approach|/əˈprəʊtʃ/|v.|接近
+wave|/weɪv/|v.|揮手
+pat|/pæt/|v.|輕拍
+hug|/hʌɡ/|v.|擁抱
+kiss|/kɪs/|v.|親吻
+#7|學習活動|Learning Activities
+@課堂出勤
+attend|/əˈtend/|v.|出席
+present|/ˈpreznt/|adj.|出席的
+late|/leɪt/|adj.|遲到的
+absent|/ˈæbsənt/|adj.|缺席的
+skip class|||翹課
+@考試測驗
+quiz|/kwɪz/|n.|小測驗
+test|/test/|n.|測驗
+exam|/ɪɡˈzæm/|n.|考試
+midterm|/ˌmɪdˈtɜːm/|n.|期中考試
+final|/ˈfaɪnl/|n.|期末考試
+@學習工具
+pencil|/ˈpensl/|n.|鉛筆
+pen|/pen/|n.|鋼筆
+marker|/ˈmɑːkə(r)/|n.|記號筆
+ink|/ɪŋk/|n.|墨水
+eraser|/ɪˈreɪzə(r)/|n.|橡皮擦
+@學習內容
+knowledge|/ˈnɒlɪdʒ/|n.|知識
+theory|/ˈθɪəri/|n.|理論
+practice|/ˈpræktɪs/|n.|實踐
+experiment|/ɪkˈsperɪmənt/|n.|實驗
+research|/rɪˈsɜːtʃ/|n.|研究
+@思維活動
+know|/nəʊ/|v.|知道；了解
+understand|/ˌʌndəˈstænd/|v.|理解
+think|/θɪŋk/|v.|思考
+analyze|/ˈænəlaɪz/|v.|分析
+doubt|/daʊt/|v.|懷疑
+@學習態度
+patient|/ˈpeɪʃnt/|adj.|有耐心的
+careful|/ˈkeəfl/|adj.|認真的
+focused|/ˈfəʊkəst/|adj.|專注的
+motivated|/ˈməʊtɪveɪtɪd/|adj.|有動力的
+lazy|/ˈleɪzi/|adj.|懶散的
+#8|交流表達|Interaction
+@話題開啟
+hello|/həˈləʊ/|int.|你好
+hi|/haɪ/|int.|嗨
+hey|/heɪ/|int.|嘿；喂
+meet|/miːt/|v.|遇見
+welcome|/ˈwelkəm/|v.|歡迎
+@對話行為
+hear|/hɪə(r)/|v.|聽見
+reply|/rɪˈplaɪ/|v.|回答
+pardon|/ˈpɑːdn/|int.|請再說一遍
+explain|/ɪkˈspleɪn/|v.|解釋
+interrupt|/ˌɪntəˈrʌpt/|v.|打斷；插嘴
+@意見表達
+agree|/əˈɡriː/|v.|同意
+disagree|/ˌdɪsəˈɡriː/|v.|不同意
+suggest|/səˈdʒest/|v.|建議
+accept|/əkˈsept/|v.|接受
+refuse|/rɪˈfjuːz/|v.|拒絕
+@禮貌用語
+please|/pliːz/|int.|請
+thank|/θæŋk/|v.|感謝
+excuse|/ɪkˈskjuːz/|v.|原諒
+apologize|/əˈpɒlədʒaɪz/|v.|道歉
+congratulate|/kənˈɡrætʃuleɪt/|v.|祝賀
+@語氣態度
+friendly|/ˈfrendli/|adj.|友好的
+pleasant|/ˈpleznt/|adj.|令人愉快的
+humorous|/ˈhjuːmərəs/|adj.|幽默的
+sincere|/sɪnˈsɪə(r)/|adj.|真誠的
+serious|/ˈsɪəriəs/|adj.|嚴肅的
+@非語言交流
+glance|/ɡlɑːns/|v.|瞥一眼
+smile|/smaɪl/|v.|微笑
+clap|/klæp/|v.|拍手
+touch|/tʌtʃ/|v.|觸摸
+hit|/hɪt/|v.|擊打
+#9|情緒感受|Emotions & Feelings
+@積極情緒
+happy|/ˈhæpi/|adj.|快樂的
+excited|/ɪkˈsaɪtɪd/|adj.|興奮的
+proud|/praʊd/|adj.|自豪的
+satisfied|/ˈsætɪsfaɪd/|adj.|滿意的
+hopeful|/ˈhəʊpfl/|adj.|充滿希望的
+@消極情緒
+sad|/sæd/|adj.|悲傷的
+lonely|/ˈləʊnli/|adj.|孤獨的
+afraid|/əˈfreɪd/|adj.|害怕的
+angry|/ˈæŋɡri/|adj.|生氣的
+hate|/heɪt/|v.|憎恨
+@中性情緒
+calm|/kɑːm/|adj.|平靜的
+relaxed|/rɪˈlækst/|adj.|放鬆的
+curious|/ˈkjʊəriəs/|adj.|好奇的
+blank|/blæŋk/|adj.|茫然的
+normal|/ˈnɔːml/|adj.|平常的
+@壓力焦慮
+anxious|/ˈæŋkʃəs/|adj.|焦慮的
+upset|/ʌpˈset/|adj.|心煩的
+busy|/ˈbɪzi/|adj.|忙亂的
+nervous|/ˈnɜːvəs/|adj.|緊張的
+struggle|/ˈstrʌɡl/|v.|掙扎
+@驚喜期待
+amazing|/əˈmeɪzɪŋ/|adj.|令人驚嘆的
+wonderful|/ˈwʌndəfl/|adj.|絕妙的
+wow|/waʊ/|int.|哇（表示驚訝）
+luck|/lʌk/|n.|運氣
+miracle|/ˈmɪrəkl/|n.|奇蹟
+@情緒調節
+control|/kənˈtrəʊl/|v.|控制
+breathe|/briːð/|v.|呼吸
+rest|/rest/|v.|休息
+express|/ɪkˈspres/|v.|表達
+calm down|||平靜下來
+#10|性格特點|Personality
+@積極性格
+kind|/kaɪnd/|adj.|善良的
+friendly|/ˈfrendli/|adj.|友好的
+polite|/pəˈlaɪt/|adj.|有禮貌的
+brave|/breɪv/|adj.|勇敢的
+confident|/ˈkɒnfɪdənt/|adj.|自信的
+@消極性格
+selfish|/ˈselfɪʃ/|adj.|自私的
+mean|/miːn/|adj.|刻薄的
+rude|/ruːd/|adj.|粗魯的
+careless|/ˈkeələs/|adj.|粗心的
+dishonest|/dɪsˈɒnɪst/|adj.|不誠實的
+@社交性格
+shy|/ʃaɪ/|adj.|害羞的
+quiet|/ˈkwaɪət/|adj.|安靜的
+open|/ˈəʊpən/|adj.|開放的
+social|/ˈsəʊʃl/|adj.|愛交際的
+outgoing|/ˈaʊtɡəʊɪŋ/|adj.|外向的
+@做事風格
+careful|/ˈkeəfl/|adj.|細心的
+organized|/ˈɔːɡənaɪzd/|adj.|有條理的
+direct|/dəˈrekt/|adj.|直接的
+fast|/fɑːst/|adj.|迅速的
+wild|/waɪld/|adj.|魯莽的
+@思維特點
+creative|/kriˈeɪtɪv/|adj.|有創造力的
+logical|/ˈlɒdʒɪkl/|adj.|有邏輯的
+deep|/diːp/|adj.|深刻的
+stubborn|/ˈstʌbən/|adj.|固執的
+fixed|/fɪkst/|adj.|固化的
+@道德品質
+good|/ɡʊd/|adj.|好的
+pure|/pjʊə(r)/|adj.|純潔的
+bad|/bæd/|adj.|壞的
+cruel|/ˈkruːəl/|adj.|殘忍的
+evil|/ˈiːvl/|adj.|邪惡的
+#11|能力特長|Abilities & Talents
+@學習能力
+ability|/əˈbɪləti/|n.|能力
+talent|/ˈtælənt/|n.|天賦
+read|/riːd/|v.|閱讀
+count|/kaʊnt/|v.|計算
+solve|/sɒlv/|v.|解決（問題）
+@運動能力
+strong|/strɒŋ/|adj.|強壯的
+power|/ˈpaʊə(r)/|n.|力量
+throw|/θrəʊ/|v.|投
+catch|/kætʃ/|v.|接住
+swim|/swɪm/|v.|游泳
+@藝術特長
+draw|/drɔː/|v.|畫畫
+design|/dɪˈzaɪn/|v.|設計
+sing|/sɪŋ/|v.|唱歌
+play|/pleɪ/|v.|演奏；表演
+dance|/dɑːns/|v.|跳舞
+@動手能力
+repair|/rɪˈpeə(r)/|v.|修理
+build|/bɪld/|v.|建造
+cook|/kʊk/|v.|烹飪
+wash|/wɒʃ/|v.|洗滌
+plant|/plɑːnt/|v.|種植
+@生活技能
+save|/seɪv/|v.|儲蓄
+manage|/ˈmænɪdʒ/|v.|經營
+drive|/draɪv/|v.|駕駛
+park|/pɑːk/|v.|停車
+check|/tʃek/|v.|檢查
+@綜合素質
+lead|/liːd/|v.|領導
+adapt|/əˈdæpt/|v.|適應
+share|/ʃeə(r)/|v.|分享
+flexible|/ˈfleksəbl/|adj.|靈活的
+team|/tiːm/|n.|團隊
+#12|家庭成員|Family Members
+@核心家庭
+dad|/dæd/|n.|爸爸
+mom|/mɒm/|n.|媽媽
+husband|/ˈhʌzbənd/|n.|丈夫
+wife|/waɪf/|n.|妻子
+kid|/kɪd/|n.|小孩
+@兄弟姐妹
+sibling|/ˈsɪblɪŋ/|n.|兄弟姐妹
+brother|/ˈbrʌðə(r)/|n.|兄弟
+sister|/ˈsɪstə(r)/|n.|姐妹
+twin|/twɪn/|n.|雙胞胎之一
+twin brother|||雙胞胎兄弟
+@祖輩成員
+grandparent|/ˈɡrænpeərənt/|n.|祖父母
+grandfather|/ˈɡrænfɑːðə(r)/|n.|祖父
+grandmother|/ˈɡrænmʌðə(r)/|n.|祖母
+grandson|/ˈɡrænsʌn/|n.|孫子
+granddaughter|/ˈɡrændɔːtə(r)/|n.|孫女
+@旁系親屬
+uncle|/ˈʌŋkl/|n.|叔叔；伯伯
+aunt|/ɑːnt/|n.|姑母；姨母
+cousin|/ˈkʌzn/|n.|堂（表）兄弟姐妹
+nephew|/ˈnefjuː/|n.|姪子；外甥
+niece|/niːs/|n.|姪女；外甥女
+@姻親關係
+father-in-law|||岳父；公公
+mother-in-law|||岳母；婆婆
+son-in-law|||女婿
+daughter-in-law|||兒媳
+brother-in-law|||姐夫；妹夫
+@家庭稱謂
+honey|/ˈhʌni/|n.|親愛的
+dear|/dɪə(r)/|n.|親愛的
+daddy|/ˈdædi/|n.|爸爸（兒語）
+mummy|/ˈmʌmi/|n.|媽咪
+auntie|/ˈɑːnti/|n.|阿姨（暱稱）
+#13|朋友同伴|Friends & Peers
+@朋友類型
+friendship|/ˈfrendʃɪp/|n.|友誼
+peer|/pɪə(r)/|n.|同齡人
+partner|/ˈpɑːtnə(r)/|n.|搭檔
+mate|/meɪt/|n.|夥伴
+pal|/pæl/|n.|好朋友
+@相處行為
+visit|/ˈvɪzɪt/|v.|拜訪
+stay|/steɪ/|v.|停留
+care|/keə(r)/|v.|關心
+trust|/trʌst/|v.|信任
+fight|/faɪt/|v.|爭吵
+@友情品質
+value|/ˈvæljuː/|v.|重視
+real|/rɪəl/|adj.|真實的
+loyal|/ˈlɔɪəl/|adj.|忠誠的
+cheat|/tʃiːt/|v.|欺騙
+fool|/fuːl/|v.|愚弄
+@合作關係
+member|/ˈmembə(r)/|n.|成員
+group|/ɡruːp/|n.|團體
+competitor|/kəmˈpetɪtə(r)/|n.|競爭者
+opponent|/əˈpəʊnənt/|n.|對手
+enemy|/ˈenəmi/|n.|敵人
+@社交圈子
+schoolmate|/ˈskuːlmeɪt/|n.|校友
+colleague|/ˈkɒliːɡ/|n.|同事
+co-worker|||合作者
+fellow|/ˈfeləʊ/|n.|同伴
+boss|/bɒs/|n.|老闆
+@友情階段
+introduce|/ˌɪntrəˈdjuːs/|v.|介紹
+contact|/ˈkɒntækt/|v.|聯繫
+together|/təˈɡeðə(r)/|adv.|在一起
+separate|/ˈsepəreɪt/|v.|分開
+alone|/əˈləʊn/|adj.|獨自的
+#14|師生角色|Teachers & Students
+@教師職責
+teach|/tiːtʃ/|v.|教；講授
+prepare|/prɪˈpeə(r)/|v.|備課
+guide|/ɡaɪd/|v.|指導
+grade|/ɡreɪd/|v.|給……打分
+encourage|/ɪnˈkʌrɪdʒ/|v.|鼓勵
+@學生職責
+finish|/ˈfɪnɪʃ/|v.|完成
+review|/rɪˈvjuː/|v.|複習
+homework|/ˈhəʊmwɜːk/|n.|家庭作業
+task|/tɑːsk/|n.|作業
+duty|/ˈdjuːti/|n.|值日
+@課堂互動
+raise|/reɪz/|v.|舉起（手）
+question|/ˈkwestʃən/|n.|問題
+note|/nəʊt/|n.|筆記
+correct|/kəˈrekt/|v.|改正
+wrong|/rɒŋ/|adj.|錯誤的
+@管理層級
+headmaster|/ˌhedˈmɑːstə/|n.|校長
+staff|/stɑːf/|n.|教職員工
+school staff|||學校教職員工
+tutor|/ˈtjuːtə(r)/|n.|導師
+representative|/ˌreprɪˈzentətɪv/|n.|代表
+@獎勵懲罰
+praise|/preɪz/|v.|表揚
+award|/əˈwɔːd/|n.|獎勵
+honor|/ˈɒnə(r)/|n.|榮譽
+criticize|/ˈkrɪtɪsaɪz/|v.|批評
+blame|/bleɪm/|v.|責備
+@師生情誼
+respect|/rɪˈspekt/|v.|尊敬
+grateful|/ˈɡreɪtfl/|adj.|感激的
+miss|/mɪs/|v.|想念
+model|/ˈmɒdl/|n.|榜樣
+hero|/ˈhɪərəʊ/|n.|偶像
+#15|人物生活|Personal Daily Life
+@日常作息
+wake|/weɪk/|v.|醒來
+stretch|/stretʃ/|v.|伸懶腰
+drowsy|/ˈdraʊzi/|adj.|昏昏欲睡的
+stay up|||熬夜
+exhausted|/ɪɡˈzɔːstɪd/|adj.|精疲力竭的
+@生活節奏
+rush|/rʌʃ/|v.|匆忙行事
+urgent|/ˈɜːdʒənt/|adj.|緊急的
+spare|/speə(r)/|adj.|空閒的
+loose|/luːs/|adj.|寬鬆的
+balance|/ˈbæləns/|n.|平衡
+@時間分配
+weekday|/ˈwiːkdeɪ/|n.|工作日
+weekend|/ˈwiːkend/|n.|週末
+daily|/ˈdeɪli/|adj.|每日的
+weekly|/ˈwiːkli/|adj.|每週的
+holiday|/ˈhɒlədeɪ/|n.|假期
+@生活習慣
+shower|/ˈʃaʊə(r)/|n.|淋浴
+diet|/ˈdaɪət/|n.|飲食
+fitness|/ˈfɪtnəs/|n.|健身
+spending|/ˈspendɪŋ/|n.|開銷
+digital|/ˈdɪdʒɪtl/|adj.|數位的
+@生活瑣事
+errand|/ˈerənd/|n.|跑腿
+deliver|/dɪˈlɪvə(r)/|v.|遞送
+fee|/fiː/|n.|費用
+transfer|/trænsˈfɜː(r)/|v.|轉讓
+queue|/kjuː/|v.|排隊
+@生活態度
+positive|/ˈpɒzətɪv/|adj.|積極的
+optimistic|/ˌɒptɪˈmɪstɪk/|adj.|樂觀的
+negative|/ˈneɡətɪv/|adj.|消極的
+complain|/kəmˈpleɪn/|v.|抱怨
+organize|/ˈɔːɡənaɪz/|v.|規劃

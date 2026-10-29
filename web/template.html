@@ -1,0 +1,373 @@
+<title>Sunny 心智圖單字</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;800;900&family=Noto+Sans+TC:wght@400;500;700&display=swap">
+<style>
+/* Layout: sticky tab bar; theme view = mind map with a center cloud and six coloured branches (3 columns on desktop, stacked on phone). */
+:root{
+  --bg:#eef4fb; --paper:#ffffff; --ink:#1d2b3d; --muted:#5d6f86; --line:#d5e1ee;
+  --cloud:#2f6fb3; --cloud-ink:#ffffff; --accent:#2f6fb3;
+  --b1:#3f8a4f; --b2:#86a52a; --b3:#2f8fc4; --b4:#6a4fa3; --b5:#2c8c7c; --b6:#3b4f8f;
+  --ok:#2f8a4a; --ok-bg:#e3f4e7; --mid:#b07a00; --mid-bg:#fdf1d4; --no:#c2413b; --no-bg:#fbe4e2;
+  --font-en:"Nunito",ui-rounded,"Segoe UI",system-ui,sans-serif;
+  --font-zh:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1824; --paper:#172333; --ink:#e4edf7; --muted:#9db0c6; --line:#2a3a50;
+  --cloud:#3b7fc7; --cloud-ink:#ffffff; --accent:#6aa9ea;
+  --b1:#6cc07c; --b2:#b5d256; --b3:#5bb8ea; --b4:#a68be0; --b5:#5cc4b2; --b6:#8ea2e6;
+  --ok:#6fd08b; --ok-bg:#183626; --mid:#f0c25a; --mid-bg:#3a2f12; --no:#ff8a83; --no-bg:#3d1c1b;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1824; --paper:#172333; --ink:#e4edf7; --muted:#9db0c6; --line:#2a3a50;
+  --cloud:#3b7fc7; --cloud-ink:#ffffff; --accent:#6aa9ea;
+  --b1:#6cc07c; --b2:#b5d256; --b3:#5bb8ea; --b4:#a68be0; --b5:#5cc4b2; --b6:#8ea2e6;
+  --ok:#6fd08b; --ok-bg:#183626; --mid:#f0c25a; --mid-bg:#3a2f12; --no:#ff8a83; --no-bg:#3d1c1b;
+  color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-zh);font-size:16px;line-height:1.55}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,a:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1100px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:12px;padding-block:10px;flex-wrap:wrap}
+.brand{font-family:var(--font-en);font-weight:900;font-size:20px;color:var(--accent);margin-right:auto;white-space:nowrap}
+.brand small{font-family:var(--font-zh);font-weight:500;color:var(--muted);font-size:13px;margin-left:6px}
+nav{display:flex;gap:4px;overflow-x:auto}
+nav a{padding:6px 12px;border-radius:999px;text-decoration:none;color:var(--muted);font-weight:700;white-space:nowrap;font-size:15px}
+nav a.on{background:var(--cloud);color:var(--cloud-ink)}
+.sync{font-size:12px;color:var(--muted);white-space:nowrap}
+main{padding-block:20px 60px}
+h1,h2,h3{text-wrap:balance;margin:0}
+h2{font-size:22px}
+.lead{color:var(--muted);margin:4px 0 0}
+.grid{display:grid;gap:14px}
+.panel{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{text-decoration:none;display:inline-block;border:1px solid var(--line);background:var(--paper);padding:8px 14px;border-radius:10px;font-weight:700}
+.btn.primary{background:var(--cloud);color:var(--cloud-ink);border-color:var(--cloud)}
+.btn.sm{padding:4px 10px;font-size:14px}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:999px;background:var(--bg);color:var(--muted);font-weight:700}
+.tabular{font-variant-numeric:tabular-nums}
+
+/* today */
+.today{grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr))}
+.task{display:flex;gap:12px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.task:first-of-type{border-top:0}
+.task .num{font-family:var(--font-en);font-weight:900;font-size:22px;color:var(--accent);min-width:2.2em}
+.task .what{flex:1;min-width:0}
+.task .what b{display:block}
+.steps{margin:8px 0 0;padding-left:1.3em;color:var(--ink)}
+.steps li{margin:4px 0}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:6px}
+.stat{text-align:center;padding:8px 4px;border-radius:10px;background:var(--bg)}
+.stat b{display:block;font-family:var(--font-en);font-size:24px;font-weight:900}
+.stat span{font-size:12px;color:var(--muted)}
+.themes{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,190px),1fr));gap:10px}
+.tcard{display:block;text-decoration:none;color:inherit;background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.tcard .n{font-family:var(--font-en);font-weight:900;color:var(--accent)}
+.tcard .en{font-family:var(--font-en);font-size:13px;color:var(--muted)}
+.meter{height:6px;border-radius:3px;background:var(--bg);overflow:hidden;margin-top:6px;display:flex}
+.meter i{display:block;height:100%}
+
+/* theme view */
+.thead{display:flex;gap:12px;align-items:flex-end;flex-wrap:wrap;margin-bottom:12px}
+.thead .no{font-family:var(--font-en);font-weight:900;font-size:44px;line-height:1;color:var(--cloud)}
+.thead .t{flex:1;min-width:0}
+.modes{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}
+.modes button{border:1px solid var(--line);background:var(--paper);padding:6px 12px;border-radius:999px;font-weight:700;font-size:14px}
+.modes button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.hint{font-size:14px;color:var(--muted);margin:-6px 0 12px}
+.map{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:start}
+.map .cloud{grid-column:2;grid-row:1 / span 3;align-self:center;justify-self:center;background:var(--cloud);color:var(--cloud-ink);border-radius:46% 54% 50% 50% / 60% 55% 45% 40%;padding:28px 26px;text-align:center;font-family:var(--font-en);font-weight:900;font-size:22px;line-height:1.15;max-width:200px;box-shadow:0 8px 0 -2px color-mix(in srgb,var(--cloud) 35%,transparent)}
+.map .cloud small{display:block;font-family:var(--font-zh);font-weight:500;font-size:14px;opacity:.9;margin-top:6px}
+.branch{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 12px;min-width:0}
+.branch h3{font-size:15px;display:flex;align-items:center;gap:6px;margin-bottom:6px;color:var(--bc)}
+.branch h3 .dot{width:22px;height:22px;border-radius:50%;background:var(--bc);color:var(--paper);font-family:var(--font-en);font-size:13px;display:grid;place-items:center}
+.w{display:flex;align-items:center;gap:8px;padding:6px 0;border-top:1px dashed var(--line)}
+.w:first-of-type{border-top:0}
+.w .say{flex:1;min-width:0;text-align:left;background:none;border:0;padding:0}
+.w .en{font-family:var(--font-en);font-weight:800;font-size:17px;color:var(--bc);word-break:break-word}
+.w .ipa{font-family:var(--font-en);font-size:13px;color:var(--muted);margin-left:4px}
+.w .zh{display:block;font-size:14px}
+.w .cover{display:inline-block;min-width:5em;border-radius:6px;background:var(--line);color:transparent;user-select:none}
+.marks{display:flex;gap:3px;flex:none}
+.marks button{width:30px;height:30px;border-radius:8px;border:1px solid var(--line);background:var(--paper);font-weight:800;font-size:14px;padding:0}
+.marks button[data-m="ok"].on{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+.marks button[data-m="mid"].on{background:var(--mid-bg);color:var(--mid);border-color:var(--mid)}
+.marks button[data-m="no"].on{background:var(--no-bg);color:var(--no);border-color:var(--no)}
+.blank textarea{width:100%;min-height:96px;border:1px solid var(--line);border-radius:10px;padding:8px;font-family:var(--font-en);font-size:16px;background:var(--bg);color:var(--ink);resize:vertical}
+.res{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.res span{font-family:var(--font-en);font-weight:700;font-size:14px;padding:2px 8px;border-radius:999px}
+.res .hit{background:var(--ok-bg);color:var(--ok)}
+.res .miss{background:var(--no-bg);color:var(--no)}
+.res .extra{background:var(--mid-bg);color:var(--mid)}
+.b1{--bc:var(--b1)}.b2{--bc:var(--b2)}.b3{--bc:var(--b3)}.b4{--bc:var(--b4)}.b5{--bc:var(--b5)}.b6{--bc:var(--b6)}
+/* book order: 1 top-left, 2 top, 3 top-right, 4 bottom-right, 5 bottom, 6 bottom-left */
+.map .p1{grid-column:1;grid-row:1}.map .p2{grid-column:1;grid-row:2}.map .p6{grid-column:1;grid-row:3}
+.map .p3{grid-column:3;grid-row:1}.map .p4{grid-column:3;grid-row:2}.map .p5{grid-column:3;grid-row:3}
+@media (max-width:760px){
+  .map{grid-template-columns:1fr}
+  .map .cloud{grid-column:1;grid-row:auto;margin-bottom:4px}
+  .map .branch{grid-column:1!important;grid-row:auto!important}
+  .stats{grid-template-columns:repeat(2,1fr)}
+}
+
+/* flashcards */
+.fc{max-width:520px;margin:0 auto}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:18px;min-height:220px;display:grid;place-items:center;text-align:center;padding:24px;width:100%}
+.card .big{font-size:30px;font-weight:700}
+.card .bigen{font-family:var(--font-en);font-weight:900;font-size:34px;color:var(--accent)}
+.card .sub{color:var(--muted);font-size:14px;margin-top:6px}
+.fc .row{justify-content:center;margin-top:14px}
+.grade button{min-width:92px}
+.grade [data-m="ok"]{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+.grade [data-m="mid"]{background:var(--mid-bg);color:var(--mid);border-color:var(--mid)}
+.grade [data-m="no"]{background:var(--no-bg);color:var(--no);border-color:var(--no)}
+.empty{color:var(--muted);text-align:center;padding:30px 10px}
+.plan h3{margin:18px 0 6px;font-size:18px}
+.plan p,.plan li{max-width:65ch}
+.tbl{overflow-x:auto}
+.tbl table{border-collapse:collapse;width:100%;min-width:420px;font-size:15px}
+.tbl th,.tbl td{border-bottom:1px solid var(--line);padding:8px;text-align:left}
+@media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:active{transform:scale(.99)}}
+</style>
+
+<header><div class="wrap bar">
+  <div class="brand">Sunny 5000<small>心智圖單字</small></div>
+  <nav id="nav">
+    <a href="#today">今天</a>
+    <a href="#themes">主題</a>
+    <a href="#hard">難字本</a>
+    <a href="#plan">學習方法</a>
+  </nav>
+  <span class="sync" id="sync">進度存在這台裝置</span>
+</div></header>
+<main class="wrap" id="app"></main>
+
+<script>
+const DATA=/*__DATA__*/null;
+const THEMES=DATA.themes;
+const INTERVALS=[1,3,7,15,30];       // 學完後第幾天複習
+const MARKS={ok:"✓",mid:"△",no:"✗"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* ---------- state: one record per theme {learned, reviews:{interval:date}, marks:{word:mark}} ---------- */
+let state={};
+const LS="sunny5000-progress";
+try{state=JSON.parse(localStorage.getItem(LS)||"{}")||{}}catch(e){state={}}
+const rec=id=>state[id]||(state[id]={learned:null,reviews:{},marks:{}});
+let col=null; const timers={};
+function save(id){
+  try{localStorage.setItem(LS,JSON.stringify(state))}catch(e){}
+  if(!col) return;
+  clearTimeout(timers[id]);
+  timers[id]=setTimeout(()=>col.doc("t"+id).set(state[id]).catch(()=>{}),700);
+}
+(async()=>{
+  try{
+    if(!window.claude?.use) return;
+    const [db,user]=await Promise.all([claude.use("db"),claude.use("user")]);
+    if(!db||!user) return;
+    const uid=await user.id(); if(!uid) return;
+    col=db.collection("data/users/"+uid);
+    const snap=await col.get();
+    if(snap.size===0){            // first time on the cloud: upload this device's progress
+      for(const id of Object.keys(state)) await col.doc("t"+id).set(state[id]).catch(()=>{});
+    }
+    col.onSnapshot(s=>{
+      s.docs.forEach(d=>{const v=d.data(); if(v) state[d.id.slice(1)]=v});
+      try{localStorage.setItem(LS,JSON.stringify(state))}catch(e){}
+      render();
+    });
+    $("#sync").textContent="✓ 手機和電腦同步";
+  }catch(e){}
+})();
+
+/* ---------- dates ---------- */
+const day=d=>{const x=new Date(d);x.setHours(0,0,0,0);return x};
+const iso=d=>{const x=day(d);return x.getFullYear()+"-"+String(x.getMonth()+1).padStart(2,"0")+"-"+String(x.getDate()).padStart(2,"0")};
+const today=()=>iso(new Date());
+const addDays=(s,n)=>{const d=new Date(s+"T00:00:00");d.setDate(d.getDate()+n);return iso(d)};
+
+/* ---------- speech ---------- */
+let voice=null;
+function pickVoice(){const v=speechSynthesis.getVoices();voice=v.find(x=>/en-US/i.test(x.lang)&&/Samantha|Google|Jenny|Aria/i.test(x.name))||v.find(x=>/^en/i.test(x.lang))||null}
+if("speechSynthesis" in window){pickVoice();speechSynthesis.onvoiceschanged=pickVoice}
+function speak(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="en-US";u.rate=.85;if(voice)u.voice=voice;speechSynthesis.speak(u)}catch(e){}}
+
+/* ---------- helpers ---------- */
+const theme=id=>THEMES.find(t=>t.id==id);
+const allWords=t=>t.branches.flatMap((b,bi)=>b.words.map(w=>({w,bi,branch:b.name,t})));
+function counts(t){const m=rec(t.id).marks,c={ok:0,mid:0,no:0,none:0};allWords(t).forEach(x=>c[m[x.w[0]]||"none"]++);return c}
+function dueReviews(){
+  const out=[],td=today();
+  THEMES.forEach(t=>{const r=state[t.id];if(!r||!r.learned)return;
+    const k=INTERVALS.find(k=>!r.reviews[k]);
+    if(k&&addDays(r.learned,k)<=td) out.push({t,k});});
+  return out;
+}
+const nextNew=()=>THEMES.find(t=>!state[t.id]?.learned);
+function meter(t){const c=counts(t),n=allWords(t).length;
+  return `<div class="meter" aria-hidden="true"><i style="width:${c.ok/n*100}%;background:var(--ok)"></i><i style="width:${c.mid/n*100}%;background:var(--mid)"></i><i style="width:${c.no/n*100}%;background:var(--no)"></i></div>`}
+
+/* ---------- views ---------- */
+function vToday(){
+  const due=dueReviews(),nx=nextNew();
+  const learned=THEMES.filter(t=>state[t.id]?.learned).length;
+  let ok=0,no=0,total=0;THEMES.forEach(t=>{const c=counts(t);ok+=c.ok;no+=c.no;total+=allWords(t).length});
+  return `<div class="grid today">
+  <section class="panel"><h2>今天要做的事</h2><p class="lead">${today()}　先複習，再學新的。</p>
+    ${due.map(d=>`<div class="task"><span class="num">${d.t.id}</span><div class="what"><b>複習：${esc(d.t.zh)}</b><span class="tag">學完第 ${d.k} 天</span></div><a class="btn sm" href="#theme-${d.t.id}-blank">開始</a></div>`).join("")}
+    ${nx?`<div class="task"><span class="num">${nx.id}</span><div class="what"><b>新主題：${esc(nx.zh)}</b><span class="tag">${esc(nx.en)} · 30 字</span></div><a class="btn sm primary" href="#theme-${nx.id}">開始</a></div>`:`<p>目前的主題都學過了 🎉 等你上傳下一章的照片。</p>`}
+    ${!due.length&&nx?`<p class="hint" style="margin-top:8px">今天沒有要複習的主題。</p>`:""}
+  </section>
+  <section class="panel"><h2>我的進度</h2>
+    <div class="stats tabular">
+      <div class="stat"><b>${learned}/${THEMES.length}</b><span>主題學過</span></div>
+      <div class="stat"><b>${ok}</b><span>✓ 記住的字</span></div>
+      <div class="stat"><b>${no}</b><span>✗ 難字</span></div>
+      <div class="stat"><b>${total}</b><span>目前收錄字數</span></div>
+    </div>
+    <h3 style="margin-top:14px;font-size:16px">學一個新主題的五步驟（約 25 分鐘）</h3>
+    <ol class="steps">
+      <li><b>看圖</b>：先看中心和 6 條分支，抓住「這張圖在講什麼」。</li>
+      <li><b>聽＋唸</b>：點每個單字聽發音，跟著唸 3 次。</li>
+      <li><b>遮住回想</b>：用「遮英文」「遮中文」模式考自己，打 ✓ △ ✗。</li>
+      <li><b>空白心智圖</b>：只看分支名稱，把英文打出來（最重要）。</li>
+      <li><b>造句</b>：挑 3 個 ✗ 的字，各造一個關於自己的句子。</li>
+    </ol>
+  </section></div>
+  <h2 style="margin:22px 0 10px">第 1 章 人物元素</h2>
+  <div class="themes">${THEMES.map(tcard).join("")}</div>`;
+}
+function tcard(t){const r=state[t.id];
+  return `<a class="tcard" href="#theme-${t.id}"><span class="n">${t.id}</span> <b>${esc(t.zh)}</b>
+  <div class="en">${esc(t.en)}</div>${meter(t)}<div class="sub" style="font-size:12px;color:var(--muted);margin-top:4px">${r?.learned?"學於 "+r.learned:"還沒學"}</div></a>`}
+function vThemes(){return `<h2>全部主題</h2><p class="lead">每個主題 30 個字、6 條分支。顏色條：綠 ✓、黃 △、紅 ✗。</p><div class="themes" style="margin-top:14px">${THEMES.map(tcard).join("")}</div>`}
+
+let mode="study";
+const MODES=[["study","看圖學習"],["hideEn","遮英文"],["hideZh","遮中文"],["blank","空白心智圖"],["cards","閃卡"]];
+function vTheme(id){
+  const t=theme(id);if(!t)return `<p class="empty">找不到這個主題。</p>`;
+  const r=rec(t.id),c=counts(t);
+  const prev=theme(t.id-1),next=theme(t.id+1);
+  const k=r.learned&&INTERVALS.find(k=>!r.reviews[k]);
+  const kDue=k&&addDays(r.learned,k)<=today();
+  let head=`<div class="thead"><span class="no">${t.id}</span><div class="t"><h2>${esc(t.zh)}</h2><span class="lead">${esc(t.en)} · ✓${c.ok} △${c.mid} ✗${c.no}</span></div>
+   <div class="row">${prev?`<a class="btn sm" href="#theme-${prev.id}">← ${prev.id}</a>`:""}${next?`<a class="btn sm" href="#theme-${next.id}">${next.id} →</a>`:""}</div></div>
+   <div class="row" style="margin-bottom:6px">${!r.learned?`<button class="btn sm primary" data-act="learned">今天學完這個主題</button>`:kDue?`<button class="btn sm primary" data-act="review" data-k="${k}">完成第 ${k} 天複習</button>`:`<span class="tag">學於 ${r.learned}${k?" · 下次複習 "+addDays(r.learned,k):" · 5 次複習都完成 ✓"}</span>`}</div>
+   <div class="modes" role="tablist">${MODES.map(([m,l])=>`<button role="tab" aria-selected="${m===mode}" class="${m===mode?"on":""}" data-mode="${m}">${l}</button>`).join("")}</div>`;
+  const hints={study:"點單字聽發音。每個字右邊打記號：✓ 記得、△ 想一下才記得、✗ 忘了。",hideEn:"看中文想英文，點灰色塊揭開答案，再打記號。",hideZh:"看英文想中文，點灰色塊揭開答案，再打記號。",blank:"闔上書！只看分支名稱，把記得的英文打進去（用逗號或換行分開），再按「對答案」。",cards:"從這個主題隨機出題。先想答案，再翻面打分。"};
+  head+=`<p class="hint">${hints[mode]}</p>`;
+  if(mode==="cards") return head+flash(allWords(t));
+  const order=[0,1,2,3,4,5];
+  return head+`<div class="map"><div class="cloud">${esc(t.en)}<small>${esc(t.zh)}</small></div>${order.map(bi=>branch(t,bi)).join("")}</div>`;
+}
+function branch(t,bi){
+  const b=t.branches[bi],cls=`branch b${bi+1} p${bi+1}`;
+  if(mode==="blank") return `<section class="${cls} blank"><h3><span class="dot">${bi+1}</span>${esc(b.name)}</h3>
+    <textarea id="bl-${t.id}-${bi}" aria-label="${esc(b.name)} 的單字" placeholder="${b.words.length} 個字…" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea><div class="res" id="res-${t.id}-${bi}"></div></section>`
+    +(bi===5?`<div style="grid-column:1/-1" class="row"><button class="btn primary" data-act="check">對答案</button><span id="score" class="tabular"></span></div>`:"");
+  const m=rec(t.id).marks;
+  return `<section class="${cls}"><h3><span class="dot">${bi+1}</span>${esc(b.name)}</h3>${b.words.map(w=>{
+    const en=mode==="hideEn"?`<span class="cover" data-rev>${esc(w[0])}</span>`:`<span class="en">${esc(w[0])}</span>${w[1]?`<span class="ipa">${esc(w[1])} ${esc(w[2])}</span>`:""}`;
+    const zh=mode==="hideZh"?`<span class="zh"><span class="cover" data-rev>${esc(w[3])}</span></span>`:`<span class="zh">${esc(w[3])}</span>`;
+    return `<div class="w"><button class="say" data-say="${esc(w[0])}" aria-label="唸 ${esc(w[0])}">${en}${zh}</button>${marks(t.id,w[0],m[w[0]])}</div>`}).join("")}</section>`;
+}
+const marks=(tid,w,cur)=>`<span class="marks">${Object.entries(MARKS).map(([k,s])=>`<button data-m="${k}" data-t="${tid}" data-w="${esc(w)}" class="${cur===k?"on":""}" aria-pressed="${cur===k}" title="${k}">${s}</button>`).join("")}</span>`;
+
+/* flashcards */
+let deck=[],di=0,flipped=false,deckKey="";
+function flash(list,key){
+  key=key||location.hash;
+  if(deckKey!==key){deck=list.slice().sort(()=>Math.random()-.5);di=0;flipped=false;deckKey=key}
+  if(!deck.length) return `<p class="empty">這裡還沒有字。</p>`;
+  if(di>=deck.length) return `<div class="fc"><div class="card"><div><div class="big">這一輪完成 👏</div><div class="sub">${deck.length} 張卡</div></div></div><div class="row"><button class="btn primary" data-act="again">再來一輪</button></div></div>`;
+  const x=deck[di],w=x.w;
+  return `<div class="fc"><p class="hint tabular" style="text-align:center">${di+1} / ${deck.length} · ${esc(x.t.zh)} › ${esc(x.branch)}</p>
+   <button class="card" data-act="flip" aria-label="翻面">${flipped?`<div><div class="bigen">${esc(w[0])}</div><div class="sub">${esc(w[1])} ${esc(w[2])}</div><div class="big" style="font-size:20px;margin-top:8px">${esc(w[3])}</div></div>`:`<div><div class="big">${esc(w[3])}</div><div class="sub">點一下翻面</div></div>`}</button>
+   ${flipped?`<div class="row grade">${Object.entries({ok:"✓ 記得",mid:"△ 模糊",no:"✗ 忘了"}).map(([k,l])=>`<button class="btn" data-grade="${k}">${l}</button>`).join("")}</div>`:`<div class="row"><button class="btn" data-act="flip">翻面</button></div>`}</div>`;
+}
+function vHard(){
+  const list=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.id).marks[x.w[0]]==="no"));
+  const mid=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.id).marks[x.w[0]]==="mid"));
+  return `<h2>難字本</h2><p class="lead">所有打 ✗ 的字（${list.length} 個）。用零碎時間刷一刷，記住了就改成 ✓。</p><div style="margin-top:14px">${list.length?flash(list,"hard"):`<p class="empty">還沒有 ✗ 的字。學主題時打上記號，難字就會出現在這裡。</p>`}</div>
+  ${mid.length?`<h3 style="margin:24px 0 8px">△ 模糊的字（${mid.length}）</h3><div class="res">${mid.map(x=>`<span class="extra">${esc(x.w[0])} ${esc(x.w[3])}</span>`).join("")}</div>`:""}`;
+}
+function vPlan(){
+  return `<div class="panel plan"><h2>怎麼用這本書背單字</h2>
+  <p>這本書每個主題是一張心智圖：中心 1 個主題，6 條分支，每條 5 個字，共 30 字。第 1 章「人物元素」有 15 個主題、450 字。</p>
+  <h3>每天的節奏（約 40 分鐘）</h3>
+  <ul><li><b>先複習</b>（約 15 分鐘）：「今天」頁會列出到期的主題，用「空白心智圖」模式複習。</li>
+  <li><b>再學 1 個新主題</b>（約 25 分鐘）：照五步驟走，最後按「今天學完這個主題」。</li>
+  <li>一週學 6 天，第 7 天休息或只刷難字本。</li></ul>
+  <h3>複習時間表</h3>
+  <p>學完後的第 1、3、7、15、30 天各複習一次。網頁會自動算日期，到期的主題會出現在「今天」頁。</p>
+  <div class="tbl"><table><thead><tr><th>第幾次</th><th>學完後第幾天</th><th>怎麼複習</th></tr></thead><tbody>
+  <tr><td>1</td><td>第 1 天</td><td>空白心智圖，打錯的改 ✗</td></tr>
+  <tr><td>2</td><td>第 3 天</td><td>遮英文，快速唸過</td></tr>
+  <tr><td>3</td><td>第 7 天</td><td>空白心智圖</td></tr>
+  <tr><td>4</td><td>第 15 天</td><td>只看 △ 和 ✗ 的字，用閃卡</td></tr>
+  <tr><td>5</td><td>第 30 天</td><td>空白心智圖，全對就完成</td></tr></tbody></table></div>
+  <h3>進度預估</h3>
+  <p>一天 1 個主題，第 1 章大約 2.5 週學完。全書約 5000 字，大約 165 個主題，一週 6 個主題的話約 7 個月完成第一輪。想快一點可以一天 2 個主題，但複習一定不能跳過。</p>
+  <h3>小訣竅</h3>
+  <ul><li><b>記位置</b>：心智圖的好處是「位置」。回想時先想「它在哪一條分支」。</li>
+  <li><b>自己加字</b>：想到書上沒有的相關字，寫在筆記本的同一條分支旁。</li>
+  <li><b>和生活連結</b>：學「身體部位」時摸著自己的手肘說 elbow。</li>
+  <li><b>看得懂不等於記得住</b>：一定要用「空白心智圖」自己寫出來。</li></ul>
+  <h3>進度存在哪裡</h3>
+  <p>在 claude.ai 登入時，進度會存到雲端，手機和電腦看到的一樣。沒有登入時，進度只存在目前這台裝置的瀏覽器裡。</p></div>`;
+}
+
+/* ---------- router ---------- */
+function render(){
+  const h=location.hash.slice(1)||"today";
+  let m=h.match(/^theme-(\d+)(?:-(\w+))?$/);
+  if(m&&m[2]&&MODES.some(x=>x[0]===m[2])){mode=m[2];history.replaceState(null,"","#theme-"+m[1])}
+  const tab=m?"themes":h;
+  document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on",a.getAttribute("href")==="#"+tab||(m&&a.getAttribute("href")==="#themes")));
+  const keep=[...document.querySelectorAll("textarea")].map(x=>[x.id,x.value]);
+  $("#app").innerHTML=m?vTheme(m[1]):h==="themes"?vThemes():h==="hard"?vHard():h==="plan"?vPlan():vToday();
+  keep.forEach(([id,v])=>{const el=document.getElementById(id);if(el)el.value=v});
+}
+let lastHash=location.hash;
+addEventListener("hashchange",()=>{if(location.hash!==lastHash){deckKey="";lastHash=location.hash}window.scrollTo(0,0);render()});
+
+/* ---------- events ---------- */
+$("#app").addEventListener("click",e=>{
+  const el=e.target.closest("button,[data-rev]");if(!el)return;
+  if(el.hasAttribute("data-rev")){el.classList.remove("cover");el.removeAttribute("data-rev");e.stopPropagation();return}
+  if(el.dataset.mode){mode=el.dataset.mode;deckKey="";render();return}
+  if(el.dataset.m&&el.dataset.t){const r=rec(el.dataset.t),w=el.dataset.w;r.marks[w]=r.marks[w]===el.dataset.m?undefined:el.dataset.m;if(!r.marks[w])delete r.marks[w];save(el.dataset.t);
+    el.parentElement.querySelectorAll("button").forEach(b=>{const on=b===el&&!!r.marks[w];b.classList.toggle("on",on);b.setAttribute("aria-pressed",on)});return}
+  if(el.dataset.say){
+    if(el.querySelector("[data-rev]")){el.querySelectorAll("[data-rev]").forEach(c=>{c.classList.remove("cover");c.removeAttribute("data-rev")})}
+    speak(el.dataset.say);return}
+  const id=(location.hash.match(/theme-(\d+)/)||[])[1];
+  const a=el.dataset.act;
+  if(a==="learned"){rec(id).learned=today();save(id);render()}
+  else if(a==="review"){rec(id).reviews[el.dataset.k]=today();save(id);render()}
+  else if(a==="check")check(id);
+  else if(a==="flip"){flipped=!flipped;if(flipped)speak(deck[di].w[0]);render()}
+  else if(a==="again"){deckKey="";render()}
+  else if(el.dataset.grade){const x=deck[di];rec(x.t.id).marks[x.w[0]]=el.dataset.grade;save(x.t.id);di++;flipped=false;render()}
+});
+const norm=s=>s.toLowerCase().replace(/[’']/g,"'").replace(/\s+/g," ").trim();
+function check(id){
+  const t=theme(id);let hit=0,total=0;const r=rec(id);
+  t.branches.forEach((b,bi)=>{
+    const typed=document.getElementById(`bl-${id}-${bi}`).value.split(/[,，\n;；]+/).map(norm).filter(Boolean);
+    const want=b.words.map(w=>w[0]);
+    const html=want.map(w=>{const ok=typed.includes(norm(w));total++;if(ok)hit++;else r.marks[w]="no";return `<span class="${ok?"hit":"miss"}">${ok?"✓":"✗"} ${esc(w)}</span>`}).join("")
+      +typed.filter(x=>!want.some(w=>norm(w)===x)).map(x=>`<span class="extra">? ${esc(x)}</span>`).join("");
+    document.getElementById(`res-${id}-${bi}`).innerHTML=html;
+  });
+  save(id);
+  $("#score").textContent=`答對 ${hit} / ${total}　沒寫出來的字已標成 ✗`;
+}
+render();
+</script>
