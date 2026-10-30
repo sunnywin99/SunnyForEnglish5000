@@ -1,0 +1,555 @@
+#1|交通方式|Modes of Transport
+@私家車輛
+car|/kɑː(r)/|n.|汽車
+SUV|||運動型多用途車
+van|/væn/|n.|廂型車
+pickup truck|||皮卡車（小貨卡）
+off-roader|||越野車
+@公共車輛
+bus|/bʌs/|n.|公車
+minibus|/ˈmɪnibʌs/|n.|小巴
+coach|/kəʊtʃ/|n.|長途客運
+tram|/træm/|n.|路面電車
+take the tram|||搭路面電車
+@軌道交通
+metro|/ˈmetrəʊ/|n.|捷運（地鐵）
+light rail|||輕軌
+ride the light rail|||搭輕軌
+high-speed rail|||高速鐵路
+take high-speed rail|||搭高鐵
+@航空器
+plane|/pleɪn/|n.|飛機
+airliner|/ˈeəlaɪnə(r)/|n.|客機
+helicopter|/ˈhelɪkɒptə(r)/|n.|直升機
+drone|/drəʊn/|n.|無人機
+fly a drone|||放無人機
+@水上船隻
+ferry|/ˈferi/|n.|渡輪
+cruise ship|||郵輪
+yacht|/jɒt/|n.|遊艇
+canoe|/kəˈnuː/|n.|獨木舟
+submarine|/ˌsʌbməˈriːn/|n.|潛艇
+@兩輪工具
+bicycle|/ˈbaɪsɪkl/|n.|自行車
+road bike|||公路自行車
+folding bike|||折疊自行車
+scooter|/ˈskuːtə(r)/|n.|速克達（踏板車）
+motorbike|/ˈməʊtəbaɪk/|n.|摩托車
+#2|道路交通|Road Traffic
+@道路類型
+main road|||主幹道
+national road|||國道
+expressway|/ɪkˈspresweɪ/|n.|高速公路
+enter the expressway|||上高速公路
+exit the expressway|||下高速公路
+@收費設施
+toll station|||收費站
+ETC|||電子收費（ETC）
+toll fee|||過路費
+rest stop|||休息站
+gas station|||加油站
+@車輛部件
+steering wheel|||方向盤
+gas pedal|||油門踏板
+brake|/breɪk/|n.|剎車
+shifter|/ˈʃɪftə(r)/|n.|排檔桿
+wiper|/ˈwaɪpə(r)/|n.|雨刷
+@加油充電
+gas pump|||加油槍
+use the gas pump|||使用加油槍
+diesel|/ˈdiːzl/|n.|柴油
+charging station|||充電站
+fill it up|||加滿油
+@車輛故障
+break down|||拋錨
+out of gas|||沒油
+dead battery|||電池沒電
+overheat|/ˌəʊvəˈhiːt/|v.|過熱
+oil leak|||漏油
+@乘車位置
+driver's seat|||駕駛座
+front seat|||副駕駛座
+back seat|||後座
+seat belt|||安全帶
+fasten the seat belt|||繫安全帶
+#3|鐵路出行|Rail Travel
+@車站區域
+platform|/ˈplætfɔːm/|n.|（鐵路）月台
+wait on the platform|||在月台等車
+ticket gate|||驗票口
+turnstile|/ˈtɜːnstaɪl/|n.|閘門
+lost and found office|||失物招領處
+@車廂設施
+luggage rack|||行李架
+sleeper|/ˈsliːpə(r)/|n.|臥鋪
+dining car|||餐車
+folding table|||折疊桌
+sliding door|||推拉門
+@人員服務
+conductor|/kənˈdʌktə(r)/|n.|列車長
+ticket inspector|||查票員
+attendant|/əˈtendənt/|n.|乘務員
+engineer|/ˌendʒɪˈnɪə(r)/|n.|（鐵路）列車司機
+porter|/ˈpɔːtə(r)/|n.|行李員
+@車次信息
+departure station|||起站
+destination|/ˌdestɪˈneɪʃn/|n.|終點站
+stopover|||經停站
+on time|||準點
+delay|/dɪˈleɪ/|n.|誤點
+@乘車規則
+no smoking|||禁菸
+carriage|/ˈkærɪdʒ/|n.|車廂
+quiet carriage|||靜音車廂
+excess fare|||補票
+line|/laɪn/|n.|安全線
+@鐵路安全
+emergency|/ɪˈmɜːdʒənsi/|adj.|緊急的
+emergency brake|||緊急制動
+hammer|/ˈhæmə(r)/|n.|錘子（安全錘）
+manual release|||手動開啟裝置
+stay seated|||保持就座
+#4|航空出行|Air Travel
+@機場流程
+check-in|||報到（劃位）
+boarding pass|||登機證
+boarding gate|||登機門
+immigration|/ˌɪmɪˈɡreɪʃn/|n.|入出境查驗（邊檢）
+customs|/ˈkʌstəmz/|n.|海關
+@機艙設施
+tray table|||小桌板
+window shade|||遮光板
+blanket|/ˈblæŋkɪt/|n.|毛毯
+ask for a blanket|||要毛毯
+life vest|||救生衣
+@飛行狀態
+taxiing|/ˈtæksiɪŋ/|n.|滑行
+take off|||起飛
+landing|/ˈlændɪŋ/|n.|降落
+prepare for landing|||準備降落
+runway|/ˈrʌnweɪ/|n.|跑道
+@機組服務
+captain|/ˈkæptɪn/|n.|機長
+pilot|/ˈpaɪlət/|n.|飛行員
+co-pilot|||副駕駛
+flight attendant|||空服員
+economy class|||經濟艙
+@航班異常
+missed flight|||誤機
+overbooked|||超賣
+grounding|/ˈɡraʊndɪŋ/|n.|停飛
+rebook|/ˌriːˈbʊk/|v.|改簽
+standby|/ˈstændbaɪ/|n.|候補
+@轉機流程
+counter|/ˈkaʊntə(r)/|n.|（航空）櫃台
+transfer counter|||轉機櫃台
+layover|/ˈleɪəʊvə(r)/|n.|轉機停留
+baggage claim|||行李提領處
+visa-free|||免簽
+#5|水上交通|Water Transport
+@港口碼頭
+harbor|/ˈhɑːbə(r)/|n.|港口
+jetty|/ˈdʒeti/|n.|棧橋
+gangway|/ˈɡæŋweɪ/|n.|舷梯
+anchor|/ˈæŋkə(r)/|n.|錨
+lighthouse|/ˈlaɪthaʊs/|n.|燈塔
+@船艙等級
+class|/klɑːs/|n.|艙位
+first class|||頭等艙
+suite|/swiːt/|n.|套房
+stateroom|/ˈsteɪtruːm/|n.|客艙
+deck|/dek/|n.|甲板
+@水上安全
+life jacket|||救生衣
+lifebuoy|/ˈlaɪfbɔɪ/|n.|救生圈
+throw a lifebuoy|||拋救生圈
+lifeboat|/ˈlaɪfbəʊt/|n.|救生艇
+board a lifeboat|||登上救生艇
+@航行狀態
+set sail|||起航
+moor|/mʊə(r)/|v.|停泊（靠岸）
+drop anchor|||拋錨
+underway|/ˌʌndəˈweɪ/|adj.|航行中的
+full speed|||全速前進
+@水上活動
+fishing|/ˈfɪʃɪŋ/|n.|釣魚
+go fishing|||去釣魚
+diving|/ˈdaɪvɪŋ/|n.|潛水
+go diving|||去潛水
+whale watching|||賞鯨
+@船員角色
+crew|/kruː/|n.|船員
+sailor|/ˈseɪlə(r)/|n.|水手
+helmsman|/ˈhelmzmən/|n.|舵手
+steward|/ˈstjuːəd/|n.|船務員
+chief mate|||大副
+#6|交通站點|Transport Hubs
+@公交站點
+bus sign|||站牌
+shelter|/ˈʃeltə(r)/|n.|候車亭
+wait in the shelter|||在候車亭等車
+next stop|||下一站
+final stop|||終點站
+@地鐵站點
+screening|/ˈskriːnɪŋ/|n.|安檢
+security screening|||安全檢查
+ticket machine|||售票機
+lift|/lɪft/|n.|電梯
+take the lift|||搭電梯
+@火車站
+station square|||站前廣場
+arrival hall|||入境大廳
+VIP lounge|||貴賓候車室
+luggage storage|||行李寄放
+taxi stand|||計程車招呼站
+@航站樓
+terminal building|||航廈
+level|/ˈlevl/|n.|樓層
+departure level|||出境層
+arrival level|||入境層
+skybridge|||空橋（登機廊橋）
+@停車場
+meter|/ˈmiːtə(r)/|n.|計費器
+parking meter|||停車計費器
+short-term parking|||短時停車
+long-term parking|||長期停車
+underground garage|||地下停車場
+@標識指引
+timetable|/ˈtaɪmteɪbl/|n.|時刻表
+check the timetable|||查看時刻表
+floor plan|||樓層平面圖
+announcement|/əˈnaʊnsmənt/|n.|通知（廣播）
+voice announcement|||語音廣播
+#7|候車候機|Waiting & Boarding
+@休息設施
+waiting bench|||候車座椅
+massage chair|||按摩椅
+sleep pod|||睡眠艙
+smoking room|||吸菸室
+nursing room|||哺乳室
+@信息獲取
+display screen|||資訊螢幕
+board|/bɔːd/|n.|資訊看板
+departure board|||出發資訊看板
+flight status|||航班狀態
+brochure|/ˈbrəʊʃə(r)/|n.|宣傳冊
+@打發時間
+scroll on phone|||滑手機
+listen to music|||聽音樂
+watch a movie|||看電影
+work on laptop|||用電腦工作
+window shopping|||逛街（只看不買）
+@餐飲購物
+cafe|/ˈkæfeɪ/|n.|咖啡館
+bakery|/ˈbeɪkəri/|n.|麵包店
+food court|||美食廣場
+beverage|/ˈbevərɪdʒ/|n.|飲料
+order a beverage|||點飲料
+@焦慮狀態
+impatient|/ɪmˈpeɪʃnt/|adj.|不耐煩的
+restless|/ˈrestləs/|adj.|坐立不安的
+urge|/ɜːdʒ/|n.|催促感
+overwhelmed|/ˌəʊvəˈwelmd/|adj.|不堪重負的
+mutter|/ˈmʌtə(r)/|v.|嘀咕
+@特殊服務
+stroller|/ˈstrəʊlə(r)/|n.|嬰兒車
+stroller rental|||嬰兒車租借
+porter service|||行李服務
+tour|/tʊə(r)/|n.|參觀
+guided tour|||引導服務
+#8|票務服務|Ticketing Services
+@購票渠道
+mobile app|||手機 App
+official website|||官方網站
+platform|/ˈplætfɔːm/|n.|（票務）平台
+third-party platform|||第三方平台
+counter|/ˈkaʊntə(r)/|n.|（票務）櫃台
+@票種類型
+adult ticket|||全票（成人票）
+child ticket|||兒童票
+student ticket|||學生票
+senior ticket|||敬老票
+round-trip ticket|||來回票
+@座位選擇
+window seat|||靠窗座位
+aisle seat|||靠走道座位
+exit row|||緊急出口排座位
+lower berth|||下鋪
+upper berth|||上鋪
+@訂單操作
+order status|||訂單狀態
+confirmation|/ˌkɒnfəˈmeɪʃn/|n.|確認信息
+payment|/ˈpeɪmənt/|n.|付款
+modify|/ˈmɒdɪfaɪ/|v.|修改
+cancel|/ˈkænsl/|v.|取消
+@票據憑證
+ticket stub|||票根
+invoice|/ˈɪnvɔɪs/|n.|發票
+issue an invoice|||開發票
+valid|/ˈvælɪd/|adj.|有效的
+expired|/ɪkˈspaɪəd/|adj.|過期的
+@驗證通過
+scan the QR code|||掃描 QR code
+swipe the ID card|||刷身分證
+manual check|||人工核驗
+access granted|||允許通行
+denied|/dɪˈnaɪd/|adj.|拒絕通過
+#9|行李物品|Luggage & Items
+@行李類型
+suitcase|/ˈsuːtkeɪs/|n.|行李箱
+carry-on suitcase|||登機箱
+luggage|/ˈlʌɡɪdʒ/|n.|行李
+checked luggage|||托運行李
+laptop bag|||電腦包
+@打包用品
+toiletry bag|||盥洗包
+vacuum bag|||壓縮袋
+strap|/stræp/|n.|捆帶
+luggage strap|||行李捆帶
+elastic band|||橡皮筋
+@托運問題
+allowance|/əˈlaʊəns/|n.|行李額度
+baggage allowance|||行李限額
+over limit|||超重（超額）
+forbidden items|||違禁品
+reject|/rɪˈdʒekt/|v.|拒收
+@領取環節
+carousel|/ˌkærəˈsel/|n.|行李轉盤
+luggage tag|||行李吊牌
+missing|/ˈmɪsɪŋ/|adj.|遺失的
+mistake|/mɪˈsteɪk/|n.|錯拿
+tracing|/ˈtreɪsɪŋ/|n.|查找追蹤
+@寄存服務
+storage locker|||寄物櫃
+slot|/slɒt/|n.|存放格
+pick-up code|||取件碼
+fee|/fiː/|n.|費用
+storage fee|||寄存費
+@隨身物品
+smartphone|/ˈsmɑːtfəʊn/|n.|智慧型手機
+use a smartphone|||使用手機
+holder|/ˈhəʊldə(r)/|n.|證件夾
+passport holder|||護照夾
+earplugs|/ˈɪəplʌɡz/|n.|耳塞
+#10|出行準備|Travel Preparation
+@計劃制定
+travel guide|||旅遊攻略
+sightseeing|/ˈsaɪtsiːɪŋ/|n.|觀光
+top-rated|||高評分的
+off-peak|/ˌɒfˈpiːk/|adj.|淡季的
+book a hotel|||訂飯店
+@證件辦理
+photo ID|||附照片的身分證件
+driver's license|||駕照
+entry permit|||入境許可
+renewal|/rɪˈnjuːəl/|n.|續期
+hard copy|||紙本
+@物資檢查
+cosmetics|/kɒzˈmetɪks/|n.|化妝品
+bring cosmetics|||攜帶化妝品
+hat|/hæt/|n.|帽子
+shoes|/ʃuːz/|n.|鞋子
+spare battery|||備用電池
+@離家操作
+spare key|||備用鑰匙
+pet sitter|||寵物保姆
+lock the door|||鎖門
+cut off power|||斷電
+arm the alarm|||啟動警報
+@保險購買
+insurance|/ɪnˈʃʊərəns/|n.|保險
+compensation|/ˌkɒmpenˈseɪʃn/|n.|賠償
+delay compensation|||延誤賠償
+policy|/ˈpɒləsi/|n.|保單
+terms|/tɜːmz/|n.|條款
+@天氣確認
+forecast|/ˈfɔːkɑːst/|n.|天氣預報
+sunny|/ˈsʌni/|adj.|晴朗的
+cloudy|/ˈklaʊdi/|adj.|多雲的
+rainy|/ˈreɪni/|adj.|下雨的
+snowy|/ˈsnəʊi/|adj.|下雪的
+#11|旅途活動|Travel Activities
+@車上消遣
+podcast|/ˈpɒdkɑːst/|n.|Podcast（播客）
+play a podcast|||播放 Podcast
+audiobook|/ˈɔːdiəʊbʊk/|n.|有聲書
+puzzle|/ˈpʌzl/|n.|益智遊戲
+solve a puzzle|||玩益智遊戲
+@旅途休憩
+restroom|/ˈrestruːm/|n.|洗手間
+use the restroom|||上洗手間
+snack|/snæk/|n.|零食
+have a snack|||吃零食
+stretch|/stretʃ/|v.|伸展活動
+@沿途風景
+countryside|/ˈkʌntrisaɪd/|n.|鄉村；郊外
+cityscape|/ˈsɪtiskeɪp/|n.|城市景觀
+take photos|||拍照
+vlog|/vlɒɡ/|n.|影音日誌（Vlog）
+memory|/ˈmeməri/|n.|回憶
+@社交互動
+ask for directions|||問路
+stranger|/ˈstreɪndʒə(r)/|n.|陌生人
+team up|||結伴
+group tour|||團體旅遊
+language barrier|||語言障礙
+@休息睡眠
+difference|/ˈdɪfrəns/|n.|差異
+time difference|||時差
+low energy|||精力不足
+worn out|||精疲力盡的
+take a nap|||小睡
+@突發狀況
+jam|/dʒæm/|n.|堵塞
+traffic jam|||塞車
+accident|/ˈæksɪdənt/|n.|事故
+misplace|/ˌmɪsˈpleɪs/|v.|放錯位置
+run out of battery|||電量耗盡
+#12|住宿服務|Hotel Service
+@酒店類型
+star-rated hotel|||星級飯店
+homestay|||民宿
+hostel|/ˈhɒstl/|n.|旅舍
+youth hostel|||青年旅舍
+motel|/məʊˈtel/|n.|汽車旅館
+@入住手續
+front desk|||櫃台
+booking confirmation|||訂房確認
+key card|||房卡
+bellhop|/ˈbelhɒp/|n.|行李員
+sign|/saɪn/|v.|簽名
+@客房設施
+bedding|/ˈbedɪŋ/|n.|寢具
+telephone|/ˈtelɪfəʊn/|n.|電話
+hairdryer|/ˈheədraɪə(r)/|n.|吹風機
+coffee maker|||咖啡機
+safety box|||保險箱
+@酒店服務
+housekeeping|||房務清潔
+wake-up call|||叫醒服務（晨喚）
+do not disturb|||請勿打擾
+extra bed|||加床
+leave a tip|||留小費
+@退房結賬
+check-out|||退房
+room inspection|||查房
+refund deposit|||退押金
+feedback form|||意見表
+farewell|/ˌfeəˈwel/|n.|告別
+@住宿評價
+cleanliness|/ˈklenlinəs/|n.|清潔程度
+rate cleanliness|||評價清潔
+signal|/ˈsɪɡnəl/|n.|訊號
+WiFi signal|||WiFi 訊號
+staff attitude|||服務態度
+#13|餐飲服務|Food & Dining
+@交通餐食
+meal|/miːl/|n.|餐食
+in-flight meal|||飛機餐
+box meal|||便當（盒飯）
+instant noodles|||泡麵
+canned drink|||罐裝飲料
+@酒店餐飲
+buffet|/ˈbʊfeɪ/|n.|自助餐
+breakfast buffet|||自助早餐
+full breakfast|||全套早餐（英式）
+afternoon tea|||下午茶
+dress code|||服裝規定
+@街頭小吃
+night market|||夜市
+donut|/ˈdəʊnʌt/|n.|甜甜圈（美式）
+crepes|||可麗餅
+scallion pancake|||蔥油餅
+tea eggs|||茶葉蛋
+@團餐體驗
+group meal|||團體餐
+set lunch|||套餐
+fixed dishes|||固定菜色
+balanced meal|||營養均衡餐
+fill you up|||管飽
+@野外用餐
+picnic|/ˈpɪknɪk/|n.|野餐
+picnic blanket|||野餐墊
+dry food|||乾糧
+portable stove|||卡式爐（便攜爐）
+grill|/ɡrɪl/|n.|烤肉架
+@飲水方式
+tap water|||自來水
+boiled water|||開水
+direct drinking water|||直飲水
+flask|/flɑːsk/|n.|保溫瓶
+carry a flask|||帶保溫瓶
+#14|旅遊景點|Tourist Attractions
+@景點類型
+scenery|/ˈsiːnəri/|n.|風景
+natural scenery|||自然景觀
+cultural site|||人文景點
+amusement park|||遊樂園
+aquarium|/əˈkweəriəm/|n.|水族館
+@入園流程
+admission fee|||門票費用
+visitor center|||遊客中心
+timed entry|||分時入園
+fast pass|||快速通關
+sold out|||售罄
+@遊覽行為
+selfie|/ˈselfi/|n.|自拍
+take a selfie|||自拍
+tag|/tæɡ/|v.|（旅遊）打卡
+upload photos|||上傳照片
+social media|||社群媒體
+@講解服務
+tour guide|||導遊
+headphones|/ˈhedfəʊnz/|n.|耳機
+script|/skrɪpt/|n.|講解詞
+follow a script|||照講稿解說
+expert|/ˈekspɜːt/|n.|專家
+@紀念消費
+postcard|/ˈpəʊstkɑːd/|n.|明信片
+keychain|/ˈkiːtʃeɪn/|n.|鑰匙圈
+magnets|/ˈmæɡnɪts/|n.|冰箱貼
+art print|||藝術印刷品
+stamp collecting|||集章（蓋紀念章）
+@遊客素質
+behave|/bɪˈheɪv/|v.|舉止得體
+behave well|||舉止得體
+ignore|/ɪɡˈnɔː(r)/|v.|無視
+self-discipline|||自律
+impression|/ɪmˈpreʃn/|n.|印象
+#15|出行安全|Travel Safety
+@財物安全
+valuables|/ˈvæljuəblz/|n.|貴重物品
+thief|/θiːf/|n.|小偷
+fraud|/frɔːd/|n.|詐騙
+overcharge|/ˌəʊvəˈtʃɑːdʒ/|v.|亂收費
+loss reporting|||失物報案
+@人身安全
+harassment|/ˈhærəsmənt/|n.|騷擾
+assault|/əˈsɔːlt/|n.|襲擊
+kidnapping|/ˈkɪdnæpɪŋ/|n.|綁架
+crush|/krʌʃ/|n.|踩踏事故
+crowd crush|||人群踩踏
+@緊急聯絡
+call the police|||報警
+ask for help|||求助
+send a location|||傳送定位
+call home|||聯絡家人
+backup contact|||緊急聯絡人
+@健康防護
+travel sickness|||旅途不適（暈車）
+stomach upset|||水土不服
+food poisoning|||食物中毒
+clinic|/ˈklɪnɪk/|n.|診所
+hospital|/ˈhɒspɪtl/|n.|醫院
+@當地禁忌
+custom|/ˈkʌstəm/|n.|風俗
+local custom|||當地風俗
+public order|||公共秩序
+penalty|/ˈpenəlti/|n.|處罰
+face a penalty|||受到處罰
+@求助語言
+MAYDAY|||最高級別遇險求救
+PAN-PAN|||次高級別遇險求救
+STAT|||立即（緊急指令）
+STAT rescue|||立即救援
+LOC|||定位代碼
