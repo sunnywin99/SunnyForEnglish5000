@@ -1,0 +1,555 @@
+#1|主食穀物|Staple Grains
+@穀物原料
+rice|/raɪs/|n.|大米
+cook rice|||煮米飯
+wheat|/wiːt/|n.|小麥
+whole wheat bread|||全麥麵包
+corn|/kɔːn/|n.|玉米
+@麵粉種類
+flour|/ˈflaʊə(r)/|n.|麵粉
+plain flour|||普通麵粉
+rice flour|||米粉
+cornflour|||玉米澱粉
+use starch to thicken|||用澱粉勾芡
+@烘焙製品
+toast|/təʊst/|n.|吐司
+butter the toast|||給吐司抹黃油
+baguette|/bæˈɡet/|n.|法棍
+bagel|/ˈbeɪɡl/|n.|貝果
+toast a bagel|||烤貝果
+@麵食形態
+spaghetti|/spəˈɡeti/|n.|義大利細麵
+cook spaghetti|||煮義大利麵
+bun|/bʌn/|n.|饅頭
+steamed bun|||蒸饅頭
+wrapper|/ˈræpə(r)/|n.|餃子皮
+@製作工藝
+dough|/dəʊ/|n.|麵團
+proof|/pruːf/|v.|發酵
+proof the dough|||發酵麵團
+shape|/ʃeɪp/|v.|成型
+shape the dough|||給麵團塑形
+@口感質地
+crispy|/ˈkrɪspi/|adj.|酥脆的
+tough|/tʌf/|adj.|硬韌的
+too tough to eat|||太硬咬不動
+soggy|/ˈsɒɡi/|adj.|潮軟的
+soggy bread|||潮軟的麵包
+#2|肉類食品|Meat Products
+@常見肉類
+pork|/pɔːk/|n.|豬肉
+chicken|/ˈtʃɪkɪn/|n.|雞肉
+beef|/biːf/|n.|牛肉
+duck|/dʌk/|n.|鴨肉
+mutton|/ˈmʌtn/|n.|羊肉
+@加工肉品
+ham|/hæm/|n.|火腿
+bacon|/ˈbeɪkən/|n.|培根
+sausage|/ˈsɒsɪdʒ/|n.|香腸
+spam|/spæm/|n.|午餐肉
+spam slices|||午餐肉片
+@肉的部位
+filet|/ˈfɪleɪ/|n.|里脊（美式）
+breast|/brest/|n.|脯肉
+chicken breast|||雞胸肉
+wing|/wɪŋ/|n.|翅膀
+chicken wing|||雞翅
+@肉質狀態
+tender|/ˈtendə(r)/|adj.|嫩的
+tender meat|||嫩肉
+stringy|/ˈstrɪŋi/|adj.|柴的
+stringy meat|||柴肉
+juicy|/ˈdʒuːsi/|adj.|多汁的
+@預處理
+thaw|/θɔː/|v.|解凍
+thaw the meat|||解凍肉類
+mince|/mɪns/|v.|剁碎
+season|/ˈsiːzn/|v.|調味
+season with salt|||用鹽調味
+@熟度描述
+rare|/reə(r)/|adj.|生的
+medium-rare|||三分熟
+medium|/ˈmiːdiəm/|n.|五分熟
+medium-well|||七分熟
+well-done|||全熟
+#3|海鮮水產|Seafood
+@魚類海鮮
+salmon|/ˈsæmən/|n.|鮭魚（三文魚）
+tuna|/ˈtjuːnə/|n.|鮪魚（金槍魚）
+cod|/kɒd/|n.|鱈魚
+trout|/traʊt/|n.|鱒魚
+sardine|/ˌsɑːˈdiːn/|n.|沙丁魚
+@帶殼水產
+shrimp|/ʃrɪmp/|n.|蝦
+crab|/kræb/|n.|螃蟹
+oyster|/ˈɔɪstə(r)/|n.|牡蠣
+lobster|/ˈlɒbstə(r)/|n.|龍蝦
+abalone|/ˌæbəˈləʊni/|n.|鮑魚
+@軟體動物
+squid|/skwɪd/|n.|魷魚
+cuttlefish|/ˈkʌtlfɪʃ/|n.|烏賊
+octopus|/ˈɒktəpəs/|n.|章魚
+sea cucumber|||海參
+jellyfish|/ˈdʒelifɪʃ/|n.|海蜇
+@處理動作
+scale|/skeɪl/|v.|去鱗
+gut|/ɡʌt/|v.|去內臟
+gut the fish|||去內臟
+fillet|/ˈfɪleɪ/|v.|切片
+fillet the fish|||給魚切片
+@味道特徵
+briny|/ˈbraɪni/|adj.|鹹鮮的
+delicate|/ˈdelɪkət/|adj.|清淡的
+delicate taste|||清淡口味
+fishy|/ˈfɪʃi/|adj.|魚腥味的
+fishy smell|||魚腥味
+@食用形式
+sashimi|/sæˈʃiːmi/|n.|生魚片
+steamed|/stiːmd/|adj.|清蒸的
+steamed fish|||清蒸魚
+smoked|/sməʊkt/|adj.|燻製的
+smoked fish|||燻魚
+#4|蔬菜水果|Vegetables & Fruits
+@根莖蔬菜
+potato|/pəˈteɪtəʊ/|n.|馬鈴薯（土豆）
+sweet potato|||紅薯（地瓜）
+taro|/ˈtɑːrəʊ/|n.|芋頭
+carrot|/ˈkærət/|n.|胡蘿蔔
+radish|/ˈrædɪʃ/|n.|蘿蔔
+@葉菜瓜果
+lettuce|/ˈletɪs/|n.|生菜
+spinach|/ˈspɪnɪtʃ/|n.|菠菜
+cabbage|/ˈkæbɪdʒ/|n.|捲心菜（高麗菜）
+broccoli|/ˈbrɒkəli/|n.|西蘭花（花椰菜）
+tomato|/təˈmɑːtəʊ/|n.|番茄
+@果實構造
+peel|/piːl/|n.|果皮
+pulp|/pʌlp/|n.|果肉
+seed|/siːd/|n.|種子
+core|/kɔː(r)/|n.|果核
+stem|/stem/|n.|果蒂
+@成熟度
+green|/ɡriːn/|adj.|未成熟的
+ripe|/raɪp/|adj.|成熟的
+ripe fruit|||成熟水果
+overripe|/ˌəʊvəˈraɪp/|adj.|過熟的
+overripe bananas|||過熟香蕉
+@處理方式
+deseed|/diːˈsiːd/|v.|去籽
+deseed the peppers|||去辣椒籽
+chop|/tʃɒp/|v.|切碎
+mash|/mæʃ/|v.|搗碎
+mash potatoes|||搗馬鈴薯泥
+@保存保鮮
+refrigerate|/rɪˈfrɪdʒəreɪt/|v.|冷藏
+freeze|/friːz/|v.|冷凍
+freeze vegetables|||冷凍蔬菜
+seal|/siːl/|v.|密封
+vacuum seal|||真空封裝
+#5|蛋奶製品|Eggs & Dairy
+@雞蛋製品
+egg|/eɡ/|n.|雞蛋
+soft-boiled egg|||溏心蛋
+omelet|/ˈɒmlət/|n.|煎蛋捲（美式）
+make an omelet|||做煎蛋捲
+salted duck egg|||鹹鴨蛋
+@液態乳品
+milk|/mɪlk/|n.|牛奶
+skim|/skɪm/|adj.|脫脂的
+skim milk|||脫脂牛奶
+cream|/kriːm/|n.|奶油
+yogurt|/ˈjɒɡət/|n.|優格（酸奶）
+@固態乳品
+cheese|/tʃiːz/|n.|起司（奶酪）
+powder|/ˈpaʊdə(r)/|n.|粉末
+milk powder|||奶粉
+milk skin|||奶皮
+milk cake|||奶糕
+@烹飪變化
+whisk|/wɪsk/|v.|打發
+whisk the eggs|||打蛋
+fold in|||輕輕拌入
+melt|/melt/|v.|融化
+melt butter|||融化奶油
+@特殊標識
+free|/friː/|adj.|無……的
+lactose-free|||無乳糖的
+raw|/rɔː/|adj.|生的
+raw milk|||生乳
+grass-fed|||草飼的
+@變質識別
+clumpy|/ˈklʌmpi/|adj.|結塊的
+clumpy milk|||結塊的牛奶
+discolored|/dɪsˈkʌləd/|adj.|變色的
+discolored cheese|||已變色的起司
+moldy|/ˈməʊldi/|adj.|發霉的
+#6|一日三餐|Daily Meals
+@早餐搭配
+congee|/ˈkɒndʒiː/|n.|粥
+have congee|||喝粥
+soy milk|||豆漿
+dish|/dɪʃ/|n.|菜
+side dish|||配菜
+@午餐便當
+rice bowl|||蓋飯
+sandwich|/ˈsænwɪdʒ/|n.|三明治
+make a sandwich|||做三明治
+soup|/suːp/|n.|湯
+have soup|||喝湯
+@晚餐正餐
+appetizer|/ˈæpɪtaɪzə(r)/|n.|開胃菜
+cold dishes|||涼菜
+hot dishes|||熱菜
+staple food|||主食
+after-dinner drink|||餐後酒
+@加餐夜宵
+crisps|/krɪsps/|n.|洋芋片
+eat crisps|||吃洋芋片
+crackers|/ˈkrækəz/|n.|餅乾
+pastry|/ˈpeɪstri/|n.|糕點
+buy pastry|||買糕點
+@營養均衡
+protein|/ˈprəʊtiːn/|n.|蛋白質
+fats|/fæts/|n.|脂肪
+reduce fats|||減少脂肪
+fiber|/ˈfaɪbə(r)/|n.|膳食纖維
+high in fiber|||富含纖維
+@餐後處理
+box food up|||打包食物
+store|/stɔː(r)/|v.|存放
+reheat|/ˌriːˈhiːt/|v.|再加熱
+do the dishes|||洗碗
+discard|/dɪˈskɑːd/|v.|丟棄
+#7|零食甜點|Snacks & Desserts
+@膨化食品
+chips|/tʃɪps/|n.|洋芋片
+popcorn|/ˈpɒpkɔːn/|n.|爆米花
+eat popcorn|||吃爆米花
+cracker|/ˈkrækə(r)/|n.|薄脆餅乾
+shrimp crackers|||蝦片
+@巧克力糖果
+candy|/ˈkændi/|n.|糖果
+chocolate|/ˈtʃɒklət/|n.|巧克力
+lollipop|/ˈlɒlipɒp/|n.|棒棒糖
+nougat|/ˈnuːɡɑː/|n.|牛軋糖
+eat nougat|||吃牛軋糖
+@蛋糕西點
+tart|/tɑːt/|n.|餡餅
+egg tart|||蛋塔
+cheesecake|/ˈtʃiːzkeɪk/|n.|起司蛋糕
+eat cheesecake|||吃起司蛋糕
+pie|/paɪ/|n.|派
+@冰品冷飲
+cream|/kriːm/|n.|奶油
+ice cream|||冰淇淋
+popsicle|/ˈpɒpsɪkl/|n.|冰棒
+eat a popsicle|||吃冰棒
+frozen yogurt|||霜凍優格
+@口感描述
+crunchy|/ˈkrʌntʃi/|adj.|酥脆的
+flaky|/ˈfleɪki/|adj.|鬆脆的
+flaky pastry|||鬆脆糕點
+creamy|/ˈkriːmi/|adj.|絲滑的
+creamy texture|||絲滑口感
+@包裝形式
+serve|/sɜːv/|n.|份
+single-serve|||單人份
+size|/saɪz/|n.|尺寸
+family size|||家庭裝
+in bulk|||散裝
+#8|飲品飲料|Drinks & Beverages
+@茶與咖啡
+latte|/ˈlɑːteɪ/|n.|拿鐵咖啡
+drink a latte|||喝拿鐵
+green tea|||綠茶
+oolong|/ˈuːlɒŋ/|n.|烏龍茶
+drink oolong tea|||喝烏龍茶
+@軟飲料
+water|/ˈwɔːtə(r)/|n.|水
+sparkling water|||氣泡水
+soda|/ˈsəʊdə/|n.|蘇打水
+juice|/dʒuːs/|n.|果汁
+drink juice|||喝果汁
+@酒精飲品
+beer|/bɪə(r)/|n.|啤酒
+drink beer|||喝啤酒
+wine|/waɪn/|n.|葡萄酒
+drink wine|||喝葡萄酒
+cocktail|/ˈkɒkteɪl/|n.|雞尾酒
+@飲用溫度
+hot|/hɒt/|adj.|熱的
+room temperature|||常溫
+chilled|/tʃɪld/|adj.|冰鎮的
+iced|/aɪst/|adj.|加冰的
+ice-free|||去冰的
+@甜度選擇
+extra sugar|||加糖
+full sugar|||全糖
+half sugar|||半糖
+less sugar|||少糖
+a little sugar|||微糖
+@容器量詞
+glass|/ɡlɑːs/|n.|杯
+can|/kæn/|n.|罐
+bottle|/ˈbɒtl/|n.|瓶
+pot|/pɒt/|n.|壺
+jug|/dʒʌɡ/|n.|壺
+#9|特殊人群|Healthy Eating
+@特殊人群
+vegan|/ˈviːɡən/|n.|純素食者
+go vegan|||成為素食者
+have diabetes|||有糖尿病
+picky|/ˈpɪki/|adj.|挑食的
+picky eater|||挑食的人
+@減脂飲食
+carb|||碳水
+low-carb|||低碳水的
+low-fat|||低脂的
+protein|/ˈprəʊtiːn/|n.|蛋白質
+high-protein|||高蛋白的
+@成分標籤
+calories|/ˈkæləriz/|n.|卡路里
+count calories|||計算卡路里
+trans fat|||反式脂肪
+organic|/ɔːˈɡænɪk/|adj.|有機的
+organic food|||有機食品
+@過敏源
+nuts|/nʌts/|n.|堅果
+dairy|/ˈdeəri/|n.|乳製品
+dairy products|||乳製品
+shellfish|/ˈʃelfɪʃ/|n.|甲殼類海鮮
+seeds|/siːdz/|n.|種子
+@飲食習慣
+regular|/ˈreɡjələ(r)/|adj.|規律的
+balanced|/ˈbælənst/|adj.|均衡的
+balanced diet|||均衡飲食
+clean eating|||健康飲食
+binge eating|||暴飲暴食
+@健康建議
+drink more water|||多喝水
+intake|/ˈɪnteɪk/|n.|攝入量
+limit salt intake|||少鹽
+chew|/tʃuː/|v.|咀嚼
+chew slowly|||細嚼慢嚥
+#10|口味口感|Flavor & Texture
+@基礎味道
+sweet|/swiːt/|adj.|甜的
+salty|/ˈsɔːlti/|adj.|鹹的
+sour|/ˈsaʊə(r)/|adj.|酸的
+bitter|/ˈbɪtə(r)/|adj.|苦的
+spicy|/ˈspaɪsi/|adj.|辣的
+@進階味道
+savory|/ˈseɪvəri/|adj.|鮮香的
+taste savory|||嚐起來鮮
+light|/laɪt/|adj.|清淡的
+greasy|/ˈɡriːsi/|adj.|油膩的
+be greasy|||很油的
+@嗅覺描述
+aroma|/əˈrəʊmə/|n.|香氣
+burnt|/bɜːnt/|adj.|焦的
+smell burnt|||聞起來像燒焦了
+stink|/stɪŋk/|n.|臭味
+give off a stink|||發出臭味
+@溫度口感
+ice-cold|||冰涼的
+refreshing|/rɪˈfreʃɪŋ/|adj.|清爽的
+tepid|/ˈtepɪd/|adj.|溫熱的
+steaming|/ˈstiːmɪŋ/|adj.|冒熱氣的
+be steaming hot|||熱氣騰騰
+@質地口感
+moist|/mɔɪst/|adj.|濕潤的
+stay moist|||保持濕潤
+dry|/draɪ/|adj.|乾的
+stale|/steɪl/|adj.|不新鮮的
+go stale|||變不新鮮
+@評價用語
+delicious|/dɪˈlɪʃəs/|adj.|美味的
+taste delicious|||嚐起來很美味
+yummy|/ˈjʌmi/|adj.|好吃的
+traditional|/trəˈdɪʃənl/|adj.|傳統的
+tasteless|/ˈteɪstləs/|adj.|無味的
+#11|家庭用餐|Family Dining
+@餐前準備
+tablecloth|/ˈteɪblklɒθ/|n.|桌布
+lay the tablecloth|||鋪桌布
+napkin|/ˈnæpkɪn/|n.|餐巾
+tray|/treɪ/|n.|托盤
+carry a tray|||端托盤
+@烹飪工具
+knife|/naɪf/|n.|菜刀
+board|/bɔːd/|n.|砧板
+peeler|/ˈpiːlə(r)/|n.|削皮器
+pan|/pæn/|n.|平底鍋
+mixer|/ˈmɪksə(r)/|n.|攪拌器
+@烹飪動作
+boil|/bɔɪl/|v.|煮
+steam|/stiːm/|v.|蒸
+stew|/stjuː/|v.|燉
+fry|/fraɪ/|v.|炸
+roast|/rəʊst/|v.|烤
+@調味用品
+salt|/sɔːlt/|n.|鹽
+sugar|/ˈʃʊɡə(r)/|n.|糖
+oil|/ɔɪl/|n.|食用油
+vinegar|/ˈvɪnɪɡə(r)/|n.|醋
+pepper|/ˈpepə(r)/|n.|胡椒
+@餐桌禮儀
+take a seat|||入座
+help yourself|||自便
+serve the guests|||給客人夾菜
+make a toast|||敬酒
+bottoms up|||乾杯
+@家庭氛圍
+gather|/ˈɡæðə(r)/|v.|聚在一起
+chat|/tʃæt/|v.|聊天
+reunion|/ˌriːˈjuːniən/|n.|團聚
+cozy|/ˈkəʊzi/|adj.|溫馨的
+close|/kləʊs/|adj.|親密的
+#12|學校食堂|School Canteen
+@食堂設施
+canteen|/kænˈtiːn/|n.|食堂
+dining hall|||餐廳大廳
+service counter|||服務台
+ordering window|||點餐窗口
+food waste bin|||廚餘垃圾桶
+@選餐流程
+top up the card|||儲值
+check the balance|||查詢餘額
+peak hour|||尖峰時段
+meat dish|||葷菜
+tap the card|||刷卡
+@餐具用品
+plastic tray|||塑膠托盤
+spoon|/spuːn/|n.|湯匙
+metal spoon|||金屬湯匙
+bowl|/bəʊl/|n.|碗
+soup bowl|||湯碗
+@常見餐食
+beef over rice|||牛肉蓋飯
+curry chicken rice|||咖哩雞飯
+spicy tofu|||麻婆豆腐
+noodle soup|||湯麵
+dumpling|/ˈdʌmplɪŋ/|n.|餃子
+@擁擠狀況
+cut in line|||插隊
+push and shove|||推擠
+save a seat|||佔座
+share a table|||併桌
+fully occupied|||已滿
+@評價反饋
+cheap|/tʃiːp/|adj.|便宜的
+reasonable|/ˈriːznəbl/|adj.|合理的
+reasonably priced|||價格合理
+expensive|/ɪkˈspensɪv/|adj.|昂貴的
+fresh|/freʃ/|adj.|新鮮的
+#13|餐廳用餐|Dining Out
+@預訂座位
+book|/bʊk/|v.|預訂
+book a table|||訂位
+reserve|/rɪˈzɜːv/|v.|預約
+arrange|/əˈreɪndʒ/|v.|安排
+confirm|/kənˈfɜːm/|v.|確認
+@點餐諮詢
+menu|/ˈmenjuː/|n.|菜單
+look at the menu|||看菜單
+today's special|||今日推薦
+course|/kɔːs/|n.|菜品
+main course|||主菜
+@上菜服務
+take so long|||上菜太慢
+rush the order|||催菜
+refill the water|||加水
+clear the table|||收盤子
+extra napkins|||多要紙巾
+@結賬支付
+pay the bill|||買單
+scan the QR code|||掃碼
+go Dutch|||各付各的
+wrap it up|||打包
+doggie bag|||打包盒
+@餐廳類型
+local|/ˈləʊkl/|adj.|本地的
+exotic|/ɪɡˈzɒtɪk/|adj.|異國風味的
+fast food|||速食
+hotpot|||火鍋
+buffet|/ˈbʊfeɪ/|n.|自助餐
+@用餐體驗
+service|/ˈsɜːvɪs/|n.|服務
+good service|||服務好
+price|/praɪs/|n.|價格
+rating|/ˈreɪtɪŋ/|n.|評分
+high rating|||高評分
+#14|外賣快餐|Fast Food & Takeout
+@下單點餐
+app|||應用程式
+online|/ˌɒnˈlaɪn/|adj.|線上的
+delivery|/dɪˈlɪvəri/|n.|外送
+coupon|/ˈkuːpɒn/|n.|優惠券
+discount|/ˈdɪskaʊnt/|n.|折扣
+@配送追蹤
+delivery rider|||外送員
+pick up|||取餐
+track the order|||追蹤訂單
+delayed|/dɪˈleɪd/|adj.|延誤的
+apologize|/əˈpɒlədʒaɪz/|v.|道歉
+@包裝形式
+container|/kənˈteɪnə(r)/|n.|餐盒
+paper straw|||紙吸管
+disposable gloves|||一次性手套
+safety seal|||封籤
+leak|/liːk/|n.|滲漏
+@取餐方式
+self-pickup|||自取
+pickup code|||取餐碼
+food delivery locker|||外送櫃
+reception|/rɪˈsepʃn/|n.|前台
+at the reception|||在前台
+@備註要求
+extra spicy|||多放辣
+extra sauce|||多醬
+less oil|||少油
+no green onions|||不要蔥
+no coriander|||不要香菜
+@評價投訴
+five-star rating|||五星好評
+negative review|||負評
+leaked out|||漏灑
+not as described|||與描述不符
+complaint|/kəmˈpleɪnt/|n.|投訴
+#15|節日美食|Festival Foods
+@傳統食俗
+jiaozi|/ˈdʒaʊdzɜː/|n.|餃子
+tangyuan|/ˈtɑːŋjuːæn/|n.|湯圓
+zongzi|/ˈzɒŋdzɜː/|n.|粽子
+mooncake|/ˈmuːnkeɪk/|n.|月餅
+spring roll|||春捲
+@西方食俗
+turkey|/ˈtɜːki/|n.|火雞
+roast a turkey|||烤火雞
+mashed potatoes|||馬鈴薯泥
+pumpkin|/ˈpʌmpkɪn/|n.|南瓜
+pumpkin pie|||南瓜派
+@節日食品
+chicken|/ˈtʃɪkɪn/|n.|雞
+whole chicken|||整雞
+pork|/pɔːk/|n.|豬肉
+roast pork|||烤豬肉
+rice wine|||米酒
+@家庭製作
+rolling pin|||擀麵棍
+recipe|/ˈresəpi/|n.|食譜
+secret recipe|||秘方
+brew|/bruː/|v.|釀造
+brew wine|||釀酒
+@禮盒饋贈
+specialty|/ˈspeʃəlti/|n.|特產
+local specialty|||當地特產
+gift|/ɡɪft/|n.|禮物
+give a gift|||送禮
+souvenir|/ˌsuːvəˈnɪə(r)/|n.|伴手禮
+@飲食文化
+banquet|/ˈbæŋkwɪt/|n.|宴席
+hold a banquet|||設宴
+feast|/fiːst/|n.|宴席
+running feast|||流水席
+round table|||圓桌

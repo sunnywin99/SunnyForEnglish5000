@@ -1,0 +1,555 @@
+#1|城市景觀|Urban Landscape
+@高樓建築
+skyscraper|/ˈskaɪskreɪpə(r)/|n.|摩天大樓
+office tower|||辦公大樓
+landmark|/ˈlændmɑːk/|n.|地標
+become a landmark|||成為地標
+business district|||商業區
+@道路設施
+highway|/ˈhaɪweɪ/|n.|高速公路
+flyover|/ˈflaɪəʊvə(r)/|n.|立交橋（高架橋）
+tunnel|/ˈtʌnl/|n.|隧道
+underpass|/ˈʌndəpɑːs/|n.|地下通道
+crosswalk|/ˈkrɒswɔːk/|n.|斑馬線（美式）
+@城市天際線
+horizon|/həˈraɪzn/|n.|地平線
+on the horizon|||在地平線上
+reflection|/rɪˈflekʃn/|n.|倒影
+water reflection|||水中倒影
+neon lights|||霓虹燈
+@自然融合
+street trees|||行道樹
+greenbelt|/ˈɡriːnbelt/|n.|綠化帶
+canal|/kəˈnæl/|n.|運河
+artificial lake|||人工湖
+fountain|/ˈfaʊntɪn/|n.|噴泉
+@歷史痕跡
+ruins|/ˈruːɪnz/|n.|遺址
+historical ruins|||歷史遺址
+monument|/ˈmɒnjumənt/|n.|紀念碑
+statue|/ˈstætʃuː/|n.|雕像
+old town|||老城區
+@街頭藝術
+graffiti|/ɡrəˈfiːti/|n.|塗鴉
+street graffiti|||街頭塗鴉
+sculpture|/ˈskʌlptʃə(r)/|n.|雕塑
+stone sculpture|||石雕
+mural|/ˈmjʊərəl/|n.|壁畫
+#2|城市區域|Urban Areas
+@居住區域
+residential area|||住宅區
+housing|/ˈhaʊzɪŋ/|n.|住房
+public housing|||公共住宅（國宅）
+community|/kəˈmjuːnəti/|n.|社區
+gated community|||封閉式社區
+@商業區域
+district|/ˈdɪstrɪkt/|n.|區域
+financial district|||金融區
+shopping mall|||購物中心
+boutique|/buːˈtiːk/|n.|精品店
+open a boutique|||開一家精品店
+@功能特定區
+university town|||大學城
+arts district|||藝術區
+cultural district|||文化區
+gallery|/ˈɡæləri/|n.|畫廊
+an art gallery|||藝術畫廊
+@工業區域
+hub|/hʌb/|n.|樞紐
+distribution hub|||物流中心
+tech hub|||科技園區
+factory|/ˈfæktri/|n.|工廠
+warehouse|/ˈweəhaʊs/|n.|倉庫
+@行政區域
+civic|/ˈsɪvɪk/|adj.|市政的
+civic center|||市政中心
+embassy|/ˈembəsi/|n.|大使館
+embassy district|||使館區
+consulate|/ˈkɒnsjələt/|n.|領事館
+@邊緣區域
+suburbs|/ˈsʌbɜːbz/|n.|郊區
+live in the suburbs|||住在郊區
+fringe|/frɪndʒ/|n.|邊緣
+urban-rural fringe|||城鄉結合部
+wasteland|/ˈweɪstlænd/|n.|荒地
+#3|公共空間|Public Spaces
+@公園綠地
+playground|/ˈpleɪɡraʊnd/|n.|遊樂場
+pavilion|/pəˈvɪljən/|n.|涼亭
+bench|/bentʃ/|n.|長椅
+flower bed|||花壇
+grove|/ɡrəʊv/|n.|小樹林
+@休閒設施
+pull-up bar|||單槓
+parallel bars|||雙槓
+slide|/slaɪd/|n.|溜滑梯
+swing|/swɪŋ/|n.|鞦韆
+seesaw|/ˈsiːsɔː/|n.|蹺蹺板
+@廣場集會
+tiers|/tɪəz/|n.|台階
+skatepark|/ˈskeɪtpɑːk/|n.|滑板公園
+busk|/bʌsk/|v.|街頭表演
+busk in public|||在公共場所表演
+pigeon|/ˈpɪdʒɪn/|n.|鴿子
+@水景設施
+riverbank|/ˈrɪvəbæŋk/|n.|河岸
+along the riverbank|||沿河岸
+boardwalk|/ˈbɔːdwɔːk/|n.|木棧道
+pier|/pɪə(r)/|n.|碼頭
+fishing pier|||釣魚碼頭
+@避難場所
+exit|/ˈeksɪt/|n.|出口
+emergency exit|||緊急出口
+shelter|/ˈʃeltə(r)/|n.|避難所
+emergency shelter|||應急避難所
+air-raid shelter|||防空洞
+@街道空間
+alley|/ˈæli/|n.|小巷
+hutong|||胡同
+old Beijing hutongs|||老北京胡同
+dead end|||死胡同
+blind spot|||死角
+#4|公共設施|Public Facilities
+@衛生設施
+restroom|/ˈrestruːm/|n.|廁所
+public restroom|||公共廁所
+cubicle|/ˈkjuːbɪkl/|n.|隔間
+a toilet cubicle|||廁所隔間
+waste sorting station|||垃圾分類站
+@照明設施
+streetlight|/ˈstriːtlaɪt/|n.|路燈
+under a streetlight|||在路燈下
+lamppost|/ˈlæmppəʊst/|n.|燈柱
+traffic light|||紅綠燈
+indicator|/ˈɪndɪkeɪtə(r)/|n.|指示燈
+@便民設施
+vending machine|||自動販賣機
+pile|/paɪl/|n.|樁
+charging pile|||充電樁
+hotspot|/ˈhɒtspɒt/|n.|無線熱點
+connect to a hotspot|||連接熱點
+@通訊郵政
+post office|||郵局
+broadband|/ˈbrɔːdbænd/|n.|寬頻
+install broadband|||安裝寬頻
+wireless|/ˈwaɪələs/|adj.|無線的
+wireless network|||無線網路
+@市政管網
+cover|/ˈkʌvə(r)/|n.|蓋子
+manhole cover|||人孔蓋（井蓋）
+drain|/dreɪn/|n.|排水口
+clean the drain|||清理排水口
+sewer|/ˈsuːə(r)/|n.|下水道
+@無障礙設施
+ramp|/ræmp/|n.|坡道
+wheelchair ramp|||無障礙坡道
+elevator|/ˈelɪveɪtə(r)/|n.|電梯
+accessible elevator|||無障礙電梯
+priority seating|||博愛座（優先座位）
+#5|政府機構|Government
+@行政單位
+city hall|||市政府
+district government|||區政府
+department|/dɪˈpɑːtmənt/|n.|部門
+bureau|/ˈbjʊərəʊ/|n.|局
+official|/əˈfɪʃl/|n.|官員
+@司法機構
+court|/kɔːt/|n.|法院
+judge|/dʒʌdʒ/|n.|法官
+prosecutor|/ˈprɒsɪkjuːtə(r)/|n.|檢察官
+lawyer|/ˈlɔːjə(r)/|n.|律師
+jury|/ˈdʒʊəri/|n.|陪審團
+@公共管理
+regulate|/ˈreɡjuleɪt/|v.|監管
+regulate the market|||監管市場
+inspect|/ɪnˈspekt/|v.|檢查
+inspect a facility|||檢查設施
+fine|/faɪn/|v.|罰款
+@社區服務
+elderly care|||養老服務
+daycare|/ˈdeɪkeə(r)/|n.|托幼服務
+register|/ˈredʒɪstə(r)/|v.|登記
+consult|/kənˈsʌlt/|v.|諮詢
+volunteer|/ˌvɒlənˈtɪə(r)/|n.|志工
+@外交機構
+embassy|/ˈembəsi/|n.|大使館
+mission|/ˈmɪʃn/|n.|使團
+diplomat|/ˈdɪpləmæt/|n.|外交官
+ambassador|/æmˈbæsədə(r)/|n.|大使
+visa|/ˈviːzə/|n.|簽證
+@公共事務
+plan|/plæn/|n.|規劃
+allocate|/ˈæləkeɪt/|v.|分配
+notify|/ˈnəʊtɪfaɪ/|v.|通知
+vote|/vəʊt/|v.|投票
+election|/ɪˈlekʃn/|n.|選舉
+#6|社區生活|Community
+@居民構成
+native|/ˈneɪtɪv/|n.|本地居民
+homeowner|/ˈhəʊməʊnə(r)/|n.|房主
+tenant|/ˈtenənt/|n.|租戶
+newcomer|/ˈnjuːkʌmə(r)/|n.|新來者
+welcome newcomers|||歡迎新來者
+@社區活動
+flea market|||跳蚤市場
+used goods|||二手物品
+town hall meeting|||居民大會
+turnout|/ˈtɜːnaʊt/|n.|出席率
+high turnout|||高出席率
+@服務網點
+convenience store|||便利商店
+pharmacy|/ˈfɑːməsi/|n.|藥局
+go to a pharmacy|||去藥局
+barbershop|/ˈbɑːbəʃɒp/|n.|理髮店
+at a barbershop|||在理髮店
+@社區安全
+security gate|||門禁
+security guard|||保全
+intercom|/ˈɪntəkɒm/|n.|對講機
+use the intercom|||使用對講機
+fob|/fɒb/|n.|門禁卡
+@鄰里關係
+small talk|||閒聊
+borrow|/ˈbɒrəʊ/|v.|借用
+gossip|/ˈɡɒsɪp/|n.|八卦
+disturb|/dɪˈstɜːb/|v.|打擾
+do not disturb|||請勿打擾
+@物業管理
+deposit|/dɪˈpɒzɪt/|n.|押金
+pay a deposit|||付押金
+arrears|/əˈrɪəz/|n.|欠費
+fall into arrears|||欠費
+feedback|/ˈfiːdbæk/|n.|反饋
+#7|城市出行|Urban Mobility
+@路況描述
+clear|/klɪə(r)/|adj.|暢通的
+heavy traffic|||交通擁擠
+roadworks|||道路施工
+detour|/ˈdiːtʊə(r)/|n.|繞行路線
+breakdown|/ˈbreɪkdaʊn/|n.|拋錨
+@通勤方式
+commute|/kəˈmjuːt/|v.|通勤
+commute by train|||搭火車通勤
+shuttle bus|||接駁車（通勤車）
+transit hub|||交通樞紐
+split the cost|||分攤費用
+@時段特徵
+hour|/ˈaʊə(r)/|n.|小時；時段
+rush hour|||尖峰時段
+last bus|||末班車
+night shift|||夜班
+red-eye flight|||紅眼航班
+@打車服務
+taxi|/ˈtæksi/|n.|計程車
+take a taxi|||搭計程車
+taximeter|/ˈtæksimiːtə(r)/|n.|計價器
+check the taximeter|||查看計價器
+charge|/tʃɑːdʒ/|n.|費用
+@費用支付
+smart card|||交通卡（悠遊卡）
+pass|/pɑːs/|n.|通行證
+monthly pass|||月票
+swipe|/swaɪp/|v.|刷卡
+swipe a card|||刷卡
+@出行難點
+restriction|/rɪˈstrɪkʃn/|n.|限制
+traffic restrictions|||限行
+refusal of service|||拒載
+ticket|/ˈtɪkɪt/|n.|罰單
+pay a ticket|||繳罰款
+#8|購物消費|Shopping
+@商場類型
+store|/stɔː(r)/|n.|商店
+department store|||百貨公司
+plaza|/ˈplɑːzə/|n.|商業廣場
+warehouse club|||倉儲會員店（量販店）
+duty-free shop|||免稅店
+@店鋪類別
+grocery store|||雜貨店
+drugstore|/ˈdrʌɡstɔː(r)/|n.|藥妝店
+go to a drugstore|||去藥妝店
+concept store|||概念店
+pop-up store|||快閃店
+@支付環節
+cashier|/kæˈʃɪə(r)/|n.|收銀台
+go to the cashier|||去收銀台
+scan-to-pay|||掃碼支付
+receipt|/rɪˈsiːt/|n.|收據
+keep the receipt|||保留收據
+@購物設施
+trolley|/ˈtrɒli/|n.|購物車（英式）
+push a trolley|||推購物車
+locker|/ˈlɒkə(r)/|n.|置物櫃
+use a locker|||使用置物櫃
+fitting room|||試衣間
+@促銷活動
+clearout|||清倉
+markdown|/ˈmɑːkdaʊn/|n.|降價
+apply a markdown|||進行降價
+voucher|/ˈvaʊtʃə(r)/|n.|代金券
+use a voucher|||使用代金券
+@售後服務
+warranty|/ˈwɒrənti/|n.|保固
+under warranty|||在保固期內
+return|/rɪˈtɜːn/|v.|退貨
+return an item|||退貨
+exchange|/ɪksˈtʃeɪndʒ/|v.|換貨
+#9|休閒娛樂|Leisure & Fun
+@室內娛樂
+karaoke|/ˌkæriˈəʊki/|n.|卡拉 OK
+sing karaoke|||唱卡拉 OK
+escape room|||密室逃脫
+LARP|||實境角色扮演
+play LARP|||玩實境角色扮演
+@文化場所
+public library|||公共圖書館
+museum|/mjuˈziːəm/|n.|博物館
+art gallery|||美術館
+exhibition center|||展覽中心
+theater|/ˈθɪətə(r)/|n.|劇院
+@觀演場所
+cinema|/ˈsɪnəmə/|n.|電影院
+playhouse|||小劇場
+concert hall|||音樂廳
+livehouse|||現場音樂展演空間
+stadium|/ˈsteɪdiəm/|n.|體育場
+@晚間休閒
+night market|||夜市
+food stall|||小吃攤
+night walk|||夜間散步
+night run|||夜跑
+campus event|||校園活動
+@票務入場
+VIP pass|||貴賓票
+e-ticket|||電子票
+general admission|||普通票
+security check|||安檢
+bag drop|||寄物處
+@觀眾行為
+whisper|/ˈwɪspə(r)/|v.|低聲說話
+applause|/əˈplɔːz/|n.|掌聲
+receive applause|||獲得掌聲
+encore|/ˈɒŋkɔː(r)/|n.|安可（返場）
+perform an encore|||安可演出
+#10|工作場所|Workplace
+@辦公環境
+workstation|/ˈwɜːksteɪʃn/|n.|工位
+at the workstation|||在工位
+office hub|||辦公中心
+meeting room|||會議室
+breakroom|/ˈbreɪkruːm/|n.|茶水間
+@會議空間
+U-shaped seating|||U 形座位
+screen|/skriːn/|n.|投影幕
+look at the screen|||看螢幕
+smartboard|/ˈsmɑːtbɔːd/|n.|智慧白板
+conference phone|||會議電話
+@生產場所
+workshop|/ˈwɜːkʃɒp/|n.|車間
+assembly line|||生產線
+laboratory|/ləˈbɒrətri/|n.|實驗室
+loading dock|||裝卸區
+inventory|/ˈɪnvəntri/|n.|庫存
+@遠程辦公
+remote work|||遠端工作
+WFH|||居家辦公
+hybrid work|||混合辦公
+SOHO|||小型家庭辦公室
+digital nomad|||數位遊牧民族
+@辦公用品
+printer|/ˈprɪntə(r)/|n.|印表機
+copier|/ˈkɒpiə(r)/|n.|影印機
+scanner|/ˈskænə(r)/|n.|掃描器
+stapler|/ˈsteɪplə(r)/|n.|釘書機
+use a stapler|||使用釘書機
+@職場氛圍
+brainstorming|||腦力激盪
+work overtime|||加班
+burnout|/ˈbɜːnaʊt/|n.|職業倦怠
+slack off|||摸魚
+quit|/kwɪt/|v.|辭職
+#11|職業角色|Job Roles
+@企業職員
+intern|/ˈɪntɜːn/|n.|實習生
+work as an intern|||擔任實習生
+associate|/əˈsəʊʃieɪt/|n.|初級員工
+supervisor|/ˈsuːpəvaɪzə(r)/|n.|主管
+executive|/ɪɡˈzekjətɪv/|n.|高階主管
+@服務人員
+receptionist|/rɪˈsepʃənɪst/|n.|櫃台人員
+sales assistant|||導購（店員）
+salesperson|/ˈseɪlzpɜːsn/|n.|銷售員
+courier|/ˈkʊriə(r)/|n.|快遞員
+driver|/ˈdraɪvə(r)/|n.|司機
+@技術人員
+programmer|/ˈprəʊɡræmə(r)/|n.|程式設計師
+developer|/dɪˈveləpə(r)/|n.|開發人員
+mechanic|/məˈkænɪk/|n.|技工
+welder|/ˈweldə(r)/|n.|焊工
+carpenter|/ˈkɑːpəntə(r)/|n.|木工
+@自由職業
+blogger|/ˈblɒɡə(r)/|n.|部落客（博主）
+become a blogger|||成為部落客
+influencer|/ˈɪnfluənsə(r)/|n.|網紅
+illustrator|/ˈɪləstreɪtə(r)/|n.|插畫家
+translator|/trænzˈleɪtə(r)/|n.|譯者
+@公務人員
+clerk|/klɑːk/|n.|職員
+police officer|||警察
+detective|/dɪˈtektɪv/|n.|刑警
+firefighter|/ˈfaɪəfaɪtə(r)/|n.|消防員
+paramedic|/ˌpærəˈmedɪk/|n.|急救人員
+@職業狀態
+recruit|/rɪˈkruːt/|v.|招聘
+onboarding|||入職流程
+promotion|/prəˈməʊʃn/|n.|升職
+resign|/rɪˈzaɪn/|v.|辭職
+retire|/rɪˈtaɪə(r)/|v.|退休
+#12|校園生活|Campus Life
+@校園設施
+cafeteria|/ˌkæfəˈtɪəriə/|n.|食堂
+gym|/dʒɪm/|n.|體育館
+lecture hall|||階梯教室
+seminar room|||研討室
+teacher's office|||教師辦公室
+@課堂活動
+roll call|||點名
+presentation|/ˌpreznˈteɪʃn/|n.|報告
+group discussion|||小組討論
+case study|||案例分析
+Q&A session|||問答環節
+@課間休息
+take a break|||休息一下
+chat|/tʃæt/|v.|聊天
+chat with classmates|||和同學聊天
+nap|/næp/|n.|小睡
+take a nap|||小憩
+@校園組織
+club|/klʌb/|n.|社團
+student club|||學生社團
+union|/ˈjuːnjən/|n.|聯合會
+student union|||學生會
+school team|||校隊
+@學業階段
+semester|/sɪˈmestə(r)/|n.|學期
+spring semester|||春季學期
+thesis|/ˈθiːsɪs/|n.|論文
+write a thesis|||寫論文
+graduate|/ˈɡrædʒueɪt/|v.|畢業
+@升學相關
+preferences|/ˈprefrənsɪz/|n.|志願選擇
+fill in preferences|||填志願
+major|/ˈmeɪdʒə(r)/|n.|主修（科系）
+choose a major|||選擇科系
+take a mock exam|||參加模擬考
+#13|交通秩序|Traffic Order
+@交通信號
+road sign|||道路標誌
+traffic lights|||紅綠燈
+turn signal|||方向燈
+horn|/hɔːn/|n.|喇叭
+car horn|||汽車喇叭
+@行人規則
+pavement|/ˈpeɪvmənt/|n.|人行道（英式）
+on the pavement|||在人行道上
+zebra crossing|||斑馬線
+use the zebra crossing|||走斑馬線
+subway|/ˈsʌbweɪ/|n.|地下道（英式）
+@駕駛規則
+speeding|/ˈspiːdɪŋ/|n.|超速
+no speeding|||禁止超速
+pass|/pɑːs/|v.|超車
+pass another car|||超另一輛車
+make a U-turn|||迴轉
+@交通標誌
+one-way street|||單行道
+no parking|||禁止停車
+no U-turn|||禁止迴轉
+give way|||讓行
+keep right|||靠右行駛
+@處罰措施
+pull over|||靠邊停車
+fine|/faɪn/|n.|罰款
+pay a fine|||繳罰款
+points|/pɔɪnts/|n.|記點（扣分）
+lose points|||被記點
+@事故處理
+crash|/kræʃ/|n.|撞車
+minor crash|||輕微事故
+car damage|||車輛損壞
+flat tire|||爆胎
+report the accident|||報告事故
+#14|公共安全|Public Safety
+@消防設施
+alarm|/əˈlɑːm/|n.|警報器
+smoke alarm|||煙霧警報器
+sensor|/ˈsensə(r)/|n.|感應器
+heat sensor|||熱感應器
+fire escape|||消防通道
+@治安監控
+camera|/ˈkæmərə/|n.|攝影機
+security camera|||監視器
+night vision|||夜視功能
+facial recognition|||人臉辨識
+burglar alarm|||防盜警報器
+@急救資源
+first-aid kit|||急救箱
+carry a first-aid kit|||攜帶急救箱
+stretcher|/ˈstretʃə(r)/|n.|擔架
+put on a stretcher|||放到擔架上
+ambulance|/ˈæmbjələns/|n.|救護車
+@警示標誌
+watch your step|||注意腳下
+slippery floor|||小心地滑
+mind the gap|||注意間隙
+high voltage|||高壓危險
+keep out|||禁止入內
+@人群控制
+panic|/ˈpænɪk/|n.|恐慌
+panic situation|||恐慌情況
+chaos|/ˈkeɪɒs/|n.|混亂
+line up|||排隊
+leave the area|||離開現場
+@防災演練
+drill|/drɪl/|n.|演練
+fire drill|||消防演練
+earthquake drill|||地震演練
+route|/ruːt/|n.|路線
+escape route|||逃生路線
+#15|環保城市|Green City
+@垃圾分類
+waste|/weɪst/|n.|垃圾（概念詞）
+food waste|||廚餘
+rubbish|/ˈrʌbɪʃ/|n.|垃圾（英式）
+trash|/træʃ/|n.|垃圾（美式）
+throw trash away|||把垃圾扔掉
+@節能減排
+solar power|||太陽能
+wind power|||風能
+water power|||水力
+electric power|||電力
+save electric power|||省電
+@綠色交通
+bike lane|||自行車道
+bike lane sign|||自行車道標誌
+bus lane|||公車專用道
+shared bike|||共享單車
+ride a shared bike|||騎共享單車
+@綠色建築
+recycled materials|||再生材料
+coating|/ˈkəʊtɪŋ/|n.|塗層
+waterproof coating|||防水塗層
+dust-free|||無塵的
+dust-free room|||無塵室
+@環保行為
+reuse|/ˌriːˈjuːz/|v.|重複使用
+reuse bags|||重複使用袋子
+collect|/kəˈlekt/|v.|收集
+collect bottles|||收集瓶子
+save water|||節約用水
+@污染控制
+pollution|/pəˈluːʃn/|n.|污染
+air pollution|||空氣污染
+noise pollution|||噪音污染
+water pollution|||水污染
+light pollution|||光污染

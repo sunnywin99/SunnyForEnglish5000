@@ -67,6 +67,7 @@ h2{font-size:22px}
 .themes{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,190px),1fr));gap:10px}
 .tcard{display:block;text-decoration:none;color:inherit;background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
 .tcard .n{font-family:var(--font-en);font-weight:900;color:var(--accent)}
+.chh{display:flex;align-items:center;gap:8px;font-size:18px;margin:22px 0 10px}
 .tcard .en{font-family:var(--font-en);font-size:13px;color:var(--muted)}
 .meter{height:6px;border-radius:3px;background:var(--bg);overflow:hidden;margin-top:6px;display:flex}
 .meter i{display:block;height:100%}
@@ -148,7 +149,7 @@ h2{font-size:22px}
 
 <script>
 const DATA=/*__DATA__*/null;
-const THEMES=DATA.themes;
+const THEMES=DATA.themes, CHAPTERS=DATA.chapters;
 const INTERVALS=[1,3,7,15,30];       // 學完後第幾天複習
 const MARKS={ok:"✓",mid:"△",no:"✗"};
 const $=s=>document.querySelector(s);
@@ -199,29 +200,33 @@ if("speechSynthesis" in window){pickVoice();speechSynthesis.onvoiceschanged=pick
 function speak(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="en-US";u.rate=.85;if(voice)u.voice=voice;speechSynthesis.speak(u)}catch(e){}}
 
 /* ---------- helpers ---------- */
-const theme=id=>THEMES.find(t=>t.id==id);
+const theme=key=>THEMES.find(t=>t.key==key);
+const href=(t,m)=>`#t-${t.ch}-${t.id}${m?"-"+m:""}`;
+const label=t=>`${t.ch}-${t.id}`;
+const chName=ch=>`第 ${ch} 章 ${CHAPTERS[ch]}`;
 const allWords=t=>t.branches.flatMap((b,bi)=>b.words.map(w=>({w,bi,branch:b.name,t})));
-function counts(t){const m=rec(t.id).marks,c={ok:0,mid:0,no:0,none:0};allWords(t).forEach(x=>c[m[x.w[0]]||"none"]++);return c}
+function counts(t){const m=rec(t.key).marks,c={ok:0,mid:0,no:0,none:0};allWords(t).forEach(x=>c[m[x.w[0]]||"none"]++);return c}
 function dueReviews(){
   const out=[],td=today();
-  THEMES.forEach(t=>{const r=state[t.id];if(!r||!r.learned)return;
+  THEMES.forEach(t=>{const r=state[t.key];if(!r||!r.learned)return;
     const k=INTERVALS.find(k=>!r.reviews[k]);
     if(k&&addDays(r.learned,k)<=td) out.push({t,k});});
   return out;
 }
-const nextNew=()=>THEMES.find(t=>!state[t.id]?.learned);
+const nextNew=()=>THEMES.find(t=>!state[t.key]?.learned);
 function meter(t){const c=counts(t),n=allWords(t).length;
   return `<div class="meter" aria-hidden="true"><i style="width:${c.ok/n*100}%;background:var(--ok)"></i><i style="width:${c.mid/n*100}%;background:var(--mid)"></i><i style="width:${c.no/n*100}%;background:var(--no)"></i></div>`}
 
 /* ---------- views ---------- */
 function vToday(){
   const due=dueReviews(),nx=nextNew();
-  const learned=THEMES.filter(t=>state[t.id]?.learned).length;
+  const learned=THEMES.filter(t=>state[t.key]?.learned).length;
+  const curCh=(nx||THEMES[THEMES.length-1]).ch;
   let ok=0,no=0,total=0;THEMES.forEach(t=>{const c=counts(t);ok+=c.ok;no+=c.no;total+=allWords(t).length});
   return `<div class="grid today">
   <section class="panel"><h2>今天要做的事</h2><p class="lead">${today()}　先複習，再學新的。</p>
-    ${due.map(d=>`<div class="task"><span class="num">${d.t.id}</span><div class="what"><b>複習：${esc(d.t.zh)}</b><span class="tag">學完第 ${d.k} 天</span></div><a class="btn sm" href="#theme-${d.t.id}-blank">開始</a></div>`).join("")}
-    ${nx?`<div class="task"><span class="num">${nx.id}</span><div class="what"><b>新主題：${esc(nx.zh)}</b><span class="tag">${esc(nx.en)} · 30 字</span></div><a class="btn sm primary" href="#theme-${nx.id}">開始</a></div>`:`<p>目前的主題都學過了 🎉 等你上傳下一章的照片。</p>`}
+    ${due.map(d=>`<div class="task"><span class="num">${label(d.t)}</span><div class="what"><b>複習：${esc(d.t.zh)}</b><span class="tag">學完第 ${d.k} 天</span></div><a class="btn sm" href="${href(d.t,"blank")}">開始</a></div>`).join("")}
+    ${nx?`<div class="task"><span class="num">${label(nx)}</span><div class="what"><b>新主題：${esc(nx.zh)}</b><span class="tag">${esc(chName(nx.ch))} · 30 字</span></div><a class="btn sm primary" href="${href(nx)}">開始</a></div>`:`<p>目前的主題都學過了 🎉 等你上傳下一章的照片。</p>`}
     ${!due.length&&nx?`<p class="hint" style="margin-top:8px">今天沒有要複習的主題。</p>`:""}
   </section>
   <section class="panel"><h2>我的進度</h2>
@@ -240,24 +245,28 @@ function vToday(){
       <li><b>造句</b>：挑 3 個 ✗ 的字，各造一個關於自己的句子。</li>
     </ol>
   </section></div>
-  <h2 style="margin:22px 0 10px">第 1 章 人物元素</h2>
-  <div class="themes">${THEMES.map(tcard).join("")}</div>`;
+  <h2 style="margin:22px 0 10px">${esc(chName(curCh))}</h2>
+  <div class="themes">${THEMES.filter(t=>t.ch===curCh).map(tcard).join("")}</div>
+  <p style="margin-top:12px"><a class="btn sm" href="#themes">看全部 ${Object.keys(CHAPTERS).length} 章</a></p>`;
 }
-function tcard(t){const r=state[t.id];
-  return `<a class="tcard" href="#theme-${t.id}"><span class="n">${t.id}</span> <b>${esc(t.zh)}</b>
+function tcard(t){const r=state[t.key];
+  return `<a class="tcard" href="${href(t)}"><span class="n">${t.id}</span> <b>${esc(t.zh)}</b>
   <div class="en">${esc(t.en)}</div>${meter(t)}<div class="sub" style="font-size:12px;color:var(--muted);margin-top:4px">${r?.learned?"學於 "+r.learned:"還沒學"}</div></a>`}
-function vThemes(){return `<h2>全部主題</h2><p class="lead">每個主題 30 個字、6 條分支。顏色條：綠 ✓、黃 △、紅 ✗。</p><div class="themes" style="margin-top:14px">${THEMES.map(tcard).join("")}</div>`}
+function vThemes(){
+  return `<h2>全部主題</h2><p class="lead">${Object.keys(CHAPTERS).length} 章、${THEMES.length} 個主題，每個主題 30 個字、6 條分支。顏色條：綠 ✓、黃 △、紅 ✗。</p>`
+    +Object.keys(CHAPTERS).map(ch=>{const ts=THEMES.filter(t=>t.ch==ch),done=ts.filter(t=>state[t.key]?.learned).length;
+      return `<h3 class="chh">${esc(chName(ch))}<span class="tag tabular">${done}/${ts.length}</span></h3><div class="themes">${ts.map(tcard).join("")}</div>`}).join("")}
 
 let mode="study";
 const MODES=[["study","看圖學習"],["hideEn","遮英文"],["hideZh","遮中文"],["blank","空白心智圖"],["cards","閃卡"]];
-function vTheme(id){
-  const t=theme(id);if(!t)return `<p class="empty">找不到這個主題。</p>`;
-  const r=rec(t.id),c=counts(t);
-  const prev=theme(t.id-1),next=theme(t.id+1);
+function vTheme(key){
+  const t=theme(key);if(!t)return `<p class="empty">找不到這個主題。</p>`;
+  const r=rec(t.key),c=counts(t),i=THEMES.indexOf(t);
+  const prev=THEMES[i-1],next=THEMES[i+1];
   const k=r.learned&&INTERVALS.find(k=>!r.reviews[k]);
   const kDue=k&&addDays(r.learned,k)<=today();
-  let head=`<div class="thead"><span class="no">${t.id}</span><div class="t"><h2>${esc(t.zh)}</h2><span class="lead">${esc(t.en)} · ✓${c.ok} △${c.mid} ✗${c.no}</span></div>
-   <div class="row">${prev?`<a class="btn sm" href="#theme-${prev.id}">← ${prev.id}</a>`:""}${next?`<a class="btn sm" href="#theme-${next.id}">${next.id} →</a>`:""}</div></div>
+  let head=`<div class="thead"><span class="no">${t.id}</span><div class="t"><span class="tag">${esc(chName(t.ch))}</span><h2>${esc(t.zh)}</h2><span class="lead">${esc(t.en)} · ✓${c.ok} △${c.mid} ✗${c.no}</span></div>
+   <div class="row">${prev?`<a class="btn sm" href="${href(prev)}">← ${label(prev)}</a>`:""}${next?`<a class="btn sm" href="${href(next)}">${label(next)} →</a>`:""}</div></div>
    <div class="row" style="margin-bottom:6px">${!r.learned?`<button class="btn sm primary" data-act="learned">今天學完這個主題</button>`:kDue?`<button class="btn sm primary" data-act="review" data-k="${k}">完成第 ${k} 天複習</button>`:`<span class="tag">學於 ${r.learned}${k?" · 下次複習 "+addDays(r.learned,k):" · 5 次複習都完成 ✓"}</span>`}</div>
    <div class="modes" role="tablist">${MODES.map(([m,l])=>`<button role="tab" aria-selected="${m===mode}" class="${m===mode?"on":""}" data-mode="${m}">${l}</button>`).join("")}</div>`;
   const hints={study:"點單字聽發音。每個字右邊打記號：✓ 記得、△ 想一下才記得、✗ 忘了。",hideEn:"看中文想英文，點灰色塊揭開答案，再打記號。",hideZh:"看英文想中文，點灰色塊揭開答案，再打記號。",blank:"闔上書！只看分支名稱，把記得的英文打進去（用逗號或換行分開），再按「對答案」。",cards:"從這個主題隨機出題。先想答案，再翻面打分。"};
@@ -269,13 +278,13 @@ function vTheme(id){
 function branch(t,bi){
   const b=t.branches[bi],cls=`branch b${bi+1} p${bi+1}`;
   if(mode==="blank") return `<section class="${cls} blank"><h3><span class="dot">${bi+1}</span>${esc(b.name)}</h3>
-    <textarea id="bl-${t.id}-${bi}" aria-label="${esc(b.name)} 的單字" placeholder="${b.words.length} 個字…" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea><div class="res" id="res-${t.id}-${bi}"></div></section>`
+    <textarea id="bl-${t.key}-${bi}" aria-label="${esc(b.name)} 的單字" placeholder="${b.words.length} 個字…" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea><div class="res" id="res-${t.key}-${bi}"></div></section>`
     +(bi===5?`<div style="grid-column:1/-1" class="row"><button class="btn primary" data-act="check">對答案</button><span id="score" class="tabular"></span></div>`:"");
-  const m=rec(t.id).marks;
+  const m=rec(t.key).marks;
   return `<section class="${cls}"><h3><span class="dot">${bi+1}</span>${esc(b.name)}</h3>${b.words.map(w=>{
     const en=mode==="hideEn"?`<span class="cover" data-rev>${esc(w[0])}</span>`:`<span class="en">${esc(w[0])}</span>${w[1]?`<span class="ipa">${esc(w[1])} ${esc(w[2])}</span>`:""}`;
     const zh=mode==="hideZh"?`<span class="zh"><span class="cover" data-rev>${esc(w[3])}</span></span>`:`<span class="zh">${esc(w[3])}</span>`;
-    return `<div class="w"><button class="say" data-say="${esc(w[0])}" aria-label="唸 ${esc(w[0])}">${en}${zh}</button>${marks(t.id,w[0],m[w[0]])}</div>`}).join("")}</section>`;
+    return `<div class="w"><button class="say" data-say="${esc(w[0])}" aria-label="唸 ${esc(w[0])}">${en}${zh}</button>${marks(t.key,w[0],m[w[0]])}</div>`}).join("")}</section>`;
 }
 const marks=(tid,w,cur)=>`<span class="marks">${Object.entries(MARKS).map(([k,s])=>`<button data-m="${k}" data-t="${tid}" data-w="${esc(w)}" class="${cur===k?"on":""}" aria-pressed="${cur===k}" title="${k}">${s}</button>`).join("")}</span>`;
 
@@ -287,19 +296,19 @@ function flash(list,key){
   if(!deck.length) return `<p class="empty">這裡還沒有字。</p>`;
   if(di>=deck.length) return `<div class="fc"><div class="card"><div><div class="big">這一輪完成 👏</div><div class="sub">${deck.length} 張卡</div></div></div><div class="row"><button class="btn primary" data-act="again">再來一輪</button></div></div>`;
   const x=deck[di],w=x.w;
-  return `<div class="fc"><p class="hint tabular" style="text-align:center">${di+1} / ${deck.length} · ${esc(x.t.zh)} › ${esc(x.branch)}</p>
+  return `<div class="fc"><p class="hint tabular" style="text-align:center">${di+1} / ${deck.length} · ${label(x.t)} ${esc(x.t.zh)} › ${esc(x.branch)}</p>
    <button class="card" data-act="flip" aria-label="翻面">${flipped?`<div><div class="bigen">${esc(w[0])}</div><div class="sub">${esc(w[1])} ${esc(w[2])}</div><div class="big" style="font-size:20px;margin-top:8px">${esc(w[3])}</div></div>`:`<div><div class="big">${esc(w[3])}</div><div class="sub">點一下翻面</div></div>`}</button>
    ${flipped?`<div class="row grade">${Object.entries({ok:"✓ 記得",mid:"△ 模糊",no:"✗ 忘了"}).map(([k,l])=>`<button class="btn" data-grade="${k}">${l}</button>`).join("")}</div>`:`<div class="row"><button class="btn" data-act="flip">翻面</button></div>`}</div>`;
 }
 function vHard(){
-  const list=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.id).marks[x.w[0]]==="no"));
-  const mid=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.id).marks[x.w[0]]==="mid"));
+  const list=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.key).marks[x.w[0]]==="no"));
+  const mid=THEMES.flatMap(t=>allWords(t).filter(x=>rec(t.key).marks[x.w[0]]==="mid"));
   return `<h2>難字本</h2><p class="lead">所有打 ✗ 的字（${list.length} 個）。用零碎時間刷一刷，記住了就改成 ✓。</p><div style="margin-top:14px">${list.length?flash(list,"hard"):`<p class="empty">還沒有 ✗ 的字。學主題時打上記號，難字就會出現在這裡。</p>`}</div>
   ${mid.length?`<h3 style="margin:24px 0 8px">△ 模糊的字（${mid.length}）</h3><div class="res">${mid.map(x=>`<span class="extra">${esc(x.w[0])} ${esc(x.w[3])}</span>`).join("")}</div>`:""}`;
 }
 function vPlan(){
   return `<div class="panel plan"><h2>怎麼用這本書背單字</h2>
-  <p>這本書每個主題是一張心智圖：中心 1 個主題，6 條分支，每條 5 個字，共 30 字。第 1 章「人物元素」有 15 個主題、450 字。</p>
+  <p>這本書每個主題是一張心智圖：中心 1 個主題，6 條分支，每條 5 個字，共 30 字。每章 15 個主題、450 字，目前收錄第 1～${Object.keys(CHAPTERS).length} 章，共 ${THEMES.length*30} 字。</p>
   <h3>每天的節奏（約 40 分鐘）</h3>
   <ul><li><b>先複習</b>（約 15 分鐘）：「今天」頁會列出到期的主題，用「空白心智圖」模式複習。</li>
   <li><b>再學 1 個新主題</b>（約 25 分鐘）：照五步驟走，最後按「今天學完這個主題」。</li>
@@ -313,7 +322,7 @@ function vPlan(){
   <tr><td>4</td><td>第 15 天</td><td>只看 △ 和 ✗ 的字，用閃卡</td></tr>
   <tr><td>5</td><td>第 30 天</td><td>空白心智圖，全對就完成</td></tr></tbody></table></div>
   <h3>進度預估</h3>
-  <p>一天 1 個主題，第 1 章大約 2.5 週學完。全書約 5000 字，大約 165 個主題，一週 6 個主題的話約 7 個月完成第一輪。想快一點可以一天 2 個主題，但複習一定不能跳過。</p>
+  <p>一天 1 個主題，一章大約 2.5 週學完。全書約 5000 字，大約 165 個主題，一週 6 個主題的話約 7 個月完成第一輪。想快一點可以一天 2 個主題，但複習一定不能跳過。</p>
   <h3>小訣竅</h3>
   <ul><li><b>記位置</b>：心智圖的好處是「位置」。回想時先想「它在哪一條分支」。</li>
   <li><b>自己加字</b>：想到書上沒有的相關字，寫在筆記本的同一條分支旁。</li>
@@ -326,12 +335,15 @@ function vPlan(){
 /* ---------- router ---------- */
 function render(){
   const h=location.hash.slice(1)||"today";
-  let m=h.match(/^theme-(\d+)(?:-(\w+))?$/);
-  if(m&&m[2]&&MODES.some(x=>x[0]===m[2])){mode=m[2];history.replaceState(null,"","#theme-"+m[1])}
+  const old=h.match(/^theme-(\d+)$/);           // 舊連結 #theme-N 指第 1 章
+  if(old){history.replaceState(null,"","#t-1-"+old[1]);return render()}
+  const m=h.match(/^t-(\d+)-(\d+)(?:-([a-zA-Z]+))?$/);
+  const key=m&&(m[1]==="1"?m[2]:m[1]+"-"+m[2]);
+  if(m&&m[3]&&MODES.some(x=>x[0]===m[3])){mode=m[3];history.replaceState(null,"",`#t-${m[1]}-${m[2]}`)}
   const tab=m?"themes":h;
   document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on",a.getAttribute("href")==="#"+tab||(m&&a.getAttribute("href")==="#themes")));
   const keep=[...document.querySelectorAll("textarea")].map(x=>[x.id,x.value]);
-  $("#app").innerHTML=m?vTheme(m[1]):h==="themes"?vThemes():h==="hard"?vHard():h==="plan"?vPlan():vToday();
+  $("#app").innerHTML=m?vTheme(key):h==="themes"?vThemes():h==="hard"?vHard():h==="plan"?vPlan():vToday();
   keep.forEach(([id,v])=>{const el=document.getElementById(id);if(el)el.value=v});
 }
 let lastHash=location.hash;
@@ -347,14 +359,15 @@ $("#app").addEventListener("click",e=>{
   if(el.dataset.say){
     if(el.querySelector("[data-rev]")){el.querySelectorAll("[data-rev]").forEach(c=>{c.classList.remove("cover");c.removeAttribute("data-rev")})}
     speak(el.dataset.say);return}
-  const id=(location.hash.match(/theme-(\d+)/)||[])[1];
+  const hm=location.hash.match(/^#t-(\d+)-(\d+)/);
+  const id=hm&&(hm[1]==="1"?hm[2]:hm[1]+"-"+hm[2]);
   const a=el.dataset.act;
   if(a==="learned"){rec(id).learned=today();save(id);render()}
   else if(a==="review"){rec(id).reviews[el.dataset.k]=today();save(id);render()}
   else if(a==="check")check(id);
   else if(a==="flip"){flipped=!flipped;if(flipped)speak(deck[di].w[0]);render()}
   else if(a==="again"){deckKey="";render()}
-  else if(el.dataset.grade){const x=deck[di];rec(x.t.id).marks[x.w[0]]=el.dataset.grade;save(x.t.id);di++;flipped=false;render()}
+  else if(el.dataset.grade){const x=deck[di];rec(x.t.key).marks[x.w[0]]=el.dataset.grade;save(x.t.key);di++;flipped=false;render()}
 });
 const norm=s=>s.toLowerCase().replace(/[’']/g,"'").replace(/\s+/g," ").trim();
 function check(id){

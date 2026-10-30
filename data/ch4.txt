@@ -1,0 +1,555 @@
+#1|住宅類型|Housing Types
+@獨棟住宅
+house|/haʊs/|n.|房屋
+cottage|/ˈkɒtɪdʒ/|n.|小屋
+villa|/ˈvɪlə/|n.|別墅
+mansion|/ˈmænʃn/|n.|豪宅
+live in a mansion|||住豪宅
+@集合住宅
+apartment|/əˈpɑːtmənt/|n.|公寓（美式）
+flat|/flæt/|n.|公寓（英式）
+share a flat|||合租公寓
+studio|/ˈstjuːdiəʊ/|n.|套房（開間）
+live in a studio|||住套房
+@特殊住所
+dormitory|/ˈdɔːmətri/|n.|宿舍
+live in a dormitory|||住校
+basement|/ˈbeɪsmənt/|n.|地下室
+cabin|/ˈkæbɪn/|n.|小木屋
+stay in a cabin|||住小木屋
+@房屋產權
+rent|/rent/|n.|租金
+pay the rent|||付房租
+lease|/liːs/|n.|租約
+sign a lease|||簽租約
+landlord|/ˈlændlɔːd/|n.|房東
+@住宅環境
+downtown|/ˌdaʊnˈtaʊn/|n.|市中心
+suburb|/ˈsʌbɜːb/|n.|郊區
+move to the suburbs|||搬去郊區
+community|/kəˈmjuːnəti/|n.|社區
+a quiet community|||安靜的社區
+@搬家相關
+cardboard box|||紙箱
+packing material|||包裝材料
+bubble wrap|||氣泡膜
+label|/ˈleɪbl/|v.|貼標籤
+label the boxes|||給箱子貼標籤
+#2|房屋外觀|Exterior of Buildings
+@頂部結構
+roof|/ruːf/|n.|屋頂
+repair the roof|||修屋頂
+attic|/ˈætɪk/|n.|閣樓
+eaves|/iːvz/|n.|屋簷
+terrace|/ˈterəs/|n.|天台
+@牆體門窗
+wall|/wɔːl/|n.|牆
+brick|/brɪk/|n.|磚
+window|/ˈwɪndəʊ/|n.|窗戶
+door|/dɔː(r)/|n.|門
+balcony|/ˈbælkəni/|n.|陽台
+@戶外設施
+garage|/ˈɡærɑːʒ/|n.|車庫
+driveway|/ˈdraɪvweɪ/|n.|車道
+gate|/ɡeɪt/|n.|大門
+mailbox|/ˈmeɪlbɒks/|n.|信箱
+trash can|||垃圾桶（美式）
+@庭院景觀
+lawn|/lɔːn/|n.|草坪
+fence|/fens/|n.|圍欄
+build a fence|||建圍欄
+lighting|/ˈlaɪtɪŋ/|n.|照明系統
+swimming pool|||游泳池
+@入口區域
+porch|/pɔːtʃ/|n.|門廊
+doormat|/ˈdɔːmæt/|n.|門墊
+doorbell|/ˈdɔːbel/|n.|門鈴
+ring the doorbell|||按門鈴
+peephole|/ˈpiːphəʊl/|n.|貓眼
+@建築狀態
+a shell apartment|||毛坯房
+newly built|||新建的
+old-fashioned|||老式的
+old-fashioned style|||老式風格
+a run-down building|||破舊的樓
+#3|室內佈局|Interior Layout
+@垂直空間
+stair|/steə(r)/|n.|樓梯
+go up the stairs|||上樓
+elevator|/ˈelɪveɪtə(r)/|n.|電梯
+take the elevator|||搭電梯
+ceiling|/ˈsiːlɪŋ/|n.|天花板
+@連接空間
+doorway|/ˈdɔːweɪ/|n.|門口
+entryway|/ˈentriweɪ/|n.|入口區域
+stand in the entryway|||站在入口處
+hallway|/ˈhɔːlweɪ/|n.|走廊
+corridor|/ˈkɒrɪdɔː(r)/|n.|過道
+@採光通風
+skylight|/ˈskaɪlaɪt/|n.|天窗
+install a skylight|||安裝天窗
+bay window|||飄窗（凸窗）
+sunroom|/ˈsʌnruːm/|n.|陽光房
+sit in the sunroom|||坐在陽光房
+@牆面地面
+floor|/flɔː(r)/|n.|地板
+tile|/taɪl/|n.|瓷磚
+carpet|/ˈkɑːpɪt/|n.|地毯
+wallpaper|/ˈwɔːlpeɪpə(r)/|n.|壁紙
+paint|/peɪnt/|n.|塗料（油漆）
+@房間功能
+bedroom|/ˈbedruːm/|n.|臥室
+nursery|/ˈnɜːsəri/|n.|嬰兒房
+study|/ˈstʌdi/|n.|書房
+study in the study|||在書房學習
+pantry|/ˈpæntri/|n.|儲藏室
+@方位介詞
+beside|/bɪˈsaɪd/|prep.|在旁邊
+behind|/bɪˈhaɪnd/|prep.|在後面
+opposite|/ˈɒpəzɪt/|prep.|在對面
+between|/bɪˈtwiːn/|prep.|在中間
+along|/əˈlɒŋ/|prep.|沿著
+#4|客廳空間|Living Room Areas
+@沙發靠墊
+sofa|/ˈsəʊfə/|n.|沙發
+sit on the sofa|||坐在沙發上
+armchair|/ˈɑːmtʃeə(r)/|n.|扶手椅
+bean bag|||懶人沙發
+cushion|/ˈkʊʃn/|n.|靠墊
+@收納陳列
+coffee table|||茶几
+TV stand|||電視櫃
+bookcase|/ˈbʊkkeɪs/|n.|書櫃
+fill the bookcase|||把書櫃放滿
+sideboard|/ˈsaɪdbɔːd/|n.|餐邊櫃
+@視聽娛樂
+TV|||電視
+projector|/prəˈdʒektə(r)/|n.|投影機
+speaker|/ˈspiːkə(r)/|n.|音響
+remote control|||遙控器
+display|/dɪˈspleɪ/|n.|顯示器
+@軟裝裝飾
+rug|/rʌɡ/|n.|地毯
+painting|/ˈpeɪntɪŋ/|n.|裝飾畫
+mirror|/ˈmɪrə(r)/|n.|鏡子
+vase|/vɑːz/|n.|花瓶
+candle|/ˈkændl/|n.|蠟燭
+@待客活動
+gathering|/ˈɡæðərɪŋ/|n.|聚會
+have a gathering|||舉辦聚會
+greet|/ɡriːt/|v.|問候
+entertain|/ˌentəˈteɪn/|v.|招待
+serve|/sɜːv/|v.|招待（上菜）
+@光線氛圍
+lamp|/læmp/|n.|燈具（可移動）
+turn on the lamp|||打開燈
+table lamp|||檯燈
+switch|/swɪtʃ/|n.|開關
+flip the switch|||按開關
+#5|臥室空間|Bedroom Areas
+@床具系統
+bed|/bed/|n.|床
+bed frame|||床架
+mattress|/ˈmætrəs/|n.|床墊
+headboard|/ˈhedbɔːd/|n.|床頭板
+nightstand|/ˈnaɪtstænd/|n.|床頭櫃
+@床上用品
+pillow|/ˈpɪləʊ/|n.|枕頭
+sheet|/ʃiːt/|n.|床單
+change the sheets|||換床單
+quilt|/kwɪlt/|n.|被子
+cover with a quilt|||蓋被子
+@衣物存放
+wardrobe|/ˈwɔːdrəʊb/|n.|衣櫃
+closet|/ˈklɒzɪt/|n.|衣櫥
+dresser|/ˈdresə(r)/|n.|五斗櫃
+drawer|/drɔː(r)/|n.|抽屜
+hanger|/ˈhæŋə(r)/|n.|衣架
+@遮光隱私
+curtain|/ˈkɜːtn/|n.|窗簾
+blinds|/blaɪndz/|n.|百葉窗
+pull down the blinds|||拉下百葉窗
+mask|/mɑːsk/|n.|面罩；遮罩
+eye mask|||眼罩
+@起床入睡
+alarm clock|||鬧鐘
+oversleep|/ˌəʊvəˈsliːp/|v.|睡過頭
+nightmare|/ˈnaɪtmeə(r)/|n.|噩夢
+have a nightmare|||做噩夢
+sleep-talk|||說夢話
+@私密活動
+get dressed|||穿衣
+makeup|/ˈmeɪkʌp/|n.|化妝
+put on makeup|||化妝
+do one's hair|||做頭髮
+journal|/ˈdʒɜːnl/|v.|寫日記
+#6|廚房空間|Kitchen Areas
+@清洗區域
+sink|/sɪŋk/|n.|水槽
+faucet|/ˈfɔːsɪt/|n.|水龍頭
+turn on the faucet|||打開水龍頭
+rack|/ræk/|n.|架子
+dish rack|||瀝水架
+@烹飪區域
+stove|/stəʊv/|n.|爐灶
+cook on the stove|||用爐灶做飯
+burner|/ˈbɜːnə(r)/|n.|爐頭
+oven|/ˈʌvn/|n.|烤箱
+bake in the oven|||用烤箱烤
+@儲物區域
+cabinet|/ˈkæbɪnət/|n.|櫥櫃
+cupboard|/ˈkʌbəd/|n.|吊櫃
+refrigerator|/rɪˈfrɪdʒəreɪtə(r)/|n.|冰箱
+fridge|/frɪdʒ/|n.|冰箱（口語）
+deep freezer|||冷凍櫃
+@備餐檯面
+countertop|/ˈkaʊntətɒp/|n.|流理台
+wipe the countertop|||擦流理台
+cutting board|||砧板
+knife|/naɪf/|n.|刀
+knife block|||刀座
+@廚房垃圾
+dustbin|/ˈdʌstbɪn/|n.|垃圾桶（英式）
+empty the dustbin|||倒垃圾
+trash bag|||垃圾袋
+leftovers|/ˈleftəʊvəz/|n.|剩菜
+heat up leftovers|||加熱剩菜
+@環境狀態
+smoke|/sməʊk/|n.|油煙
+fill with smoke|||充滿油煙
+soot|/sʊt/|n.|油垢
+clean the soot|||清理油垢
+mildew|/ˈmɪldjuː/|n.|霉斑
+#7|衛生空間|Bathroom Areas
+@衛浴設施
+toilet|/ˈtɔɪlət/|n.|馬桶
+use the toilet|||上廁所
+bathtub|/ˈbɑːθtʌb/|n.|浴缸
+showerhead|/ˈʃaʊəhed/|n.|蓮蓬頭
+shower curtain|||浴簾
+@洗漱區域
+washbasin|/ˈwɒʃbeɪsn/|n.|洗臉台
+bathroom vanity|||洗手台櫃
+towel rack|||毛巾架
+tumbler|/ˈtʌmblə(r)/|n.|漱口杯
+soap dish|||肥皂盒
+@掛件五金
+holder|/ˈhəʊldə(r)/|n.|支架
+toilet paper holder|||衛生紙架
+robe hook|||衣鉤
+drain|/dreɪn/|n.|排水口
+floor drain|||地漏
+@洗浴用品
+shampoo|/ʃæmˈpuː/|n.|洗髮精
+conditioner|/kənˈdɪʃənə(r)/|n.|潤髮乳
+body wash|||沐浴乳
+soap|/səʊp/|n.|香皂
+loofah|/ˈluːfə/|n.|絲瓜絡
+@生理活動
+brush one's teeth|||刷牙
+floss|||用牙線
+shave|/ʃeɪv/|v.|刮鬍子
+flush the toilet|||沖馬桶
+take a shower|||洗澡
+@常見問題
+drip|/drɪp/|n.|滴水
+spray|/spreɪ/|n.|噴濺
+smell|/smel/|n.|異味
+give off a smell|||散發異味
+overflow|/ˌəʊvəˈfləʊ/|n.|溢水
+#8|餐廳空間|Dining Areas
+@餐桌家具
+table|/ˈteɪbl/|n.|餐桌
+stool|/stuːl/|n.|凳子
+trivet|/ˈtrɪvɪt/|n.|隔熱墊
+cruet|/ˈkruːɪt/|n.|調味瓶
+fill the cruet|||給調味瓶裝調料
+@桌面布藝
+placemat|/ˈpleɪsmæt/|n.|餐墊
+lay a placemat|||鋪餐墊
+napkin|/ˈnæpkɪn/|n.|餐巾
+dish towel|||抹布
+tissue box|||面紙盒
+@餐具收納
+station|/ˈsteɪʃn/|n.|區域；站點
+tea station|||茶水區
+cabinet|/ˈkæbɪnət/|n.|櫃子
+glassware cabinet|||玻璃櫃
+display cabinet|||展示櫃
+@用餐準備
+set the table|||擺桌
+scoop|/skuːp/|v.|勺取
+scoop soup|||舀湯
+grab|/ɡræb/|v.|取用
+grab a plate|||順手拿個盤子
+@兒童用餐
+high chair|||兒童餐椅
+bowl|/bəʊl/|n.|碗
+suction bowl|||吸盤碗
+sippy cup|||學習杯
+training chopsticks|||訓練筷
+@餐廳照明
+well-lit|||光線充足的
+a well-lit room|||光線充足的房間
+yellowish|/ˈjeləʊɪʃ/|adj.|微黃的
+yellowish glow|||微黃的光
+romantic|/rəʊˈmæntɪk/|adj.|浪漫的
+#9|家具用品|Furniture
+@木質家具
+solid wood|||實木
+hardwood|/ˈhɑːdwʊd/|n.|硬木
+hardwood furniture|||硬木家具
+base|/beɪs/|n.|底座
+varnish|/ˈvɑːnɪʃ/|n.|清漆
+@軟體家具
+leather|/ˈleðə(r)/|n.|皮革
+genuine leather|||真皮
+linen|/ˈlɪnɪn/|n.|亞麻
+linen blend|||亞麻混紡
+batting|/ˈbætɪŋ/|n.|填充棉
+@金屬玻璃
+steel|/stiːl/|n.|鋼
+stainless steel|||不鏽鋼
+brass|/brɑːs/|n.|黃銅
+polish brass|||擦亮黃銅
+marble|/ˈmɑːbl/|n.|大理石
+@家具操作
+assemble|/əˈsembl/|v.|組裝
+assemble furniture|||組裝家具
+disassemble|/ˌdɪsəˈsembl/|v.|拆卸
+disassemble the frame|||拆卸框架
+drag|/dræɡ/|v.|拖動
+@家具狀態
+sturdy|/ˈstɜːdi/|adj.|結實的
+a sturdy chair|||結實的椅子
+scratch|/skrætʃ/|n.|劃痕
+leave a scratch|||留下劃痕
+dent|/dent/|n.|凹痕
+@購買處理
+custom-made|||訂製的
+floor-to-ceiling|||頂天立地的
+flat-pack|||平板包裝
+second-hand|||二手的
+sell as-is|||按現狀出售
+#10|家用電器|Home Appliances
+@環境電器
+air conditioner|||冷氣（空調）
+heater|/ˈhiːtə(r)/|n.|暖氣機
+turn on the heater|||打開暖氣機
+fan|/fæn/|n.|電風扇
+switch on the fan|||打開電風扇
+@清潔電器
+washing machine|||洗衣機
+clothes dryer|||烘乾機
+vacuum|/ˈvækjuːm/|n.|吸塵器
+vacuum cleaner|||吸塵器
+robot vacuum|||掃地機器人
+@廚房電器
+microwave|/ˈmaɪkrəweɪv/|n.|微波爐
+rice cooker|||電鍋
+kettle|/ˈketl/|n.|電熱水壺
+toaster|/ˈtəʊstə(r)/|n.|烤麵包機
+juicer|/ˈdʒuːsə(r)/|n.|榨汁機
+@個人護理
+electric toothbrush|||電動牙刷
+water flosser|||沖牙機
+razor|/ˈreɪzə(r)/|n.|刮鬍刀
+hair dryer|||吹風機
+curling iron|||捲髮棒
+@電源連接
+socket|/ˈsɒkɪt/|n.|插座
+power strip|||延長線（排插）
+charging cable|||充電線
+battery|/ˈbætəri/|n.|電池
+power bank|||行動電源
+@操作面板
+power button|||電源鍵
+dial|/ˈdaɪəl/|n.|旋鈕
+timer|/ˈtaɪmə(r)/|n.|定時器
+standard mode|||標準模式
+eco mode|||節能模式
+#11|收納整理|Storage & Order
+@收納容器
+sort through|||整理篩選
+categorize|/ˈkætəɡəraɪz/|v.|分類
+categorize items|||分類物品
+stack|/stæk/|v.|堆放
+put back|||放回原處
+@衣物整理
+fold|/fəʊld/|v.|折疊
+fold clothes|||折衣服
+hang|/hæŋ/|v.|懸掛
+hang clothes up|||把衣服掛起來
+compress|/kəmˈpres/|v.|壓縮
+@雜物歸類
+archive|/ˈɑːkaɪv/|v.|歸檔
+index|/ˈɪndeks/|v.|編目
+corral|/kəˈrɑːl/|v.|集中整理
+mount|/maʊnt/|v.|固定安裝
+mount on the wall|||固定在牆上
+@空間利用
+free up|||騰出
+utilize|/ˈjuːtəlaɪz/|v.|利用
+utilize space|||利用空間
+suspend|/səˈspend/|v.|懸掛
+conceal|/kənˈsiːl/|v.|隱藏
+@整理理念
+hoard|/hɔːd/|v.|囤積
+hoard old things|||囤積舊物
+declutter|/ˌdiːˈklʌtə(r)/|v.|斷捨離
+declutter your home|||給家裡斷捨離
+purge|/pɜːdʒ/|v.|清理
+@狀態描述
+orderly|/ˈɔːdəli/|adj.|整齊的
+keep things orderly|||保持整齊
+shipshape|/ˈʃɪpʃeɪp/|adj.|井井有條的
+chaotic|/keɪˈɒtɪk/|adj.|混亂的
+a chaotic room|||混亂的房間
+#12|清潔維護|Cleaning & Upkeep
+@清潔工具
+broom|/bruːm/|n.|掃把
+dustpan|/ˈdʌstpæn/|n.|畚箕
+mop|/mɒp/|n.|拖把
+bucket|/ˈbʌkɪt/|n.|水桶
+rag|/ræɡ/|n.|抹布
+@清潔劑
+soap|/səʊp/|n.|肥皂；清潔劑
+dish soap|||洗碗精
+hand soap|||洗手乳
+bleach|/bliːtʃ/|n.|漂白劑
+toilet bowl cleaner|||馬桶清潔劑
+@清掃動作
+sweep|/swiːp/|v.|清掃
+sweep the floor|||掃地
+vacuum|/ˈvækjuːm/|v.|吸塵
+vacuum the carpet|||吸地毯
+buff|/bʌf/|v.|擦亮
+@衣物洗護
+dry-clean|||乾洗
+air-dry|||自然晾乾
+shrink|/ʃrɪŋk/|v.|縮水
+fade|/feɪd/|v.|褪色
+colors fade|||顏色褪色
+@特定污漬
+grime|/ɡraɪm/|n.|油垢
+remove grime|||去除油垢
+watermark|/ˈwɔːtəmɑːk/|n.|水漬
+leave a watermark|||留下水漬
+dander|/ˈdændə(r)/|n.|皮屑
+@頻率習慣
+daily chores|||日常清潔
+on a regular basis|||定期
+bi-weekly|||每兩週一次
+monthly|/ˈmʌnθli/|adv.|每月一次
+deep clean|||深度清潔
+#13|居家活動|Domestic Activities
+@寵物飼養
+treats|/triːts/|n.|零食
+give treats|||給零食
+cat litter|||貓砂
+change cat litter|||換貓砂
+groom|/ɡruːm/|v.|梳理毛髮
+@園藝種植
+water|/ˈwɔːtə(r)/|v.|澆水
+water the plants|||給植物澆水
+cultivate|/ˈkʌltɪveɪt/|v.|耕作
+prune|/pruːn/|v.|修剪
+nourish|/ˈnʌrɪʃ/|v.|養育
+@手工DIY
+needle|/ˈniːdl/|n.|針
+use a needle|||用針
+thread|/θred/|n.|線
+cut the thread|||剪線
+sketch|/sketʃ/|n.|草圖
+@棋牌遊戲
+cards|/kɑːdz/|n.|撲克牌
+board game|||桌遊
+puzzle|/ˈpʌzl/|n.|益智遊戲
+jigsaw puzzle|||拼圖
+dice|/daɪs/|n.|骰子
+@家庭健身
+yoga|/ˈjəʊɡə/|n.|瑜伽
+yoga mat|||瑜伽墊
+dumbbell|/ˈdʌmbel/|n.|啞鈴
+lift dumbbells|||舉啞鈴
+do push-ups|||做伏地挺身
+@親子活動
+picture book|||繪本
+bedtime story|||睡前故事
+hide-and-seek|||捉迷藏
+role-play|||角色扮演
+nursery rhyme|||童謠
+#14|安全設施|Safety Features
+@消防安全
+extinguisher|/ɪkˈstɪŋɡwɪʃə(r)/|n.|滅火器
+extinguish|/ɪkˈstɪŋɡwɪʃ/|v.|滅火
+extinguish a fire|||滅火
+escape|/ɪˈskeɪp/|n.|逃生通道
+escape route|||逃生通道
+@防盜設施
+deadbolt|/ˈdedbəʊlt/|n.|插銷鎖
+digital lock|||電子鎖
+passcode|/ˈpɑːskəʊd/|n.|密碼
+enter a passcode|||輸入密碼
+change the passcode|||修改密碼
+@水電安全
+overload|/ˈəʊvələʊd/|n.|過載
+power overload|||電力過載
+leak|/liːk/|n.|漏水
+water leak|||漏水
+gas leak|||瓦斯外洩
+@急救用品
+band-aid|||OK 繃
+apply a band-aid|||貼 OK 繃
+gauze|/ɡɔːz/|n.|紗布
+wrap with gauze|||用紗布包紮
+alcohol|/ˈælkəhɒl/|n.|酒精
+@兒童安全
+safety gate|||安全門欄
+window guard|||窗戶護欄
+bed rail|||床護欄
+bumper|/ˈbʌmpə(r)/|n.|防撞條
+latch|/lætʃ/|n.|扣鎖
+@緊急聯絡
+break-in|||入室盜竊
+medical emergency|||醫療緊急情況
+panic button|||緊急按鈕
+hotline|/ˈhɒtlaɪn/|n.|熱線
+property management|||物業管理
+#15|維修維護|Repair & Maintenance
+@五金工具
+screwdriver|/ˈskruːdraɪvə(r)/|n.|螺絲起子
+use a screwdriver|||用螺絲起子
+wrench|/rentʃ/|n.|扳手
+pliers|/ˈplaɪəz/|n.|鉗子
+hammer|/ˈhæmə(r)/|n.|錘子
+@水電維修
+unclog|/ˌʌnˈklɒɡ/|v.|疏通
+unclog the drain|||疏通下水道
+unscrew|/ʌnˈskruː/|v.|擰開
+unscrew the cap|||擰開蓋子
+tighten|/ˈtaɪtn/|v.|擰緊
+@耗材配件
+screw|/skruː/|n.|螺絲
+tighten a screw|||擰螺絲
+nut|/nʌt/|n.|螺母
+nail|/neɪl/|n.|釘子
+tape|/teɪp/|n.|膠帶
+@牆面修補
+scrape|/skreɪp/|v.|刮除
+apply|/əˈplaɪ/|v.|塗抹
+apply filler|||塗抹填料
+touch up|||修補細節
+touch up paint|||局部補漆
+@生活賬單
+statement|/ˈsteɪtmənt/|n.|帳單
+check the statement|||查看帳單
+usage|/ˈjuːsɪdʒ/|n.|用量
+overdue|/ˌəʊvəˈdjuː/|adj.|逾期的
+overdue bill|||逾期帳單
+@服務人員
+plumber|/ˈplʌmə(r)/|n.|水管工
+call a plumber|||叫水管工
+electrician|/ɪˌlekˈtrɪʃn/|n.|電工
+hire an electrician|||請電工
+handyman|/ˈhændimæn/|n.|維修工

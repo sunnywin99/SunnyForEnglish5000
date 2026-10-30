@@ -1,0 +1,555 @@
+#1|日常上裝|Everyday Tops
+@內搭基礎
+undershirt|/ˈʌndəʃɜːt/|n.|內穿打底衫
+base layer|||貼身內層
+tank top|||背心
+T-shirt|||T 恤
+cotton|/ˈkɒtən/|n.|棉
+@衛衣毛衫
+knitwear|/ˈnɪtweə(r)/|n.|針織衫
+sweater|/ˈswetə(r)/|n.|毛衣
+pullover|/ˈpʊləʊvə(r)/|n.|套頭衫
+sweatshirt|/ˈswetʃɜːt/|n.|衛衣
+hoodie|/ˈhʊdi/|n.|連帽衫
+@襯衫外套
+shirt|/ʃɜːt/|n.|襯衫
+blouse|/blaʊz/|n.|女式襯衫
+cardigan|/ˈkɑːdɪɡən/|n.|針織開衫
+vest|/vest/|n.|馬甲
+denim jacket|||牛仔外套
+@防寒外套
+outfit|/ˈaʊtfɪt/|n.|穿搭
+windbreaker|/ˈwɪndbreɪkə(r)/|n.|防風夾克
+fleece|/fliːs/|n.|抓絨衣
+puffer jacket|||蓬鬆羽絨服
+down jacket|||羽絨服
+@居家休閒
+pyjamas|/pəˈdʒɑːməz/|n.|睡衣
+robe|/rəʊb/|n.|睡袍
+loungewear|/ˈlaʊndʒweə(r)/|n.|家居服
+oversized|/ˈəʊvəsaɪzd/|adj.|過大的
+comfy|/ˈkʌmfi/|adj.|舒服的
+@尺碼描述
+size|/saɪz/|n.|尺碼
+small|/smɔːl/|adj.|小的
+big|/bɪɡ/|adj.|大的
+tight|/taɪt/|adj.|緊的
+extra large|||特大碼
+#2|褲裝與裙裝|Bottoms
+@常見長褲
+trousers|/ˈtraʊzəz/|n.|長褲
+jeans|/dʒiːnz/|n.|牛仔褲
+sweatpants|/ˈswetpænts/|n.|運動長褲
+cargo pants|||工裝褲
+leggings|/ˈleɡɪŋz/|n.|緊身打底褲
+@短褲系列
+shorts|/ʃɔːts/|n.|短褲
+biker shorts|||騎行短褲
+knee-length|||及膝的
+pair|/peə(r)/|n.|一條（褲子）
+wear|/weə(r)/|v.|穿著
+@常見裙裝
+skirt|/skɜːt/|n.|裙子
+mini skirt|||迷你裙
+long skirt|||長裙
+pleated skirt|||百褶裙
+dress|/dres/|n.|連衣裙
+@腰部描述
+waist|/weɪst/|n.|腰部
+high-waisted|||高腰的
+belt|/belt/|n.|腰帶
+adjustable|/əˈdʒʌstəbl/|adj.|可調節的
+tummy|/ˈtʌmi/|n.|腹部
+@褲型剪裁
+style|/staɪl/|n.|款式
+skinny|/ˈskɪni/|adj.|緊身的
+tapered|/ˈteɪpəd/|adj.|錐形的
+flared|/fleəd/|adj.|喇叭型的
+wide-leg|||闊腿的
+@口袋功能
+pocket|/ˈpɒkɪt/|n.|口袋
+zipper|/ˈzɪpə(r)/|n.|拉鍊
+inside|/ˌɪnˈsaɪd/|n.|內側
+phone|/fəʊn/|n.|手機
+money|/ˈmʌni/|n.|錢
+#3|鞋履世界|Footwear
+@運動休閒
+sneakers|/ˈsniːkəz/|n.|運動鞋
+running shoes|||跑鞋
+canvas shoes|||帆布鞋
+skate shoes|||滑板鞋
+laces|/ˈleɪsɪz/|n.|鞋帶
+@靴子類型
+boots|/buːts/|n.|靴子
+ankle boots|||短靴
+combat boots|||軍靴
+hiking boots|||登山靴
+snow boots|||雪地靴
+@夏日涼鞋
+sandals|/ˈsændlz/|n.|涼鞋
+flip-flops|||人字拖
+slides|/slaɪdz/|n.|一腳蹬拖鞋
+slippers|/ˈslɪpəz/|n.|拖鞋
+breathable|/ˈbriːðəbl/|adj.|透氣的
+@正式鞋履
+leather shoes|||皮鞋
+loafers|/ˈləʊfəz/|n.|樂福鞋
+flats|/flæts/|n.|平底鞋
+high heels|||高跟鞋
+polish|/ˈpɒlɪʃ/|n.|鞋油
+@鞋底鞋跟
+bottom|/ˈbɒtəm/|n.|底部
+sole|/səʊl/|n.|鞋底
+rubber|/ˈrʌbə(r)/|n.|橡膠
+anti-slip|||防滑的
+wear out|||磨損
+@試穿感受
+snug|/snʌɡ/|adj.|貼合的
+roomy|/ˈruːmi/|adj.|寬鬆的
+pinch|/pɪntʃ/|v.|夾腳
+rigid|/ˈrɪdʒɪd/|adj.|硬的
+durable|/ˈdjʊərəbl/|adj.|耐用的
+#4|包袋|Bags
+@實用大包
+bag|/bæɡ/|n.|包
+schoolbag|/ˈskuːlbæɡ/|n.|書包
+tote bag|||托特包
+duffel bag|||桶形行李包
+suitcase|/ˈsuːtkeɪs/|n.|行李箱
+@便攜小包
+purse|/pɜːs/|n.|錢包（英式）
+coin purse|||零錢包
+waist bag|||腰包
+shoulder bag|||單肩包
+crossbody bag|||斜挎包
+@環保袋
+shopping bag|||購物袋
+paper bag|||紙袋
+canvas bag|||帆布袋
+reusable bag|||可重複使用袋
+eco-friendly|||環保的
+@箱包結構
+strap|/stræp/|n.|帶子
+buckle|/ˈbʌkl/|n.|扣具
+hook|/hʊk/|n.|掛鉤
+loop|/luːp/|n.|環扣
+compartment|/kəmˈpɑːtmənt/|n.|隔層
+@攜帶動作
+fasten|/ˈfɑːsn/|v.|繫緊
+sling|/slɪŋ/|v.|斜挎
+clutch|/klʌtʃ/|v.|緊握
+take|/teɪk/|v.|拿
+bring|/brɪŋ/|v.|帶來
+@包內物品
+thing|/θɪŋ/|n.|物品
+tissue|/ˈtɪʃuː/|n.|紙巾
+wipes|/waɪps/|n.|濕巾
+lipstick|/ˈlɪpstɪk/|n.|口紅
+gum|/ɡʌm/|n.|口香糖
+#5|校園著裝|Campus Wear
+@校服類型
+uniform|/ˈjuːnɪfɔːm/|n.|校服
+tracksuit|/ˈtræksuːt/|n.|運動校服
+suit style|||西裝款式
+summer wear|||夏季校服
+winter wear|||冬季校服
+@身份標識
+school badge|||校徽
+emblem|/ˈembləm/|n.|徽章
+name tag|||名牌
+student ID|||學生證
+red scarf|||紅領巾
+@儀容儀表
+appearance|/əˈpɪərəns/|n.|外貌
+tidy|/ˈtaɪdi/|adj.|整潔的
+simple|/ˈsɪmpl/|adj.|樸素的
+makeup-free|||不化妝的
+hair code|||髮型規範
+@著裝規範
+rule|/ruːl/|n.|規定
+protocol|/ˈprəʊtəkɒl/|n.|規範
+ban|/bæn/|v.|禁止
+strictly|/ˈstrɪktli/|adv.|嚴格地
+follow|/ˈfɒləʊ/|v.|遵守
+@學生心理
+belonging|/bɪˈlɒŋɪŋ/|n.|歸屬感
+self-esteem|||自尊
+approval|/əˈpruːvl/|n.|認同
+modest|/ˈmɒdɪst/|adj.|謙虛的
+rebel|/ˈrebl/|n.|叛逆者
+@特殊場合
+assembly|/əˈsembli/|n.|集會
+PE class|||體育課
+ceremony|/ˈserəməni/|n.|儀式
+performance|/pəˈfɔːməns/|n.|表演
+graduation|/ˌɡrædʒuˈeɪʃn/|n.|畢業典禮
+#6|季節性著裝|Seasonal Wear
+@保暖裝備
+thermal underwear|||保暖內衣
+scarf|/skɑːf/|n.|圍巾
+gloves|/ɡlʌvz/|n.|手套
+beanie|/ˈbiːni/|n.|無簷針織帽
+ear muffs|||耳罩
+@夏季防曬
+sun protection clothing|||防曬服
+sun hat|||防曬帽
+sunglasses|/ˈsʌnɡlɑːsɪz/|n.|太陽眼鏡
+UV blocking|||防紫外線
+cover|/ˈkʌvə(r)/|v.|遮蓋
+@雨季防護
+raincoat|/ˈreɪnkəʊt/|n.|雨衣
+waterproof|/ˈwɔːtəpruːf/|adj.|防水的
+quick-dry|||速乾
+galoshes|/ɡəˈlɒʃɪz/|n.|雨靴
+rain-bound|||因雨受困的
+@面料功能
+lightweight|/ˈlaɪtweɪt/|adj.|輕便的
+stretchy|/ˈstretʃi/|adj.|有彈性的
+skin-friendly|||親膚的
+anti-static|||防靜電
+insulating|/ˈɪnsjuleɪtɪŋ/|adj.|保溫的
+@換季煩惱
+pilling|/ˈpɪlɪŋ/|n.|起球
+lint|/lɪnt/|n.|絨毛
+moth holes|||蛀洞
+deformed|/dɪˈfɔːmd/|adj.|變形的
+out of fashion|||過時的
+@應對溫差
+lining|/ˈlaɪnɪŋ/|n.|內襯
+removable|/rɪˈmuːvəbl/|adj.|可拆卸的
+morning|/ˈmɔːnɪŋ/|n.|早晨
+afternoon|/ˌɑːftəˈnuːn/|n.|下午
+evening|/ˈiːvnɪŋ/|n.|傍晚
+#7|國潮風格|New Chinese Style
+@傳統服飾
+handmade|/ˌhændˈmeɪd/|adj.|手工製作的
+Tang suit|||唐裝
+qipao|/ˈtʃiːpaʊ/|n.|旗袍
+button knot|||盤扣
+China|/ˈtʃaɪnə/|n.|中國
+@中式元素
+ink painting|||水墨畫
+cloud pattern|||祥雲紋樣
+embroidery|/ɪmˈbrɔɪdəri/|n.|刺繡
+jade|/dʒeɪd/|n.|玉
+crane|/kreɪn/|n.|鶴
+@現代改良
+modified|/ˈmɒdɪfaɪd/|adj.|改良的
+mix and match|||混搭
+unisex|/ˈjuːnɪseks/|adj.|中性的
+fusion|/ˈfjuːʒn/|n.|融合
+trendy|/ˈtrendi/|adj.|潮流的
+@國潮品牌
+domestic brand|||國貨品牌
+quality|/ˈkwɒləti/|n.|品質
+crossover|/ˈkrɒsəʊvə(r)/|n.|跨界
+limited edition|||限量款
+cultural pride|||文化自信
+@色彩美學
+indigo|/ˈɪndɪɡəʊ/|n.|靛藍
+cyan|/ˈsaɪən/|n.|青色
+ivory|/ˈaɪvəri/|n.|象牙白
+vermilion|/vəˈmɪliən/|n.|朱紅
+emerald|/ˈemərəld/|n.|翡翠綠
+@文化輸出
+heritage|/ˈherɪtɪdʒ/|n.|文化傳承
+influence|/ˈɪnfluəns/|n.|影響
+global|/ˈɡləʊbl/|adj.|全球的
+promote|/prəˈməʊt/|v.|推廣
+unique|/juˈniːk/|adj.|獨特的
+#8|面料與觸感|Fabrics & Texture
+@天然面料
+linen|/ˈlɪnɪn/|n.|亞麻
+silk|/sɪlk/|n.|絲綢
+wool|/wʊl/|n.|羊毛
+leather|/ˈleðə(r)/|n.|皮革
+suede|/sweɪd/|n.|麂皮
+@人造面料
+polyester|/ˌpɒliˈestə(r)/|n.|聚酯纖維
+nylon|/ˈnaɪlɒn/|n.|尼龍
+acrylic|/əˈkrɪlɪk/|n.|腈綸
+faux fur|||人造皮草
+blended|/ˈblendɪd/|adj.|混紡的
+@牛仔面料
+denim|/ˈdenɪm/|n.|牛仔布
+washed|/wɒʃt/|adj.|水洗的
+distressed|/dɪˈstrest/|adj.|做舊的
+rough|/rʌf/|adj.|粗糙的
+classic|/ˈklæsɪk/|adj.|經典的
+@觸覺描述
+soft|/sɒft/|adj.|柔軟的
+smooth|/smuːð/|adj.|光滑的
+cooling|/ˈkuːlɪŋ/|adj.|涼感的
+stiff|/stɪf/|adj.|硬挺的
+scratchy|/ˈskrætʃi/|adj.|刺癢的
+@視覺質感
+shiny|/ˈʃaɪni/|adj.|有光澤的
+matte|/mæt/|adj.|啞光的
+sheer|/ʃɪə(r)/|adj.|輕薄透明的
+textured|/ˈtekstʃəd/|adj.|有紋理的
+metallic|/məˈtælɪk/|adj.|金屬質感的
+@質量評價
+cheap|/tʃiːp/|adj.|便宜的
+thick|/θɪk/|adj.|厚的
+nice|/naɪs/|adj.|不錯的
+great|/ɡreɪt/|adj.|很好的
+high-end|||高端的
+#9|配飾|Accessories
+@頭部飾品
+cap|/kæp/|n.|帽子
+headband|/ˈhedbænd/|n.|髮帶
+hair tie|||髮圈
+hair clip|||髮夾
+veil|/veɪl/|n.|面紗
+@頸部飾品
+necklace|/ˈnekləs/|n.|項鍊
+chain|/tʃeɪn/|n.|鏈條
+pendant|/ˈpendənt/|n.|吊墜
+locket|/ˈlɒkɪt/|n.|吊墜盒
+choker|/ˈtʃəʊkə(r)/|n.|頸圈
+@手部飾品
+ring|/rɪŋ/|n.|戒指
+bracelet|/ˈbreɪslət/|n.|手鍊
+bangle|/ˈbæŋɡl/|n.|手鐲
+watch|/wɒtʃ/|n.|手錶
+wristband|/ˈrɪstbænd/|n.|護腕
+@耳部飾品
+earrings|/ˈɪərɪŋz/|n.|耳環
+studs|/stʌdz/|n.|耳釘
+hoops|/huːps/|n.|圓環耳環
+dangles|/ˈdæŋɡlz/|n.|垂墜耳環
+clip-ons|||夾式耳環
+@視力矯正
+glasses|/ˈɡlɑːsɪz/|n.|眼鏡
+reading glasses|||老花鏡
+contacts|/ˈkɒntækts/|n.|隱形眼鏡
+frame|/freɪm/|n.|鏡框
+lens|/lenz/|n.|鏡片
+@裝飾作用
+match|/mætʃ/|v.|搭配
+highlight|/ˈhaɪlaɪt/|v.|突出
+detail|/ˈdiːteɪl/|n.|細節
+personal|/ˈpɜːsənl/|adj.|個人的
+fashion|/ˈfæʃn/|n.|時尚
+#10|風格與審美|Style & Taste
+@常見風格
+vintage|/ˈvɪntɪdʒ/|adj.|復古的
+streetwear|/ˈstriːtweə(r)/|n.|街頭風格
+preppy|/ˈprepi/|adj.|學院風的
+boho|/ˈbəʊhəʊ/|n.|波西米亞風
+cyberpunk|/ˈsaɪbəpʌŋk/|n.|賽博朋克風
+@流行詞彙
+OOTD|||今日穿搭
+Y2K|||千禧風
+old money|||老錢風
+city boy|||都市男孩風
+niche|/niːʃ/|adj.|小眾的
+@個人形象
+image|/ˈɪmɪdʒ/|n.|形象
+cute|/kjuːt/|adj.|可愛的
+elegant|/ˈelɪɡənt/|adj.|優雅的
+sexy|/ˈseksi/|adj.|性感的
+easygoing|/ˌiːziˈɡəʊɪŋ/|adj.|隨和的
+@色彩搭配
+neutral|/ˈnjuːtrəl/|adj.|中性色的
+muted|/ˈmjuːtɪd/|adj.|低飽和的
+contrast|/ˈkɒntrɑːst/|n.|對比
+all-black|||全黑風格
+colorful|/ˈkʌləfl/|adj.|多彩的
+@審美評價
+chic|/ʃiːk/|adj.|時髦的
+taste|/teɪst/|n.|品味
+common|/ˈkɒmən/|adj.|普通的
+weird|/wɪəd/|adj.|奇怪的
+tacky|/ˈtæki/|adj.|俗氣的
+@態度表達
+beauty|/ˈbjuːti/|n.|美感
+attitude|/ˈætɪtjuːd/|n.|態度
+mood|/muːd/|n.|心情
+confidence|/ˈkɒnfɪdəns/|n.|自信
+personality|/ˌpɜːsəˈnæləti/|n.|個性
+#11|運動著裝|Sportswear
+@健身房
+gym wear|||健身服
+sports bra|||運動內衣
+yoga pants|||瑜伽褲
+tights|/taɪts/|n.|緊身褲
+tank|/tæŋk/|n.|背心
+@戶外運動
+hardshell|/ˈhɑːdʃel/|n.|硬殼外套
+trail shoes|||越野鞋
+gaiters|/ˈɡeɪtəz/|n.|護腿套
+neck gaiter|||頸套
+zip up|||拉上拉鍊
+@球類運動
+jersey|/ˈdʒɜːzi/|n.|球衣
+polo shirt|||馬球衫
+bib|/bɪb/|n.|訓練背心
+cleats|/kliːts/|n.|釘鞋
+equipment bag|||裝備包
+@功能特性
+supportive|/səˈpɔːtɪv/|adj.|有支撐性的
+seamless|/ˈsiːmləs/|adj.|無縫的
+anti-odor|||防異味的
+abrasion-resistant|||耐磨的
+reflective|/rɪˈflektɪv/|adj.|反光的
+@穿戴設備
+ankle brace|||護踝
+knee pads|||護膝
+swimsuit|/ˈswɪmsuːt/|n.|泳衣
+goggles|/ˈɡɒɡlz/|n.|護目鏡
+step counter|||計步器
+@運動感受
+active|/ˈæktɪv/|adj.|活躍的
+free|/friː/|adj.|自由的
+secure|/sɪˈkjʊə(r)/|adj.|穩固的
+move|/muːv/|v.|運動
+hurt|/hɜːt/|v.|受傷
+#12|正式服裝|Formal Wear
+@男士正裝
+suit|/suːt/|n.|西裝
+tuxedo|/tʌkˈsiːdəʊ/|n.|燕尾服
+tie|/taɪ/|n.|領帶
+bow tie|||蝴蝶結領結
+overcoat|/ˈəʊvəkəʊt/|n.|大衣
+@女士正裝
+evening gown|||晚禮服
+dress pants|||女式正裝褲
+pencil skirt|||鉛筆裙
+stockings|/ˈstɒkɪŋz/|n.|長襪
+pumps|/pʌmps/|n.|高跟鞋
+@重要場合
+wedding|/ˈwedɪŋ/|n.|婚禮
+gala|/ˈɡɑːlə/|n.|晚宴
+awards ceremony|||頒獎典禮
+charity event|||慈善活動
+funeral|/ˈfjuːnərəl/|n.|葬禮
+@著裝原則
+decent|/ˈdiːsnt/|adj.|得體的
+proper|/ˈprɒpə(r)/|adj.|合適的
+professional|/prəˈfeʃənl/|adj.|專業的
+flashy|/ˈflæʃi/|adj.|花俏的
+sloppy|/ˈslɒpi/|adj.|邋遢的
+@第一印象
+first impression|||第一印象
+look|/lʊk/|n.|外表
+beautiful|/ˈbjuːtɪfl/|adj.|美麗的
+handsome|/ˈhænsəm/|adj.|英俊的
+strange|/streɪndʒ/|adj.|奇怪的
+@整理儀表
+straighten|/ˈstreɪtn/|v.|整理
+comb|/kəʊm/|v.|梳理
+iron|/ˈaɪən/|v.|熨燙
+tuck|/tʌk/|v.|塞好
+ready|/ˈredi/|adj.|準備好的
+#13|休閒著裝|Casual Wear
+@基礎單品
+crisp|/krɪsp/|adj.|挺括的
+structured|/ˈstrʌktʃəd/|adj.|有結構感的
+opaque|/əʊˈpeɪk/|adj.|不透光的
+worn-in|||穿舊但舒適的
+faded|/ˈfeɪdɪd/|adj.|褪色的
+@街頭風格
+graphic|/ˈɡræfɪk/|adj.|圖案醒目的
+boxy|/ˈbɒksi/|adj.|寬箱型的
+urban|/ˈɜːbən/|adj.|都市風的
+rebellious|/rɪˈbeljəs/|adj.|叛逆的
+bold|/bəʊld/|adj.|張揚的
+@極簡風格
+clean-cut|||乾淨俐落的
+basic|/ˈbeɪsɪk/|adj.|基礎的
+streamlined|/ˈstriːmlaɪnd/|adj.|線條簡潔的
+refined|/rɪˈfaɪnd/|adj.|精緻的
+premium|/ˈpriːmiəm/|adj.|高級的
+@復古風格
+retro|/ˈretrəʊ/|adj.|復古的
+polka-dot|||波點的
+pinstriped|/ˈpɪnstraɪpt/|adj.|細條紋的
+mottled|/ˈmɒtld/|adj.|斑駁的
+authentic|/ɔːˈθentɪk/|adj.|正宗的
+@混搭技巧
+high-low|||高低混搭
+contrasting|/kənˈtrɑːstɪŋ/|adj.|對比的
+vibrant|/ˈvaɪbrənt/|adj.|鮮豔的
+eye-catching|||搶眼的
+cohesive|/kəʊˈhiːsɪv/|adj.|協調的
+@流行趨勢
+on-trend|||當下流行的
+must-have|||必備款
+dated|/ˈdeɪtɪd/|adj.|過時的
+overdone|/ˌəʊvəˈdʌn/|adj.|過度使用的
+cliché|/ˈkliːʃeɪ/|adj.|陳詞濫調的
+#14|線上購物|Online Shopping
+@網購操作
+sign up|||註冊
+log in|||登入
+add to cart|||加入購物車
+sort by|||排序方式
+checkout|/ˈtʃekaʊt/|n.|結帳
+@選購決策
+description|/dɪˈskrɪpʃn/|n.|商品描述
+size chart|||尺碼表
+reviews|/rɪˈvjuːz/|n.|評價
+best-seller|||暢銷款
+free shipping|||包郵（免運）
+@實體店
+try on|||試穿
+rack|/ræk/|n.|衣架
+price tag|||價籤
+sale|/seɪl/|n.|促銷
+outlet|/ˈaʊtlet/|n.|折扣店
+@售後服務
+purchase|/ˈpɜːtʃəs/|v.|購買
+wrong item|||發錯商品
+damaged|/ˈdæmɪdʒd/|adj.|損壞的
+unworn|||未穿過的
+shipping|/ˈʃɪpɪŋ/|n.|物流
+@消費心理
+impulse|/ˈɪmpʌls/|n.|衝動
+hesitate|/ˈhezɪteɪt/|v.|猶豫
+deal|/diːl/|n.|划算的交易
+regret|/rɪˈɡret/|n.|後悔
+guilt|/ɡɪlt/|n.|內疚
+@直播購物
+livestream|/ˈlaɪvstriːm/|n.|直播
+host|/həʊst/|n.|主播
+link|/lɪŋk/|n.|連結
+flash sale|||限時搶購
+restock|/ˌriːˈstɒk/|v.|補貨
+#15|特殊場合著裝|Occasion Wear
+@派對與變裝
+costume|/ˈkɒstjuːm/|n.|服裝
+wig|/wɪɡ/|n.|假髮
+cape|/keɪp/|n.|披風
+crown|/kraʊn/|n.|王冠
+wand|/wɒnd/|n.|魔杖
+@婚禮行頭
+wedding dress|||婚紗
+bouquet|/buˈkeɪ/|n.|捧花
+bridal belt|||新娘腰飾
+jewelry|/ˈdʒuːəlri/|n.|珠寶
+diamond|/ˈdaɪəmənd/|n.|鑽石
+@職業制服
+apron|/ˈeɪprən/|n.|圍裙
+hairnet|/ˈheənet/|n.|髮網
+visor|/ˈvaɪzə(r)/|n.|面罩
+camouflage|/ˈkæməflɑːʒ/|n.|迷彩服
+fireproof|/ˈfaɪəpruːf/|adj.|防火的
+@度假裝備
+straw hat|||草帽
+bikini|/bɪˈkiːni/|n.|比基尼
+trunks|/trʌŋks/|n.|泳褲
+barefoot|/ˈbeəfʊt/|adj.|赤腳的
+tan|/tæn/|v.|曬黑
+@舞台演出
+tutu|/ˈtuːtuː/|n.|芭蕾舞裙
+glitter|/ˈɡlɪtə(r)/|n.|亮粉
+stick|/stɪk/|n.|道具棍
+sword|/sɔːd/|n.|劍
+shield|/ʃiːld/|n.|盾牌
+@畢業與榮譽
+sash|/sæʃ/|n.|綬帶
+badge|/bædʒ/|n.|徽章
+trophy|/ˈtrəʊfi/|n.|獎盃
+plaque|/plɑːk/|n.|獎牌
+banner|/ˈbænə(r)/|n.|橫幅

@@ -21,7 +21,9 @@ def parse(path, chapter):
             continue
         if line.startswith("#"):
             num, zh, en = line[1:].split("|")
-            themes.append({"id": int(num), "ch": chapter, "zh": zh, "en": en, "branches": []})
+            # 進度以 key 存檔；第 1 章沿用最早的 "1"～"15"，舊進度才不會遺失
+            key = num if chapter == 1 else f"{chapter}-{num}"
+            themes.append({"id": int(num), "ch": chapter, "key": key, "zh": zh, "en": en, "branches": []})
         elif line.startswith("@"):
             themes[-1]["branches"].append({"name": line[1:], "words": []})
         else:
@@ -31,10 +33,11 @@ def parse(path, chapter):
 
 
 def main():
-    chapters = {1: "人物元素"}
+    chapters = {1: "人物元素", 2: "服飾穿搭", 3: "美食天地", 4: "居住空間", 5: "城市生活"}
     themes = []
-    for p in sorted((ROOT / "data").glob("ch*.txt")):
+    for p in sorted((ROOT / "data").glob("ch*.txt"), key=lambda p: int(re.search(r"ch(\d+)", p.name).group(1))):
         ch = int(re.search(r"ch(\d+)", p.name).group(1))
+        assert ch in chapters, f"build.py 的 chapters 缺少第 {ch} 章的章名"
         themes += parse(p, ch)
     data = {"chapters": chapters, "themes": themes}
     tpl = (ROOT / "web" / "template.html").read_text(encoding="utf-8")
