@@ -9,7 +9,7 @@
 
 | 路徑 | 內容 |
 |------|------|
-| `data/ch1.txt`～`ch5.txt` | 第 1～5 章，每章 15 個主題、450 字，共 2250 字（從書上照片整理） |
+| `data/ch1.txt`～`ch10.txt` | 第 1～10 章，每章 15 個主題、450 字，共 4500 字（從書上照片整理） |
 | `web/template.html` | 網頁版程式 |
 | `web/index.html` | 產生出來的網頁（不要直接改） |
 | `tools/build.py` | 把 `data/` 的單字放進網頁：`python3 tools/build.py` |

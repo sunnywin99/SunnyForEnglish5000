@@ -33,7 +33,7 @@ def parse(path, chapter):
 
 
 def main():
-    chapters = {1: "人物元素", 2: "服飾穿搭", 3: "美食天地", 4: "居住空間", 5: "城市生活", 6: "旅行交通", 7: "社會生活", 8: "醫療健康", 9: "自然與環境"}
+    chapters = {1: "人物元素", 2: "服飾穿搭", 3: "美食天地", 4: "居住空間", 5: "城市生活", 6: "旅行交通", 7: "社會生活", 8: "醫療健康", 9: "自然與環境", 10: "中國文化"}
     themes = []
     for p in sorted((ROOT / "data").glob("ch*.txt"), key=lambda p: int(re.search(r"ch(\d+)", p.name).group(1))):
         ch = int(re.search(r"ch(\d+)", p.name).group(1))
