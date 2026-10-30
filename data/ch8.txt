@@ -1,0 +1,555 @@
+#1|身體健康|Physical Health
+@健康指標
+pulse|/pʌls/|n.|脈搏
+heart rate|||心率
+vision|/ˈvɪʒn/|n.|視力
+hearing|/ˈhɪərɪŋ/|n.|聽力
+check hearing|||檢查聽力
+@體能狀態
+alert|/əˈlɜːt/|adj.|清醒的；警覺的
+energetic|/ˌenəˈdʒetɪk/|adj.|精力充沛的
+stable|/ˈsteɪbl/|adj.|穩定的
+weak|/wiːk/|adj.|虛弱的
+feel weak|||感到虛弱
+@體質描述
+sensitive|/ˈsensətɪv/|adj.|易敏感的
+sweaty|/ˈsweti/|adj.|容易出汗的
+get sweaty|||出汗
+muscular|/ˈmʌskjələ(r)/|adj.|肌肉發達的
+look muscular|||看起來肌肉發達
+@亞健康
+fatigue|/fəˈtiːɡ/|n.|疲勞
+backache|/ˈbækeɪk/|n.|背痛
+have backache|||背痛
+dry eyes|||乾眼症
+hair loss|||掉髮
+@遺傳因素
+gene|/dʒiːn/|n.|基因
+carry a gene|||攜帶基因
+carrier|/ˈkæriə(r)/|n.|帶原者（攜帶者）
+be a carrier|||成為帶原者
+trait|/treɪt/|n.|遺傳特徵
+@體檢項目
+physical|/ˈfɪzɪkl/|n.|健康檢查
+blood|/blʌd/|n.|血液
+blood test|||驗血
+X-ray|/ˈeks reɪ/|n.|X 光檢查
+CT scan|||電腦斷層掃描（CT）
+#2|常見症狀|Common Symptoms
+@疼痛描述
+dull|/dʌl/|adj.|鈍痛的
+dull pain|||鈍痛
+aching|/ˈeɪkɪŋ/|adj.|隱隱作痛的
+aching muscles|||肌肉痠痛
+stabbing|/ˈstæbɪŋ/|adj.|刺痛的
+@呼吸道症狀
+throat|/θrəʊt/|n.|喉嚨
+sore throat|||喉嚨痛
+sneeze|/sniːz/|v.|打噴嚏
+cough|/kɒf/|v.|咳嗽
+cough badly|||劇烈咳嗽
+@消化道症狀
+bloating|/ˈbləʊtɪŋ/|n.|脹氣（腹脹）
+feel bloated|||感到腹脹
+burp|/bɜːp/|v.|打嗝
+stomachache|/ˈstʌməkeɪk/|n.|胃痛
+have a stomachache|||胃痛
+@皮膚症狀
+rash|/ræʃ/|n.|皮疹
+get a rash|||起疹子
+blister|/ˈblɪstə(r)/|n.|水泡
+pimples|/ˈpɪmplz/|n.|青春痘（粉刺）
+get pimples|||長痘痘
+@全身症狀
+fever|/ˈfiːvə(r)/|n.|發燒
+run a fever|||發燒
+chills|/tʃɪlz/|n.|發冷
+feel chills|||發冷
+dizziness|/ˈdɪzinəs/|n.|頭暈
+@神經症狀
+twitch|/twɪtʃ/|v.|抽動
+muscle twitch|||肌肉抽動
+memory|/ˈmeməri/|n.|記憶
+memory loss|||記憶力減退
+paralysis|/pəˈræləsɪs/|n.|癱瘓
+#3|常見疾病|Common Diseases
+@傳染性疾病
+cold|/kəʊld/|n.|感冒
+catch a cold|||感冒
+viral|/ˈvaɪrəl/|adj.|病毒性的
+viral infection|||病毒感染
+vaccine|/ˈvæksiːn/|n.|疫苗
+@慢性疾病
+diabetes|/ˌdaɪəˈbiːtiːz/|n.|糖尿病
+manage diabetes|||控制糖尿病
+asthma|/ˈæsmə/|n.|氣喘
+obesity|/əʊˈbiːsəti/|n.|肥胖症
+ulcer|/ˈʌlsə(r)/|n.|潰瘍
+@五官科疾病
+nearsightedness|/ˌnɪəˈsaɪtɪdnəs/|n.|近視
+cataract|/ˈkætərækt/|n.|白內障
+astigmatism|/əˈstɪɡmətɪzəm/|n.|散光
+deafness|/ˈdefnəs/|n.|聽力喪失
+tinnitus|/ˈtɪnɪtəs/|n.|耳鳴
+@常見外傷
+sprain|/spreɪn/|n.|扭傷
+strain|/streɪn/|n.|拉傷
+cut|/kʌt/|n.|割傷
+bruise|/bruːz/|n.|瘀青
+bleeding|/ˈbliːdɪŋ/|n.|出血
+@心理疾病
+depression|/dɪˈpreʃn/|n.|憂鬱症
+suffer from depression|||患憂鬱症
+phobia|/ˈfəʊbiə/|n.|恐懼症
+stress|/stres/|n.|壓力
+deal with stress|||應對壓力
+@嚴重疾病
+cancer|/ˈkænsə(r)/|n.|癌症
+tumor|/ˈtjuːmə(r)/|n.|腫瘤
+remove a tumor|||切除腫瘤
+heart disease|||心臟病
+dementia|/dɪˈmenʃə/|n.|失智症（痴呆症）
+#4|就醫流程|Medical Visit Process
+@行政手續
+appointment|/əˈpɔɪntmənt/|n.|預約
+registration|/ˌredʒɪˈstreɪʃn/|n.|掛號
+insurance card|||健保卡（醫保卡）
+medical record|||病歷
+outpatient|/ˈaʊtpeɪʃnt/|n.|門診病人
+@問診環節
+physical exam|||身體檢查
+symptom|/ˈsɪmptəm/|n.|症狀
+describe symptoms|||描述症狀
+onset|/ˈɒnset/|n.|發病時間
+family history|||家族病史
+@診斷結果
+confirmed|/kənˈfɜːmd/|adj.|確診的
+misdiagnosis|/ˌmɪsdaɪəɡˈnəʊsɪs/|n.|誤診
+re-exam|/ˌriːɪɡˈzæm/|n.|複查
+report|/rɪˈpɔːt/|n.|檢查報告
+case|/keɪs/|n.|病例
+@治療方案
+conservative|/kənˈsɜːvətɪv/|adj.|保守治療的
+operation|/ˌɒpəˈreɪʃn/|n.|手術
+inpatient|/ˈɪnpeɪʃnt/|n.|住院病人
+injection|/ɪnˈdʒekʃn/|n.|打針（注射）
+therapy|/ˈθerəpi/|n.|治療方案
+@費用結算
+self-pay|||自費
+reimburse|/ˌriːɪmˈbɜːs/|v.|報銷（給付）
+bill|/bɪl/|n.|帳單
+coverage|/ˈkʌvərɪdʒ/|n.|給付範圍
+total|/ˈtəʊtl/|n.|總費用
+@出院手續
+advice|/ədˈvaɪs/|n.|醫囑
+follow-up|/ˈfɒləʊʌp/|n.|回診（複診）
+prescribe|/prɪˈskraɪb/|v.|開處方
+certificate|/səˈtɪfɪkət/|n.|證明（診斷書）
+warning|/ˈwɔːnɪŋ/|n.|注意事項
+#5|醫院場所|Hospital Facilities
+@核心科室
+medicine|/ˈmedsn/|n.|內科
+surgery|/ˈsɜːdʒəri/|n.|外科
+OB-GYN|||婦產科
+ENT|||耳鼻喉科
+dental|/ˈdentl/|adj.|牙科
+@輔助科室
+radiology|/ˌreɪdiˈɒlədʒi/|n.|放射科
+admin|/ˈædmɪn/|n.|行政部門
+sample|/ˈsɑːmpl/|n.|檢體（樣本）
+lab|/læb/|n.|檢驗室（實驗室）
+information|/ˌɪnfəˈmeɪʃn/|n.|服務台（資訊台）
+@門診區域
+triage desk|||檢傷分類台（分診台）
+infusion|/ɪnˈfjuːʒn/|n.|點滴室（輸液室）
+dressing|/ˈdresɪŋ/|n.|換藥室
+restroom|/ˈrestruːm/|n.|洗手間
+laundry|/ˈlɔːndri/|n.|洗衣房
+@住院區域
+ward|/wɔːd/|n.|病房
+nursing station|||護理站
+PACU|||麻醉恢復室
+semi-private|||半私人病房（雙人房）
+call bell|||呼叫鈴
+@急救區域
+ICU|||加護病房
+trauma|/ˈtrɔːmə/|n.|創傷急救
+oxygen|/ˈɒksɪdʒən/|n.|氧氣設備
+acute|/əˈkjuːt/|adj.|急性的
+red zone|||急重症區
+@醫療設施
+morgue|/mɔːɡ/|n.|太平間
+ambulance bay|||救護車停靠區
+quarantine|/ˈkwɒrəntiːn/|n.|隔離區
+staff only|||員工專用
+helipad|/ˈhelipæd/|n.|直升機停機坪
+#6|醫護人員|Medical Staff
+@醫生職級
+doctor|/ˈdɒktə(r)/|n.|醫生
+resident|/ˈrezɪdənt/|n.|住院醫師
+attending|/əˈtendɪŋ/|n.|主治醫師
+chief|/tʃiːf/|n.|主任醫師
+specialist|/ˈspeʃəlɪst/|n.|專科醫生
+@護理人員
+head nurse|||護理長
+caregiver|/ˈkeəɡɪvə(r)/|n.|看護（照顧者）
+midwife|/ˈmɪdwaɪf/|n.|助產士
+intern|/ˈɪntɜːn/|n.|實習生
+escort|/ˈeskɔːt/|n.|陪護人員
+@技術人員
+anesthetist|/əˈniːsθətɪst/|n.|麻醉師
+pharmacist|/ˈfɑːməsɪst/|n.|藥劑師
+dietitian|/ˌdaɪəˈtɪʃn/|n.|營養師
+radiologist|/ˌreɪdiˈɒlədʒɪst/|n.|放射科醫師
+optician|/ɒpˈtɪʃn/|n.|驗光師
+@工作狀態
+on duty|||值班
+ward round|||巡房（查房）
+consultation|/ˌkɒnslˈteɪʃn/|n.|看診（會診）
+shift|/ʃɪft/|n.|輪班
+on call|||待命
+@醫患關係
+conflict|/ˈkɒnflɪkt/|n.|醫療糾紛
+communicate|/kəˈmjuːnɪkeɪt/|v.|溝通
+gratitude|/ˈɡrætɪtjuːd/|n.|感謝
+empathy|/ˈempəθi/|n.|同理心（共情）
+consent|/kənˈsent/|n.|知情同意
+@家庭支持
+accompany|/əˈkʌmpəni/|v.|陪同
+help with registration|||協助掛號
+handle paperwork|||處理手續
+daily care|||日常照顧
+emotional support|||情感支持
+#7|檢查治療|Checks & Treatments
+@藥物治療
+oral|/ˈɔːrəl/|adj.|口服的
+topical|/ˈtɒpɪkl/|adj.|外用的
+inhalation|/ˌɪnhəˈleɪʃn/|n.|吸入治療
+soluble|/ˈsɒljəbl/|adj.|可溶解的
+IV drip|||打點滴（靜脈輸液）
+@物理治療
+massage|/ˈmæsɑːʒ/|n.|按摩
+acupuncture|/ˈækjupʌŋktʃə(r)/|n.|針灸
+hot compress|||熱敷
+cold compress|||冷敷
+stimulation|/ˌstɪmjuˈleɪʃn/|n.|刺激療法
+@外科手術
+minimally invasive|||微創的
+pre-op|||術前的
+post-op|||術後的
+suture|/ˈsuːtʃə(r)/|n.|縫合
+incision|/ɪnˈsɪʒn/|n.|切口
+@急救措施
+CPR|||心肺復甦術（CPR）
+Heimlich|||哈姆立克急救法
+mouth-to-mouth|||口對口人工呼吸
+splint|/splɪnt/|n.|夾板固定
+pressure|/ˈpreʃə(r)/|n.|壓迫止血
+@康復訓練
+rehab|/ˈriːhæb/|n.|復健治療
+correction|/kəˈrekʃn/|n.|矯正
+crutches|/ˈkrʌtʃɪz/|n.|拐杖
+mental|/ˈmentl/|adj.|心理方面的
+support|/səˈpɔːt/|n.|支持
+@替代療法
+TCM|||中醫
+herbal|/ˈhɜːbl/|adj.|草藥的
+dietary|/ˈdaɪətəri/|adj.|飲食療法的
+cupping|/ˈkʌpɪŋ/|n.|拔罐
+guasha|/ˈɡwɑːʃɑː/|n.|刮痧
+#8|藥品用具|Medicine Supplies
+@藥品劑型
+capsule|/ˈkæpsjuːl/|n.|膠囊
+tablet|/ˈtæblət/|n.|藥片（錠劑）
+syrup|/ˈsɪrəp/|n.|糖漿
+pill|/pɪl/|n.|藥丸
+powder|/ˈpaʊdə(r)/|n.|藥粉（粉劑）
+@藥品分類
+prescription|/prɪˈskrɪpʃn/|n.|處方藥
+OTC|||成藥（非處方藥）
+antibiotic|/ˌæntibaɪˈɒtɪk/|n.|抗生素
+painkiller|/ˈpeɪnkɪlə(r)/|n.|止痛藥
+aspirin|/ˈæsprɪn/|n.|阿斯匹靈
+@用藥說明
+side effects|||副作用
+expiry date|||有效期限
+dosage|/ˈdəʊsɪdʒ/|n.|劑量（用量）
+precaution|/prɪˈkɔːʃn/|n.|注意事項
+lot number|||批號
+@服用方法
+fasting|/ˈfɑːstɪŋ/|adj.|空腹的
+with meals|||隨餐服用
+shake well|||使用前搖勻
+dilute|/daɪˈluːt/|v.|稀釋
+suck|/sʌk/|v.|含服
+@醫療器械
+wheelchair|/ˈwiːltʃeə(r)/|n.|輪椅
+oxymeter|/ɒkˈsɪmɪtə(r)/|n.|血氧機
+walker|/ˈwɔːkə(r)/|n.|助行器
+blood pressure monitor|||血壓計
+glucometer|/ɡluːˈkɒmɪtə(r)/|n.|血糖機
+@儲存方式
+dark place|||避光處
+sealed|/siːld/|adj.|密封的
+airtight|/ˈeətaɪt/|adj.|密閉的
+ventilated|/ˈventɪleɪtɪd/|adj.|通風的
+out of reach|||放在拿不到的地方
+#9|用藥方式|Routes of Administration
+@口服給藥
+swallow|/ˈswɒləʊ/|v.|吞嚥
+chew|/tʃuː/|v.|咀嚼
+take with water|||配水服用
+sublingual|/sʌbˈlɪŋɡwəl/|adj.|舌下含服的
+crush|/krʌʃ/|v.|磨碎
+@注射給藥
+indwelling needle|||留置針
+syringe|/sɪˈrɪndʒ/|n.|注射器（針筒）
+disinfect|/ˌdɪsɪnˈfekt/|v.|消毒
+cotton ball|||棉球
+skin test|||皮膚測試（皮試）
+@外用給藥
+instill|/ɪnˈstɪl/|v.|滴入
+rub|/rʌb/|v.|塗抹；揉
+lotion|/ˈləʊʃn/|n.|乳液
+gel|/dʒel/|n.|凝膠
+plaster|/ˈplɑːstə(r)/|n.|藥膏貼（膏藥）
+@吸入給藥
+nebulizer|/ˈnebjəlaɪzə(r)/|n.|霧化器
+inhaler|/ɪnˈheɪlə(r)/|n.|吸入器
+nasal spray|||鼻噴劑
+oxygen therapy|||氧氣治療
+mask|/mɑːsk/|n.|面罩
+@劑量控制
+three times daily|||一天三次
+after meals|||飯後服用
+missed dose|||漏服劑量
+halve|/hɑːv/|v.|減半
+overdose|/ˈəʊvədəʊs/|n.|過量
+@用藥反應
+drug reaction|||藥物反應
+drowsiness|/ˈdraʊzinəs/|n.|嗜睡
+dry mouth|||口乾
+shortness of breath|||呼吸急促
+palpitations|/ˌpælpɪˈteɪʃnz/|n.|心悸
+#10|日常護理|Daily Care
+@臥床護理
+turn over|||翻身
+sponge bath|/ˈspʌndʒ bɑːθ/|n.|擦澡
+pat the back|||拍背
+oral care|||口腔護理
+change sheets|||換床單
+@傷口護理
+disinfect the wound|||傷口消毒
+remove stitches|||拆線
+clean the area|||清潔患處
+apply ointment|||塗藥膏
+wrap with bandage|||包紮
+@降溫處理
+cooling patch|||退熱貼
+rest in bed|||臥床休息
+sweat it out|||悶出汗
+take antipyretics|||服用退燒藥
+monitor fever|||監測體溫
+@輔助行動
+physical therapy|||物理治療（復健）
+balance training|||平衡訓練
+stair climbing|||上下樓梯訓練
+avoid falling|||防止跌倒
+arm support|||攙扶手臂
+@監測記錄
+record urine output|||記錄尿量
+blood pressure|||血壓
+check pulse|||量脈搏
+daily weighing|||每日量體重
+write a nursing log|||寫護理日誌
+@特殊護理
+postpartum care|||產後護理（坐月子）
+post-op care|||術後護理
+end-of-life care|||安寧照護（臨終關懷）
+newborn care|||新生兒護理
+intensive care|||重症護理
+#11|健康習慣|Healthy Habits
+@飲食控制
+balanced diet|||均衡飲食
+low sugar|||低糖
+low salt|||低鹽
+quit smoking|||戒菸
+limit alcohol|||限酒
+@作息規律
+body clock|||生理時鐘
+deep sleep|||深度睡眠
+regular hours|||作息規律
+wind down|||放鬆下來
+early bird|||早起的人
+@衛生習慣
+personal hygiene|||個人衛生
+change clothes|||換衣服
+nail clipping|||剪指甲
+hand washing|||洗手
+tidy up|||保持整潔
+@心理調節
+talk it out|||傾訴出來
+keep a journal|||寫日記
+seek help|||尋求幫助
+stay calm|||保持冷靜
+inner peace|||內心平靜
+@定期檢查
+dental checkup|||牙科檢查
+vision test|||視力檢查
+blood work|||血液檢查
+screening|/ˈskriːnɪŋ/|n.|篩檢
+health record|||健康檔案
+@不良習慣
+sedentary|/ˈsedntri/|adj.|久坐的
+crossed legs|||翹二郎腿
+phubber|/ˈfʌbə(r)/|n.|低頭族
+slouching|/ˈslaʊtʃɪŋ/|n.|駝背（彎腰駝背）
+heavy drinking|||酗酒
+#12|運動鍛鍊|Exercise & Fitness
+@有氧運動
+rope skipping|||跳繩
+swimming|/ˈswɪmɪŋ/|n.|游泳
+aerobics|/eəˈrəʊbɪks/|n.|有氧舞蹈（有氧操）
+rowing|/ˈrəʊɪŋ/|n.|划船運動
+fat burning|||燃脂
+@力量訓練
+weightlifting|/ˈweɪtlɪftɪŋ/|n.|舉重
+squat|/skwɒt/|n.|深蹲
+bench press|||臥推
+deadlift|/ˈdedlɪft/|n.|硬舉
+tone up|||塑形
+@柔韌平衡
+yoga|/ˈjəʊɡə/|n.|瑜伽
+pilates|/pɪˈlɑːtiːz/|n.|皮拉提斯
+tai chi|/ˌtaɪ ˈtʃiː/|n.|太極
+balance beam|||平衡木
+split|/splɪt/|n.|劈腿（劈叉）
+@健身動作
+warm-up|||熱身
+cool-down|||緩和運動（收操）
+repetition|/ˌrepɪˈtɪʃn/|n.|次數
+intensity|/ɪnˈtensəti/|n.|強度
+frequency|/ˈfriːkwənsi/|n.|頻率
+@身體反應
+pound|/paʊnd/|v.|（心臟）劇烈跳動
+failure|/ˈfeɪljə(r)/|n.|力竭
+short of breath|||喘不過氣
+soreness|/ˈsɔːnəs/|n.|痠痛
+cramp|/kræmp/|n.|抽筋
+@運動裝備
+water bottle|||水壺
+gym bag|||運動包
+towel|/ˈtaʊəl/|n.|毛巾
+earbuds|||入耳式耳機
+jump rope|||跳繩
+#13|飲食健康|Healthy Diet
+@營養元素
+carb|/kɑːb/|n.|碳水化合物
+mineral|/ˈmɪnərəl/|n.|礦物質
+sodium|/ˈsəʊdiəm/|n.|鈉
+calcium|/ˈkælsiəm/|n.|鈣
+potassium|/pəˈtæsiəm/|n.|鉀
+@熱量控制
+kcal|/ˈkælkæl/|n.|大卡（千卡）
+BMR|||基礎代謝率
+intake|/ˈɪnteɪk/|n.|攝取量
+deficit|/ˈdefɪsɪt/|n.|熱量赤字
+maintenance|/ˈmeɪntənəns/|n.|維持熱量
+@特殊食譜
+liquid diet|||流質飲食
+low fat|||低脂
+sugar-free|||無糖
+gluten-free|||無麩質
+keto|/ˈkiːtəʊ/|n.|生酮飲食
+@補劑保健
+calcium tablet|||鈣片
+fish oil|||魚油
+probiotics|/ˌprəʊbaɪˈɒtɪks/|n.|益生菌
+vitamins|/ˈvɪtəmɪnz/|n.|維他命
+protein powder|||蛋白粉
+@消化吸收
+process|/ˈprəʊses/|n.|消化過程
+absorb|/əbˈzɔːb/|v.|吸收
+heartburn|/ˈhɑːtbɜːn/|n.|胃灼熱（火燒心）
+gut health|||腸道健康
+gastric acid|||胃酸
+@飲食失調
+disorder|/dɪsˈɔːdə(r)/|n.|紊亂
+malnutrition|/ˌmælnjuːˈtrɪʃn/|n.|營養不良
+starvation|/stɑːˈveɪʃn/|n.|飢餓狀態
+overeating|/ˌəʊvərˈiːtɪŋ/|n.|暴食
+unhealthy|/ʌnˈhelθi/|adj.|不健康的
+#14|意外傷害|Accidental Injuries
+@跌倒墜落
+fall down|||跌倒
+slip|/slɪp/|v.|滑倒
+limp|/lɪmp/|v.|跛行
+knock|/nɒk/|v.|撞擊
+fracture|/ˈfræktʃə(r)/|n.|骨折
+@銳器損傷
+puncture|/ˈpʌŋktʃə(r)/|n.|刺傷（穿刺傷）
+stab|/stæb/|v.|刺傷
+deep wound|||深度傷口
+infection|/ɪnˈfekʃn/|n.|感染
+tetanus shot|||破傷風針
+@燒燙腐蝕
+redness|/ˈrednəs/|n.|發紅
+chemical burn|||化學灼傷
+electric shock|||觸電
+charred|/tʃɑːd/|adj.|燒焦的
+degree|/dɪˈɡriː/|n.|燒傷程度
+@動物致傷
+bite|/baɪt/|n./v.|咬傷
+venom|/ˈvenəm/|n.|毒液
+rabies|/ˈreɪbiːz/|n.|狂犬病
+poisonous|/ˈpɔɪzənəs/|adj.|有毒的
+anti-venom|||抗蛇毒血清
+@異物卡喉
+choke|/tʃəʊk/|v.|噎住
+fish bone|||魚刺
+suffocation|/ˌsʌfəˈkeɪʃn/|n.|窒息
+blockage|/ˈblɒkɪdʒ/|n.|阻塞
+turn blue|||發紫（發紺）
+@運動損傷
+meniscus|/məˈnɪskəs/|n.|半月板
+ligament|/ˈlɪɡəmənt/|n.|韌帶
+tear|/teə(r)/|n.|撕裂傷
+overuse|/ˌəʊvəˈjuːs/|n.|過度使用
+ice pack|||冰袋
+#15|急救處理|First Aid
+@心肺復甦
+breath|/breθ/|n.|呼吸
+rescue breath|||人工呼吸
+hour|/ˈaʊə(r)/|n.|小時
+golden hour|||黃金搶救時間
+rhythm|/ˈrɪðəm/|n.|按壓節律
+@止血包紮
+artery|/ˈɑːtəri/|n.|動脈
+bleed|/bliːd/|v.|出血
+bleeding out|||大量失血
+soaked|/səʊkt/|adj.|浸透的
+tourniquet|/ˈtʊənɪkeɪ/|n.|止血帶
+@氣道異物
+back blow|||背部拍擊
+abdominal thrust|||腹部衝擊（哈姆立克法）
+cough it out|||咳出異物
+fist|/fɪst/|n.|拳頭
+upward|/ˈʌpwəd/|adj.|向上的
+@固定搬運
+loading|/ˈləʊdɪŋ/|n.|裝載
+splint|/splɪnt/|n.|夾板
+air splint|||充氣夾板
+backboard|/ˈbækbɔːd/|n.|脊椎固定板（長背板）
+spine|/spaɪn/|n.|脊椎
+@中毒處理
+ingest|/ɪnˈdʒest/|v.|攝入
+ingest poison|||誤食毒物
+toxic|/ˈtɒksɪk/|adj.|有毒的
+toxic substance|||有毒物質
+antidote|/ˈæntidəʊt/|n.|解毒劑
+@求救呼叫
+location|/ləʊˈkeɪʃn/|n.|位置
+share your location|||告知位置
+stay on the line|||保持通話
+sign|/saɪn/|n.|體徵
+vital signs|||生命徵象

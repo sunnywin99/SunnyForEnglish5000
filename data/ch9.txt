@@ -1,0 +1,555 @@
+#1|自然風光|Scenery & Views
+@視野描述
+wide-open|||開闊的
+obstruct|/əbˈstrʌkt/|v.|擋住
+obstruct the view|||擋住視野
+line of sight|||視線範圍
+boundless|/ˈbaʊndləs/|adj.|無邊無際的
+@景色評價
+scenic|/ˈsiːnɪk/|adj.|風景優美的
+ordinary|/ˈɔːdnri/|adj.|普通的
+look ordinary|||看起來普通
+disappointing|/ˌdɪsəˈpɔɪntɪŋ/|adj.|令人失望的
+amazing|/əˈmeɪzɪŋ/|adj.|令人驚嘆的
+@光線氛圍
+brilliant|/ˈbrɪliənt/|adj.|明亮的
+brilliant sunlight|||燦爛的陽光
+mellow|/ˈmeləʊ/|adj.|柔和的
+mellow light|||柔和的光線
+gloomy|/ˈɡluːmi/|adj.|陰沉的
+@色彩感覺
+lush|/lʌʃ/|adj.|鬱鬱蔥蔥的
+gray|/ɡreɪ/|adj.|灰濛濛的
+gray sky|||灰濛濛的天空
+vivid|/ˈvɪvɪd/|adj.|鮮豔的
+vivid colors|||鮮豔的顏色
+@空氣感覺
+stuffy|/ˈstʌfi/|adj.|悶的
+feel stuffy|||感到悶
+humid|/ˈhjuːmɪd/|adj.|潮濕的
+humid air|||潮濕的空氣
+fragrant|/ˈfreɪɡrənt/|adj.|清香的
+@拍照相關
+backlit|/ˈbæklɪt/|adj.|逆光的
+a backlit photo|||逆光照片
+focus|/ˈfəʊkəs/|n.|焦點
+out of focus|||失焦
+in focus|||對焦清晰
+#2|山間漫步|Mountain Walks
+@路面狀況
+muddy|/ˈmʌdi/|adj.|泥濘的
+uphill|/ˌʌpˈhɪl/|adj.|上坡的
+walk uphill|||上坡走
+downhill|/ˌdaʊnˈhɪl/|adj.|下坡的
+go downhill|||下坡走
+@山體特徵
+summit|/ˈsʌmɪt/|n.|山頂
+reach the summit|||登上山頂
+cliff|/klɪf/|n.|懸崖
+valley|/ˈvæli/|n.|山谷
+a quiet valley|||寧靜的山谷
+@岩石形態
+cave|/keɪv/|n.|洞穴
+explore a cave|||探索洞穴
+pebble|/ˈpebl/|n.|鵝卵石
+pick up pebbles|||撿鵝卵石
+fossil|/ˈfɒsl/|n.|化石
+@攀登感受
+out of breath|||氣喘吁吁
+dizzy|/ˈdɪzi/|adj.|頭暈的
+feel dizzy|||感到頭暈
+spent|/spent/|adj.|精疲力盡的
+soaked with sweat|||被汗水浸透的
+@山間設施
+guardrail|/ˈɡɑːdreɪl/|n.|護欄
+cable car|||纜車
+ropeway|/ˈrəʊpweɪ/|n.|索道
+signpost|/ˈsaɪnpəʊst/|n.|路標
+follow the signpost|||順著路標走
+@回聲與靜謐
+birdsong|/ˈbɜːdsɒŋ/|n.|鳥鳴
+hear birdsong|||聽到鳥鳴
+echo|/ˈekəʊ/|n.|回聲
+hear an echo|||聽到回聲
+hush|/hʌʃ/|n.|寂靜
+#3|玩水嬉戲|Rivers & Lakes
+@水的狀態
+flowing|/ˈfləʊɪŋ/|adj.|流動的
+flowing water|||流動的水
+still|/stɪl/|adj.|靜止的
+still water|||靜水
+freezing|/ˈfriːzɪŋ/|adj.|冰冷的
+@水邊物體
+waterweed|/ˈwɔːtəwiːd/|n.|水草
+reeds|/riːdz/|n.|蘆葦
+riverbed|/ˈrɪvəbed/|n.|河床
+shore|/ʃɔː(r)/|n.|岸邊
+walk along the shore|||沿著岸邊走
+@水流動態
+splash|/splæʃ/|n.|水花
+make a splash|||濺起水花
+waterfall|/ˈwɔːtəfɔːl/|n.|瀑布
+stand near a waterfall|||站在瀑布旁
+bubble|/ˈbʌbl/|n.|氣泡
+@接觸水
+wade|/weɪd/|v.|涉水
+wade through water|||涉水而行
+paddle|/ˈpædl/|v.|划水
+paddle in the water|||在水中划水
+dive|/daɪv/|v.|潛水
+@水體名稱
+puddle|/ˈpʌdl/|n.|水坑
+river|/ˈrɪvə(r)/|n.|河流
+cross a river|||過河
+lake|/leɪk/|n.|湖泊
+swim in the lake|||在湖裡游泳
+@危險提示
+deep water|||深水區
+no swimming|||禁止游泳
+no diving|||禁止跳水
+drowning|/ˈdraʊnɪŋ/|n.|溺水
+steep bank|||陡岸
+#4|海邊度假|Beach & Ocean
+@沙灘活動
+sandcastle|/ˈsændkɑːsl/|n.|沙堡
+build a sandcastle|||堆沙堡
+sunbathe|/ˈsʌnbeɪð/|v.|做日光浴
+frisbee|/ˈfrɪzbi/|n.|飛盤
+surf|/sɜːf/|v.|衝浪
+@海浪特徵
+sea foam|||海浪泡沫
+wave|/weɪv/|n.|海浪
+huge waves|||巨浪
+high tide|||漲潮
+low tide|||退潮
+@腳下觸感
+rocky|/ˈrɒki/|adj.|硌腳的（多石的）
+a rocky beach|||多石的海灘
+clammy|/ˈklæmi/|adj.|濕黏的
+gritty|/ˈɡrɪti/|adj.|有沙礫感的
+squishy|/ˈskwɪʃi/|adj.|軟塌塌的
+@海邊生物
+starfish|/ˈstɑːfɪʃ/|n.|海星
+seagull|/ˈsiːɡʌl/|n.|海鷗
+sea urchin|||海膽
+dolphin|/ˈdɒlfɪn/|n.|海豚
+sea shell|||貝殼
+@防曬相關
+UV rays|||紫外線
+sunburn|/ˈsʌnbɜːn/|n.|曬傷
+beach umbrella|||海灘傘（遮陽傘）
+sunscreen|/ˈsʌnskriːn/|n.|防曬乳
+rash guard|||防曬衣
+@海風氣息
+tropical|/ˈtrɒpɪkl/|adj.|熱帶的
+coastal|/ˈkəʊstl/|adj.|海岸的
+coastal area|||沿海地區
+marine|/məˈriːn/|adj.|海洋的
+marine air|||海洋空氣
+#5|公園與森林|Parks and Woods
+@樹木形態
+trunk|/trʌŋk/|n.|樹幹
+tree trunk|||樹幹
+branch|/brɑːntʃ/|n.|樹枝
+bark|/bɑːk/|n.|樹皮
+roots|/ruːts/|n.|根部（根系）
+@草地活動
+adventure|/ədˈventʃə(r)/|n.|冒險
+roll|/rəʊl/|v.|翻滾
+stroll|/strəʊl/|v.|散步（漫步）
+sprawl|/sprɔːl/|v.|躺開（攤開手腳躺）
+relax|/rɪˈlæks/|v.|放鬆
+@林間小路
+footpath|/ˈfʊtpɑːθ/|n.|小徑
+shortcut|/ˈʃɔːtkʌt/|n.|捷徑（近路）
+bumpy|/ˈbʌmpi/|adj.|顛簸的
+full of weeds|||雜草叢生的
+lost|/lɒst/|adj.|迷路的
+@聲音與氣味
+chirping|/ˈtʃɜːpɪŋ/|n.|啁啾聲（鳥叫聲）
+hear chirping|||聽到鳥叫聲
+buzzing|/ˈbʌzɪŋ/|n.|嗡嗡聲
+fragrance|/ˈfreɪɡrəns/|n.|清香
+smell the fragrance|||聞到清香
+@尋找方向
+map|/mæp/|n.|地圖
+compass|/ˈkʌmpəs/|n.|指南針
+trail marker|||步道標誌
+entrance|/ˈentrəns/|n.|入口
+exit|/ˈeksɪt/|n.|出口
+@昆蟲困擾
+mosquito|/məˈskiːtəʊ/|n.|蚊子
+wasp|/wɒsp/|n.|黃蜂
+tick|/tɪk/|n.|蜱蟲（壁蝨）
+sting|/stɪŋ/|n.|叮咬
+crawl|/krɔːl/|v.|爬行
+#6|沙漠與荒野|Deserts & Wilds
+@沙土形態
+dune|/djuːn/|n.|沙丘
+dust|/dʌst/|n.|塵土
+soft sand|||鬆軟的沙子
+silt|/sɪlt/|n.|淤沙
+canyon|/ˈkænjən/|n.|峽谷
+@極端高溫
+blazing|/ˈbleɪzɪŋ/|adj.|炎熱的（熾熱的）
+thirsty|/ˈθɜːsti/|adj.|口渴的
+sweaty|/ˈsweti/|adj.|大汗淋漓的
+heatstroke|/ˈhiːtstrəʊk/|n.|中暑
+faint|/feɪnt/|adj.|昏厥的
+@植物生命
+cactus|/ˈkæktəs/|n.|仙人掌
+shrub|/ʃrʌb/|n.|灌木
+thorns|/θɔːnz/|n.|荊棘
+desert plant|||沙漠植物
+fragile|/ˈfrædʒaɪl/|adj.|脆弱的
+@風沙天氣
+sandstorm|/ˈsændstɔːm/|n.|沙塵暴
+hazy|/ˈheɪzi/|adj.|昏黃的（霧濛濛的）
+bury|/ˈberi/|v.|掩埋
+shelter|/ˈʃeltə(r)/|n.|遮蔽物
+squint|/skwɪnt/|v.|瞇眼
+@尋找水源
+oasis|/əʊˈeɪsɪs/|n.|綠洲
+mirage|/ˈmɪrɑːʒ/|n.|海市蜃樓
+well|/wel/|n.|水井
+dew|/djuː/|n.|露水
+cracked|/krækt/|adj.|乾裂的
+@荒涼感受
+being alone|||獨處
+isolated|/ˈaɪsəleɪtɪd/|adj.|孤立的
+bleak|/bliːk/|adj.|荒涼的
+vast|/vɑːst/|adj.|廣闊的
+desolate|/ˈdesələt/|adj.|荒蕪的
+#7|今天的天氣|Today's Weather
+@晴雨狀況
+overcast|/ˈəʊvəkɑːst/|adj.|陰天的
+drizzle|/ˈdrɪzl/|n.|毛毛雨
+shower|/ˈʃaʊə(r)/|n.|陣雨
+heavy rain|||大雨
+clear up|||放晴
+@溫度體感
+freezing|/ˈfriːzɪŋ/|adj.|冷死人的（凍人的）
+boiling|/ˈbɔɪlɪŋ/|adj.|炎熱的
+muggy|/ˈmʌɡi/|adj.|悶熱的
+cool|/kuːl/|adj.|涼爽的
+chilly|/ˈtʃɪli/|adj.|微冷的
+@風力變化
+breeze|/briːz/|n.|微風
+gust|/ɡʌst/|n.|陣風
+windy|/ˈwɪndi/|adj.|多風的
+tailwind|/ˈteɪlwɪnd/|n.|順風
+headwind|/ˈhedwɪnd/|n.|逆風
+@出門裝備
+umbrella|/ʌmˈbrelə/|n.|雨傘
+raincoat|/ˈreɪnkəʊt/|n.|雨衣
+sunglasses|/ˈsʌnɡlɑːsɪz/|n.|太陽眼鏡（墨鏡）
+scarf|/skɑːf/|n.|圍巾
+jacket|/ˈdʒækɪt/|n.|外套
+@天氣預報
+forecast|/ˈfɔːkɑːst/|n.|預報
+accuracy|/ˈækjərəsi/|n.|準確度
+humidity|/hjuːˈmɪdəti/|n.|濕度
+temperature|/ˈtemprətʃə(r)/|n.|溫度
+outlook|/ˈaʊtlʊk/|n.|趨勢
+@突發天氣
+thunder|/ˈθʌndə(r)/|n.|雷聲
+lightning|/ˈlaɪtnɪŋ/|n.|閃電
+hail|/heɪl/|n.|冰雹
+slippery|/ˈslɪpəri/|adj.|濕滑的
+drenched|/drentʃt/|adj.|濕透的
+#8|四季生活|Seasonal Life
+@春天活動
+blossom|/ˈblɒsəm/|v.|開花
+sprout|/spraʊt/|v.|發芽
+allergy|/ˈælədʒi/|n.|過敏
+breeze|/briːz/|n.|春風（微風）
+outing|/ˈaʊtɪŋ/|n.|踏青（郊遊）
+@夏天特色
+heatwave|/ˈhiːtweɪv/|n.|熱浪
+thunderstorm|/ˈθʌndəstɔːm/|n.|雷陣雨
+shade|/ʃeɪd/|n.|陰涼處
+air-conditioning|/ˈeəkənˌdɪʃənɪŋ/|n.|冷氣（空調）
+firefly|/ˈfaɪəflaɪ/|n.|螢火蟲
+@秋天景象
+harvest|/ˈhɑːvɪst/|n.|收穫
+golden|/ˈɡəʊldən/|adj.|金黃的
+leaf fall|||落葉
+coolness|/ˈkuːlnəs/|n.|涼意
+migration|/maɪˈɡreɪʃn/|n.|遷徙
+@冬天體驗
+snowfall|/ˈsnəʊfɔːl/|n.|降雪
+frost|/frɒst/|n.|霜凍
+freeze|/friːz/|v.|結冰
+breath mist|||哈氣白霧
+winter sleep|||冬眠
+@換季煩惱
+shedding|/ˈʃedɪŋ/|n.|（毛髮）脫落
+dryness|/ˈdraɪnəs/|n.|乾燥
+humidity|/hjuːˈmɪdəti/|n.|潮濕
+static|/ˈstætɪk/|n.|靜電
+fatigue|/fəˈtiːɡ/|n.|疲憊
+@晝夜變化
+dawn|/dɔːn/|n.|黎明
+at dawn|||在黎明時分
+dusk|/dʌsk/|n.|黃昏
+at dusk|||在黃昏時分
+daylength|/ˈdeɪleŋθ/|n.|日照時長
+#9|氣候與環境|Climate & Environment
+@乾燥濕潤
+dry|/draɪ/|adj.|乾燥的
+stay dry|||保持乾燥
+damp|/dæmp/|adj.|潮濕的
+feel damp|||感到潮濕
+peeling|/ˈpiːlɪŋ/|adj.|脫皮的
+@冷暖差異
+radiator|/ˈreɪdieɪtə(r)/|n.|暖氣片
+heater|/ˈhiːtə(r)/|n.|暖氣機（取暖器）
+thermal|/ˈθɜːml/|adj.|保暖的
+chilly|/ˈtʃɪli/|adj.|陰冷的
+indoors|/ˌɪnˈdɔːz/|adv.|室內
+@空氣品質
+smog|/smɒɡ/|n.|霧霾
+heavy smog|||嚴重霧霾
+haze|/heɪz/|n.|霾
+exhaust|/ɪɡˈzɔːst/|n.|廢氣（尾氣）
+vehicle exhaust|||汽機車廢氣
+@極端天氣
+typhoon|/taɪˈfuːn/|n.|颱風
+blizzard|/ˈblɪzəd/|n.|暴風雪
+flood|/flʌd/|n.|洪水
+drought|/draʊt/|n.|乾旱
+landslide|/ˈlændslaɪd/|n.|山崩（山體滑坡）
+@居住舒適度
+livable|/ˈlɪvəbl/|adj.|宜居的
+comfortable|/ˈkʌmftəbl/|adj.|舒適的
+spacious|/ˈspeɪʃəs/|adj.|寬敞的
+airy|/ˈeəri/|adj.|通風良好的
+homey|/ˈhəʊmi/|adj.|溫馨的
+@全球話題
+warming|/ˈwɔːmɪŋ/|n.|變暖
+global warming|||全球暖化
+effect|/ɪˈfekt/|n.|效應
+greenhouse effect|||溫室效應
+melting ice caps|||冰帽融化
+#10|動物朋友|Animal Friends
+@外貌描寫
+furry|/ˈfɜːri/|adj.|毛茸茸的
+spotted|/ˈspɒtɪd/|adj.|有斑點的
+striped|/straɪpt/|adj.|有條紋的
+feathery|/ˈfeðəri/|adj.|覆羽毛的
+scaly|/ˈskeɪli/|adj.|有鱗片的
+@身體部位
+paw|/pɔː/|n.|爪子（肉掌）
+talon|/ˈtælən/|n.|利爪
+tail|/teɪl/|n.|尾巴
+beak|/biːk/|n.|鳥嘴
+hoof|/huːf/|n.|蹄
+@動作行為
+pounce|/paʊns/|v.|猛撲
+stalk|/stɔːk/|v.|悄悄跟蹤
+soar|/sɔː(r)/|v.|翱翔
+slither|/ˈslɪðə(r)/|v.|（蛇）爬行
+wag|/wæɡ/|v.|搖動（尾巴）
+@性格描述
+gentle|/ˈdʒentl/|adj.|溫順的
+adorable|/əˈdɔːrəbl/|adj.|可愛的
+cunning|/ˈkʌnɪŋ/|adj.|狡猾的
+aggressive|/əˈɡresɪv/|adj.|好鬥的
+fierce|/fɪəs/|adj.|兇猛的
+@叫聲
+roar|/rɔː(r)/|v.|吼叫
+howl|/haʊl/|v.|嚎叫
+quack|/kwæk/|v.|嘎嘎叫
+squeak|/skwiːk/|v.|吱吱叫
+buzz|/bʌz/|v.|嗡嗡叫
+@生命階段
+newborn|/ˈnjuːbɔːn/|adj.|新生的
+cub|/kʌb/|n.|幼獸
+mature|/məˈtʃʊə(r)/|adj.|成熟的
+pregnant|/ˈpreɡnənt/|adj.|懷孕的
+extinct|/ɪkˈstɪŋkt/|adj.|滅絕的
+#11|花草樹木|Flowers & Trees
+@花的形態
+bud|/bʌd/|n.|花苞
+petal|/ˈpetl/|n.|花瓣
+pollen|/ˈpɒlən/|n.|花粉
+nectar|/ˈnektə(r)/|n.|花蜜
+blossom|/ˈblɒsəm/|n.|花朵
+@葉子狀態
+vein|/veɪn/|n.|葉脈
+waxy|/ˈwæksi/|adj.|蠟質的
+curled|/kɜːld/|adj.|捲曲的
+broad|/brɔːd/|adj.|寬大的
+wilted|/ˈwɪltɪd/|adj.|枯萎的
+@植物護理
+water|/ˈwɔːtə(r)/|v.|澆水
+fertilize|/ˈfɜːtəlaɪz/|v.|施肥
+trim|/trɪm/|v.|修剪
+repot|/ˌriːˈpɒt/|v.|換盆
+spray|/spreɪ/|v.|噴灑
+@生長過程
+sprout|/spraʊt/|v.|發芽
+root|/ruːt/|v.|生根
+thrive|/θraɪv/|v.|茁壯成長
+ripen|/ˈraɪpən/|v.|成熟
+wither|/ˈwɪðə(r)/|v.|枯萎
+@觸感氣味
+prickly|/ˈprɪkli/|adj.|扎手的
+sticky|/ˈstɪki/|adj.|黏手的
+fragrant|/ˈfreɪɡrənt/|adj.|芬芳的
+fuzzy|/ˈfʌzi/|adj.|毛茸茸的
+woody|/ˈwʊdi/|adj.|木質氣味的
+@常見植物
+grass|/ɡrɑːs/|n.|草
+tree|/triː/|n.|樹
+flower|/ˈflaʊə(r)/|n.|花
+vine|/vaɪn/|n.|藤蔓
+fern|/fɜːn/|n.|蕨類植物
+#12|綠色生活|Green Living
+@垃圾處理
+classify|/ˈklæsɪfaɪ/|v.|分類
+dump|/dʌmp/|v.|丟棄
+recycle|/ˌriːˈsaɪkl/|v.|回收利用
+burn|/bɜːn/|v.|燃燒；焚燒
+littering|/ˈlɪtərɪŋ/|n.|亂丟垃圾
+@減少浪費
+reuse|/ˌriːˈjuːz/|v.|再利用
+repurpose|/ˌriːˈpɜːpəs/|v.|改作他用（重新利用）
+resist|/rɪˈzɪst/|v.|抵制
+thrift|/θrɪft/|n.|節儉
+minimalism|/ˈmɪnɪməlɪzəm/|n.|極簡主義
+@污染現象
+sewage|/ˈsuːɪdʒ/|n.|污水
+odor|/ˈəʊdə(r)/|n.|氣味（臭味）
+plastic|/ˈplæstɪk/|n.|塑膠
+acid rain|||酸雨
+industrial waste|||工業廢棄物
+@節約能源
+conserve|/kənˈsɜːv/|v.|節約
+efficient|/ɪˈfɪʃnt/|adj.|高效的
+standby|/ˈstændbaɪ/|n.|待機
+insulation|/ˌɪnsjuˈleɪʃn/|n.|隔熱
+optimize|/ˈɒptɪmaɪz/|v.|優化
+@環保產品
+non-toxic|/ˌnɒnˈtɒksɪk/|adj.|無毒的
+recycled|/ˌriːˈsaɪkld/|adj.|再生的
+solar|/ˈsəʊlə(r)/|adj.|太陽能的
+biodegradable|/ˌbaɪəʊdɪˈɡreɪdəbl/|adj.|可生物分解的
+refillable|/ˌriːˈfɪləbl/|adj.|可補充的
+@自然保護
+conservation|/ˌkɒnsəˈveɪʃn/|n.|保育（保護）
+wildlife conservation|||野生動物保育
+habitat|/ˈhæbɪtæt/|n.|棲息地
+natural habitat|||自然棲息地
+sustainable|/səˈsteɪnəbl/|adj.|永續的（可持續的）
+#13|戶外玩樂|Outdoor Fun
+@徒步登山
+backpack|/ˈbækpæk/|n.|背包
+ascent|/əˈsent/|n.|上坡攀登
+descent|/dɪˈsent/|n.|下坡路段
+trail|/treɪl/|n.|小徑（步道）
+viewpoint|/ˈvjuːpɔɪnt/|n.|觀景點
+@露營野餐
+tent|/tent/|n.|帳篷
+campfire|/ˈkæmpfaɪə(r)/|n.|營火
+sleeping bag|||睡袋
+hammock|/ˈhæmək/|n.|吊床
+outdoor|/ˈaʊtdɔː(r)/|adj.|戶外的
+@釣魚捉蝦
+rod|/rɒd/|n.|釣竿
+bait|/beɪt/|n.|魚餌
+net|/net/|n.|網
+angler|/ˈæŋɡlə(r)/|n.|釣魚者
+nibble|/ˈnɪbl/|v.|輕咬
+@騎行跑步
+helmet|/ˈhelmɪt/|n.|安全帽（頭盔）
+pace|/peɪs/|n.|配速
+sprint|/sprɪnt/|v.|衝刺跑
+endurance|/ɪnˈdjʊərəns/|n.|耐力
+sweat|/swet/|v.|出汗
+@滑雪滑冰
+ski|/skiː/|n.|滑雪板
+skate|/skeɪt/|n.|冰鞋
+glide|/ɡlaɪd/|v.|滑行
+slope|/sləʊp/|n.|斜坡
+chill|/tʃɪl/|n.|寒意
+@觀察自然
+binoculars|/bɪˈnɒkjələz/|n.|雙筒望遠鏡
+observe|/əbˈzɜːv/|v.|觀察
+sketch|/sketʃ/|v.|素描
+explore|/ɪkˈsplɔː(r)/|v.|探索
+stillness|/ˈstɪlnəs/|n.|寧靜
+#14|仰望星空|Stars & Space
+@日月變化
+sunrise|/ˈsʌnraɪz/|n.|日出
+sunset|/ˈsʌnset/|n.|日落
+afterglow|/ˈɑːftəɡləʊ/|n.|餘暉
+crescent|/ˈkresnt/|n.|新月
+twilight|/ˈtwaɪlaɪt/|n.|暮光
+@星空描述
+universe|/ˈjuːnɪvɜːs/|n.|宇宙
+Milky Way|||銀河
+North Star|||北極星
+distant|/ˈdɪstənt/|adj.|遙遠的
+twinkle|/ˈtwɪŋkl/|v.|閃爍
+@雲彩形狀
+floating|/ˈfləʊtɪŋ/|adj.|漂浮的
+floating in the sky|||漂浮在天空中
+wispy|/ˈwɪspi/|adj.|輕薄的
+wispy clouds|||輕薄的雲
+drifting|/ˈdrɪftɪŋ/|adj.|飄移的
+@特殊天象
+rainbow|/ˈreɪnbəʊ/|n.|彩虹
+shooting star|||流星
+comet|/ˈkɒmɪt/|n.|彗星
+halo|/ˈheɪləʊ/|n.|光環
+aurora|/ɔːˈrɔːrə/|n.|極光
+@仰望動作
+look up|||抬頭仰望
+point at|||指向
+reflect on|||沉思
+count the stars|||數星星
+make a wish|||許願
+@天空顏色
+pinkish|/ˈpɪŋkɪʃ/|adj.|粉色的
+purple|/ˈpɜːpl/|adj.|紫色的
+crimson|/ˈkrɪmzn/|adj.|深紅色的
+glow|/ɡləʊ/|n.|微光
+pitch-black|||漆黑的
+#15|自然災害|Natural Disasters
+@地震相關
+earthquake|/ˈɜːθkweɪk/|n.|地震
+tremor|/ˈtremə(r)/|n.|震動
+aftershock|/ˈɑːftəʃɒk/|n.|餘震
+collapse|/kəˈlæps/|n.|倒塌
+crack|/kræk/|n.|裂縫
+@洪水颱風
+flood|/flʌd/|n.|洪水
+hurricane|/ˈhʌrɪkən/|n.|颶風
+typhoon|/taɪˈfuːn/|n.|颱風
+evacuate|/ɪˈvækjueɪt/|v.|撤離
+sandbags|/ˈsændbæɡz/|n.|沙包
+@火災預警
+fire|/ˈfaɪə(r)/|n.|火災
+smoke|/sməʊk/|n.|煙霧
+ignite|/ɪɡˈnaɪt/|v.|點燃
+alarm|/əˈlɑːm/|n.|警報
+extinguish|/ɪkˈstɪŋɡwɪʃ/|v.|撲滅
+@災害後果
+blackout|/ˈblækaʊt/|n.|停電
+shortage|/ˈʃɔːtɪdʒ/|n.|短缺
+blocked|/blɒkt/|adj.|封堵的
+homeless|/ˈhəʊmləs/|adj.|無家可歸的
+injury|/ˈɪndʒəri/|n.|受傷
+@應急包
+flashlight|/ˈflæʃlaɪt/|n.|手電筒
+bandage|/ˈbændɪdʒ/|n.|繃帶
+radio|/ˈreɪdiəʊ/|n.|收音機
+lighter|/ˈlaɪtə(r)/|n.|打火機
+bottled water|||瓶裝水
+@求救信號
+SOS|||求救信號
+HELP|||呼救
+rescuer|/ˈreskjuːə(r)/|n.|救援人員
+survivor|/səˈvaɪvə(r)/|n.|倖存者
+safe zone|||安全區域
